@@ -1,0 +1,1170 @@
+[
+  {
+    "chapter": 6,
+    "number": 1,
+    "stem_md": "Type 2 diabetes mellitus (DM) is a global epidemic, affecting individuals in developing as well as developed countries.\n\n**What will be the projected prevalence of diabetes in 2030, based on estimates by the International Diabetes Federation?**",
+    "image": null,
+    "options": {
+      "A": "50 million",
+      "B": "360 million",
+      "C": "578 million",
+      "D": "1 billion",
+      "E": "1.56 billion"
+    },
+    "correct": "C",
+    "explanation_md": "According to the International Diabetes Federation statistics, 463 million people are currently afflicted by diabetes, and the numbers will rise to 578 million by 2030. Diabetes affects people of all ages, typically showing higher prevalence with increasing age up to 60–69 years. Four out of every five adults with undiagnosed diabetes live in low- and middle-income countries, where 87% of diabetes-related deaths occur.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 2,
+    "stem_md": "A 53-year-old woman presented with symptoms of increased thirst, weight loss and an increased frequency of passing urine. She had a background medical history of bronchial asthma for which she occasionally used a salbutamol inhaler. On examination, her BMI was 29 kg/m². Her general physical and systemic examination was unremarkable except for central adiposity. Her fasting and random glucose readings were 6.5 and 9.2 mmol/L, respectively.\n\n**Which one of the following biochemical cut-offs are diagnostic of diabetes, based on World Health Organization (WHO) criteria?**",
+    "image": null,
+    "options": {
+      "A": "1-hour plasma glucose ≥11.1 on oral glucose tolerance test",
+      "B": "Fasting glucose ≥6 mmol/L, with osmotic symptoms",
+      "C": "Fasting glucose ≥7 mmol/L in an asymptomatic patient",
+      "D": "Random glucose ≥8.5 mmol/L in an asymptomatic patient",
+      "E": "Random glucose ≥11.1 mmol/L, with osmotic symptoms"
+    },
+    "correct": "E",
+    "explanation_md": "According to the World Health Organization (WHO) criteria for the diagnosis of diabetes:\n\n- A patient is diagnosed to have diabetes if he/she has osmotic symptoms, with biochemical evidence of random glucose ≥11.1 mmol/L; or fasting glucose ≥7 mmol/L; or 2-hour plasma glucose ≥11.1 on oral glucose tolerance test.\n- An asymptomatic patient is diagnosed to have diabetes if he/she has biochemical evidence of fasting glucose ≥7 mmol/L or random glucose ≥11.1, with a second confirmatory plasma venous glucose measurement to be repeated on another day, with the glucose reading in the diabetic range (fasting, random, or 2-hour post-glucose tolerance test).\n- In 2011, the WHO criteria added HbA1c as a diagnostic tool, with a cut-off of 6.5% (48 mmol/mol) needed to diagnose diabetes.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 3,
+    "stem_md": "HbA1c is a commonly used tool that is employed for the diagnosis of diabetes. Although it is highly specific for the diagnosis of diabetes, it is not particularly sensitive, with relatively more probability of obtaining a false negative test result.\n\n**Which one of the following is an appropriate indication for the use of HbA1c for the diagnosis of diabetes?**",
+    "image": null,
+    "options": {
+      "A": "Children",
+      "B": "Diabetes in adulthood",
+      "C": "Patients on steroids",
+      "D": "Patients with acute pancreatic damage",
+      "E": "Pregnancy"
+    },
+    "correct": "B",
+    "explanation_md": "HbA1c is not appropriate for use in the diagnosis of diabetes in the following situations:\n\n- Patients on steroids or antipsychotics that can increase blood glucose readings\n- Patients with acute pancreatic damage\n- Pregnancy\n- Patients suspected of having Type 1 DM\n- Children and young adults\n- Haemoglobinopathies, which can influence HbA1c results\n- Patients with short duration of osmotic symptoms.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 4,
+    "stem_md": "A 38-year-old man of Afro-Caribbean origin presented to the medical assessment unit with a 2-day history of feeling nauseous and generally unwell. He had a strong family history of diabetes. On examination, he had a BMI of 29 kg/m², with features of dehydration, a pulse rate of 104 beats/minute, and blood pressure of 90 mmHg systolic. His systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Blood sugar | 28 mmol/L | |\n| pH | 7.37 | 7.35–7.45 |\n| HCO3 | 23 mmol/L | 22–27 |\n| Na | 134 mmol/L | 135–145 |\n| K | 4.5 mmol/L | 3.5–4.5 |\n| Amylase | 22 IU/L | <125 |\n| Urine | Sugar +++, ketones 4+ | |\n\nHe was initially managed on a basis of insulin and intravenous fluids. He made a good clinical recovery and was discharged home with pre-mix insulin (70/30) injections bd. His subsequent blood tests show a negative anti-glutamic acid decarboxylase (GAD) antibody status.\n\n**Which one of the following is the most appropriate management approach for him when he is reviewed in a follow-up clinic visit in 4 weeks’ time?**",
+    "image": null,
+    "options": {
+      "A": "Consideration for insulin pump therapy",
+      "B": "Continue insulin therapy life long",
+      "C": "Switch to metformin",
+      "D": "Switch to pioglitazone",
+      "E": "Switch to sulfonylureas"
+    },
+    "correct": "C",
+    "explanation_md": "Ketosis-prone diabetes is more common in black and Hispanic ethnic subgroups. The patients are generally obese and may present with features of diabetic ketoacidosis. The autoimmune antibody status (anti-GAD antibodies) is generally negative. The management is initially on the lines of diabetic ketoacidosis (fluids/insulin/potassium replacement). Most of these patients can be managed on oral hypoglycaemic agents, with the discontinuation of insulin therapy within a few weeks to months.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 5,
+    "stem_md": "A 32-year-old woman presented to her GP with osmotic symptoms (polydipsia and polyuria). She had a background history of sensorineural deafness, with a strong family history of diabetes (mother, maternal grandmother, and a few maternal cousins having Type 1 or Type 2). On examination, she had a BMI of 22 kg/m², with no clinical features of Cushing’s syndrome or hirsutism.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Blood sugar | 15.5 mmol/L | |\n| pH | 7.37 | 7.35–7.45 |\n| Venous HCO3 | 23 mmol/L | 22–27 |\n| Sodium | 138 mmol/L | 135–145 |\n| Potassium | 4.2 mmol/L | 3.5–4.5 |\n\n**Which one of the following is the most appropriate initial therapy, based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Incretins",
+      "B": "Insulin",
+      "C": "Metformin",
+      "D": "Pioglitazone",
+      "E": "Sulfonylurea"
+    },
+    "correct": "E",
+    "explanation_md": "Mitochondrial diabetes is suspected in female patients with a strong familial clustering of diabetes, with predominantly maternal transmission of disease and the presence of sensorineural deafness. The degree and severity of insulinopenia is variable, with patients developing either Type 1 or Type 2 DM. The underlying defect in the majority of patients is the mitochondrial gene mutation (*A3243G*). The initial treatment of individuals with Type 2 DM presentation due to an underlying mitochondrial mutation can be with sulfonylureas. Metformin is contraindicated due to the risk of development of lactic acidosis. Hearing defects usually precede the development of diabetes in these patients.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 6,
+    "stem_md": "**Which one of the following specific membrane glucose transporters is present in the highest concentration in pancreatic beta cells?**",
+    "image": null,
+    "options": {
+      "A": "GLUT 1",
+      "B": "GLUT 2",
+      "C": "GLUT 4",
+      "D": "GLUT 5",
+      "E": "Sodium-dependent glucose transporter"
+    },
+    "correct": "B",
+    "explanation_md": "Specific membrane transporters are involved in the transport of glucose into the cells. There are two major categories of these membrane transporters—sodium-dependent and sodium-independent. The sodium-dependent transporters absorb glucose against its concentration gradient, while the sodium-independent transporters have an insulin-responsive isoform and further subdivide into Glut 1–7. Glut 2 is expressed in highest concentrations in pancreatic β cells, the basolateral membrane of the intestine, renal epithelial cells, and hepatocytes. Glut 4 is expressed in highest concentrations in insulin-sensitive tissue such as skeletal and cardiac muscle, with adipose tissue. Glut 5 is the only transporter that has higher specificity for fructose.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 7,
+    "stem_md": "A 26-year-old Caucasian man with a background history of Type 1 DM is keen to know the risk of his offspring developing diabetes. His wife does not have diabetes or pre-diabetes.\n\n**What is the risk of developing Type 1 DM for a baby born to a father with Type 1 DM?**",
+    "image": null,
+    "options": {
+      "A": "<1%",
+      "B": "1–2%",
+      "C": "3–6%",
+      "D": "10%",
+      "E": "25%"
+    },
+    "correct": "C",
+    "explanation_md": "The overall lifetime risk of developing Type 1 diabetes in a Caucasian population is currently 0.4%. The risk of developing Type 1 DM is around 1–2% for babies born to mothers with Type 1 DM (see Table 6.1). This risk increases to 3–6% if the father of the baby has Type 1 DM (and the mother does not have diabetes). The risk is 5–6 % if a sibling has Type 1 diabetes, while the concordance rate of developing Type 1 DM is ~50% in monozygotic twins.\n\n**Table 6.1** Inheritance rate of Type 1 and Type 2 DM\n\n| | Type 1 DM | Type 2 DM |\n|---|---|---|\n| Concordance rate in monozygotic twins | ~50% | 60–100 % |\n| Mother with diabetes | 1–2% increased risk | ~25% |\n| Father with diabetes | 3–6% increased risk | ~25% |",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 8,
+    "stem_md": "A 34-year-old woman presented to her primary care physician with osmotic symptoms such as polydipsia and polyuria. On examination, she had a BMI of 32 kg/m², with no phenotypic features of Cushing’s syndrome. Her fasting blood glucose readings were in the range of 8–9 mmol/L. She was keen to know the risk of the development of Type 2 DM in her twin sister.\n\n**What is the concordance rate of developing Type 2 DM in monozygotic twins?**",
+    "image": null,
+    "options": {
+      "A": "<5%",
+      "B": "5–10%",
+      "C": "25%",
+      "D": "30–50%",
+      "E": "60–100%"
+    },
+    "correct": "E",
+    "explanation_md": "The concordance rate of developing Type 2 DM in monozygotic twins is 60–100% as compared with a 30–35% concordance rate of developing Type 1 DM. This is indicative of a stronger genetic component to developing Type 2 DM as compared with Type 1 DM, although the human leukocyte antigen (HLA)-linked genes such as the *HLA-DR3-DQ2/DR4-DQ8* genotype are more strongly associated with the risk of developing later (20-fold increase of developing Type 1 DM as compared with the general population), rather than the former.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 9,
+    "stem_md": "As part of a research trial, a healthy medical student was detected to have glutamic acid decarboxylase 65 (GAD65), insulin autoantibodies (IAA), and insulinoma-associated antigen-2 autoantibodies (IA-2A) in her blood.\n\n**What is the probability of her developing Type 1 DM in the next 10 years on incidental detection of these three antibodies in her blood?**",
+    "image": null,
+    "options": {
+      "A": "<10%",
+      "B": "15–25%",
+      "C": "50–60%",
+      "D": "80–90%",
+      "E": "≥99%"
+    },
+    "correct": "D",
+    "explanation_md": "The presence of β cell autoantibodies is currently deemed as the earliest established sign of autoimmunity against the pancreatic islet β cells. Glutamic acid decarboxylase (GAD65), insulin autoantibodies (IAA), insulinoma-associated antigen-2 autoantibodies (IA-2A), and zinc transporter 8 autoantibodies (ZnT8A) are the primary antibodies against islet cells.\n\n- Islet cell antibodies are rarely detected before the age of 6 months.\n- Peak incidence for appearance of IAA2 and GAD antibodies is 9–24 months and 36 months respectively.\n- 70% of Type 1 DM patients have three or four antibodies, while in 10% at least one autoantibody is present.\n- Presence of IA2 and ZnT8 is associated with relatively rapid progression to Type 1 DM.\n- The presence of three out of four autoantibodies in the blood of a patient without diabetes increases the 10-year risk of development of Type 1 DM to 80–90%.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 10,
+    "stem_md": "A 40-year-old schoolteacher presented to the medical assessment unit with a 2-month history of osmotic symptoms and elevated blood glucose levels. There was no family history of diabetes and she was not on any medication. On examination, her BMI was 22 kg/m², with normal general physical and systemic examination.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Random blood sugar | 16.5 mmol/L | |\n| pH | 7.40 | 7.35–7.45 |\n| HCO3 | 25 mmol/L | 22–27 |\n| Na | 140 mmol/L | 135–145 |\n| K | 3.7 mmol/L | 3.5–4.5 |\n| Urine | Sugar ++; ketones negative | |\n\n**Which one of the following tests may be useful in establishing the underlying diagnosis, considering her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Anti-GAD antibody",
+      "B": "Mitochondrial gene mutation (A3243G)",
+      "C": "Oral glucose tolerance test",
+      "D": "Serum ferritin and total iron-binding capacity",
+      "E": "Toxicology screen"
+    },
+    "correct": "A",
+    "explanation_md": "Latent autoimmune diabetes of adulthood is a subtype of diabetes in which patients may present with phenotypic features of Type 2 DM, while displaying the presence of markers of autoimmunity (anti-GAD antibodies). Most of these patients are in the age group of 30–50 years, may or may not have a normal BMI (obesity can be a confounding factor), and may present with elevated blood glucose levels, with osmotic symptoms. These patients can be managed initially with oral hypoglycaemic agents, although the β-cell function may decline over months to a few years, necessitating a relatively early requirement for insulin use.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 11,
+    "stem_md": "A neonate aged 6 weeks presented to the paediatric emergency unit with failure to thrive and dehydration. His blood tests showed elevated blood glucose levels with low serum bicarbonate and elevated ketones, consistent with a diagnosis of diabetic ketoacidosis.\n\n**Which one of the following genetic mutations is associated with development of neonatal diabetes?**",
+    "image": null,
+    "options": {
+      "A": "Anti-islet cell antibodies",
+      "B": "Hepatocyte nuclear factor (HNF)-1α",
+      "C": "Hepatocyte nuclear factor (HNF)-4β",
+      "D": "Insulin promotor factor (IPF)-1",
+      "E": "Potassium β cell K ATP channel (KCNJ11 and ABCC8)"
+    },
+    "correct": "E",
+    "explanation_md": "Neonatal diabetes usually develops within the first 6 months of birth and is associated with gene mutations such as *KCNJ11* and *ABCC8* (encoding for KIR 6.2 and SUR1 subunit of pancreatic K-ATP channel involved in insulin secretion). Treatment is with insulin and a high caloric intake initially, although the patients may be responsive to sulfonylurea therapy and a switch to sulfonylureas should be considered once clinically stable.\n\nThe following features help to distinguish monogenetic diabetes from Type 1 DM in children:\n\n- Onset within 6 months of birth (*KCNJ11* or *ABCC8* mutation)\n- Milder hyperglycaemia (glucokinase mutation)\n- Asymptomatic hyperglycaemia.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 12,
+    "stem_md": "A 29-year-old woman was referred to the antenatal clinic as she had been labelled as having gestational diabetes (GDM) during her previous pregnancy. She had a family history of Type 2 DM (mother). On examination, her BMI was 23 kg/m². An oral glucose tolerance test (OGTT) carried out during the first trimester showed the following results: 0-minutes blood glucose 5.8 mmol/L; 2-hour blood glucose 8.9 mmol/L.\n\nIn her previous pregnancy, she had been treated with basal insulin to control her fasting hyperglycaemia. She had not required insulin during the post-partum period.\n\n**Which of the following is the most likely diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "GDM",
+      "B": "Latent autoimmune diabetes of adulthood (LADA)",
+      "C": "Monogenic diabetes",
+      "D": "Type 1 DM",
+      "E": "Type 2 DM"
+    },
+    "correct": "C",
+    "explanation_md": "Glucokinase (GCK) mutation is associated with altered glucose sensing in the pancreatic β-cells, leading to mild hyperglycaemia with elevated fasting blood glucose readings (typically 5.5–8 mmol/L). Maturity-onset diabetes of the young (MODY) due to GCK mutation is usually asymptomatic; treatment is not needed and there is no risk of any diabetes complications, hence no need for the usual diabetes screening. However, if GCK MODY is confirmed in the mother, insulin might be considered to prevent foetal macrosomia (this can be considered in foetuses with a rising abdominal circumference >70th centile). As it can be difficult to distinguish it from gestational diabetes mellitus (GDM), the following clinical criteria can increase the rate of detection for GCK-MODY:\n\n1. Persisting fasting hyperglycaemia (5.5–8 mmol/L)\n2. A small 2-hour increment (<4.6mmol/L) during OGTT, in or outside pregnancy (in contrast, patients with GDM often have normal fasting plasma glucose with a relatively larger plasma glucose increment at 2 hours on OGTT)\n3. Fasting glucose intolerance diagnosed in the first trimester\n4. Slim rather than overweight or obese, although obesity does not exclude the diagnosis\n5. Previous insulin treatment used during pregnancy (usually in an attempt to lower fasting glucose) but, post-delivery, controlled on diet\n6. History of GDM or fasting hyperglycaemia (>5.5mmol/L) or Type 2 DM in a first-degree relative\n\nFurther information on the management of pregnancy in patients with hyperglycaemia due to disease-causing variants in the glucokinase (*GCK*) gene can be found at the DiabeticGenes website. https://www.diabetesgenes.org/what-is-mody/what-is-glucokinase-gck/",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 13,
+    "stem_md": "A 25-year-old man was incidentally detected to have elevated fasting as well as post-prandial blood glucose readings on routine blood tests. He had a background medical history of a renal cyst, which had been managed conservatively. He also had a strong family history of diabetes, with some of his first cousins, uncles, and grandparents having diabetes requiring medications or insulin. On examination, he had a BMI of 21 kg/m², with no peripheral stigmata of insulin resistance, such as acanthosis nigricans.\n\n**Which one of the following genetic mutations is most likely, based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Glucokinase",
+      "B": "HNF-1α",
+      "C": "HNF-1β",
+      "D": "HNF-4 α",
+      "E": "IPF"
+    },
+    "correct": "C",
+    "explanation_md": "Monogenic diabetes usually affects 1–2% of individuals with diabetes, although most cases remain unrecognized. The characteristics of monogenic diabetes include a diagnosis before the fourth decade of age, a strong family history of diabetes, and absence of surrogate markers of insulin resistance (lack of central obesity, acanthosis nigricans, dyslipidaemia).\n\nHNF-1B mutation is characterized by an association with genitourinary malformations, such as renal cysts and uterine abnormalities.\n\nTable 6.2 summarizes the characteristic features of various subtypes of monogenic diabetes.\n\n**Table 6.2** Characteristic features of various subtypes of monogenic diabetes\n\n| Name | Previous name | Prevalence (% of total patients with monogenic diabetes) | Clinical features |\n|---|---|---|---|\n| *HNF-4A* | MODY 1 | 5–10% | Progressive cell decline, neonatal hyperinsulinaemia, and hypoglycaemia; responsive to sulfonylureas |\n| Glucokinase MODY | MODY 2 | 30–70% | No risk of development of microvascular complications; mild fasting hyperglycaemia (5.5–8 mmol/L), HbA1c remains stable over life (HbA1c <64 mmol/L) |\n| *HNF-1A MODY* | MODY 3 | 30–70% | Associated with progressive decline in B-cell function and risk of microvascular complications; marked sensitivity to sulfonylureas therapy |\n| *IPF1* | MODY 4 | <1% | Onset after age >35 years; pancreatic agenesis in homozygotes |\n| *HNF1B MODY* | MODY5 | 5–10% | Associated with renal cysts and genitourinary tract malformations |\n| *KCNJ11* ABCC8 | | <1% | Present with high blood glucose values during first 6 months of life; responsive to sulfonylureas |",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 14,
+    "stem_md": "A 24-year-old woman was reviewed in the diabetes clinic on a routine follow-up visit. She had been diagnosed as having Type 1 DM aged 16 years, when she was noted to have had elevated fasting blood glucose levels on routine blood tests, while undergoing treatment for a urinary tract infection. She had been on a basal-bolus insulin regimen, with a total insulin requirement of 10–12 units/day. She had good glycaemic control, as reflected by HbA1c of 46–50 mmol/mol over the previous 8 years. On examination, she had a BMI of 24 kg/m², with no evidence of diabetic retinopathy or peripheral neuropathy.\n\n**Which one of the following characteristic features should raise the clinical suspicion of MODY in this patient?**",
+    "image": null,
+    "options": {
+      "A": "Absence of microvascular complications",
+      "B": "Elevated fasting blood glucose",
+      "C": "Good glycaemic control",
+      "D": "Low insulin dose requirements",
+      "E": "Multiple hypoglycaemic episodes"
+    },
+    "correct": "D",
+    "explanation_md": "The following laboratory or clinical characteristics should raise the clinical suspicion of MODY in patients labelled as Type 1 DM after 3–5 years of diagnosis:\n\n- Persistent urinary c peptides detection (even if insulin treated)\n- Low insulin dose requirement\n- No tendency to develop diabetic ketoacidosis\n- Absence of anti-GAD and islet cell antigens (ICAs)\n- Strong family history of diabetes\n- Marked sensitivity to sulfonylureas",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 15,
+    "stem_md": "A 40-year-old man presented to his primary care physician with symptoms of polydipsia and polyuria for the previous 6 weeks. He had a strong family history of diabetes, with both his parents and an elder brother on oral hypoglycaemic agents or insulin for blood glucose control. On examination, he had a BMI of 24 kg/m², with the presence of dark hyperpigmented skin in the armpit, although there was no evidence of diabetic retinopathy or peripheral neuropathy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Random blood sugar | 14.2 mmol/L | |\n| pH | 7.43 | 7.35–7.45 |\n| Venous HCO3 | 24 mmol/L | 22–27 |\n| Na | 135 mmol/L | 135–145 |\n| K | 3.5 mmol/L | 3.5–4.5 |\n| Urine | Sugar ++, ketones negative | |\n\n**Which one of the following clinical/biochemical features will support the diagnosis of Type 2 DM (over a diagnosis of monogenic diabetes) in this man?**",
+    "image": null,
+    "options": {
+      "A": "Absence of diabetic ketoacidosis",
+      "B": "Acanthosis nigricans",
+      "C": "Normal BMI",
+      "D": "Osmotic symptoms",
+      "E": "Strong family history of diabetes"
+    },
+    "correct": "B",
+    "explanation_md": "The following clinical characteristics should raise the clinical suspicion of MODY in patients labelled as Type 2 DM:\n\n- Younger age of onset (<45 years, frequently at younger age)\n- Normal BMI\n- Strong family history of diabetes\n- Fasting hyperglycaemia with no or mildly elevated post-prandial glucose (glucokinase mutation)\n- Renal cysts, genitourinary tract abnormalities (HNF-1B mutation)\n- Absence of surrogate markers of insulin resistance, such as acanthosis nigricans, central obesity, dyslipidaemia, hypertension\n- Marked sensitivity to sulfonylurea therapy (HNF-1A or HNF-4A mutation)",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 16,
+    "stem_md": "A 55-year-old man was reviewed in the diabetes clinic on an annual follow-up visit. He had a background history of Type 2 DM for 8 years, and was taking metformin and gliclazide therapy. On examination, he had features of bilateral neuropathy.\n\n**Which one of the following side effects is associated with long-term metformin use?**",
+    "image": null,
+    "options": {
+      "A": "B12 deficiency",
+      "B": "Magnesium deficiency",
+      "C": "Pyridoxine deficiency",
+      "D": "Selenium deficiency",
+      "E": "Thiamine deficiency"
+    },
+    "correct": "A",
+    "explanation_md": "Metformin is the most commonly used first-line medication for the management of Type 2 DM. Its use has been linked with malabsorption of vitamin B12 and intrinsic factor from ileum, which can lead to peripheral neuropathy, mental changes, and macrocytic anaemia. The B12 deficiency with metformin is progressive and routine assessment of B12 levels should be considered in patients on long-term metformin therapy.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 17,
+    "stem_md": "A 66-year-old woman with Type 2 DM for the previous 15 years presented to her primary care physician with symptoms of fatigue and weight loss. She was on metformin and sitagliptin therapy for her diabetes. On examination, she had pallor, with evidence of background diabetic retinopathy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Hb | 12.8 g/L | 12–15 |\n| Na | 140 mmol/L | 135–145 |\n| K | 4.5 mmol/L | 3.5–5.5 |\n| Urea | 28.2 mg/dL | 7–20 |\n| Creatinine | 135 µmol/L | 60–115 |\n| eGFR | 42 mL/minute/1.73 m² | |\n| HbA1c | 55 mmol/mol | <46 |\n\n**According to NICE guidelines, which one of the following is the correct indication to stop metformin therapy in the presence of renal impairment?**",
+    "image": null,
+    "options": {
+      "A": "eGFR <15 mL/minute/1.73 m²",
+      "B": "eGFR <30 mL/minute/1.73 m²",
+      "C": "eGFR <45 mL/minute/1.73 m²",
+      "D": "eGFR <60 mL/minute/1.73 m²",
+      "E": "eGFR <75 mL/minute/1.73 m²"
+    },
+    "correct": "B",
+    "explanation_md": "According to the NICE guidelines (NG28), metformin dose needs to be reviewed if eGFR <45 mL/minute/1.73 m². Metformin therapy should be stopped if eGFR <30 mL/minute/1.73 m².",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 18,
+    "stem_md": "Dipeptidyl peptidase inhibitors 4 (DPP4) inhibit the enzyme DPP4 and prevent breakdown of endogenous incretins.\n\n**Which one of the following DPP4 inhibitors is excreted unchanged in faeces and does not require any dose modification in renal disease?**",
+    "image": null,
+    "options": {
+      "A": "Alogliptin",
+      "B": "Linagliptin",
+      "C": "Saxagliptin",
+      "D": "Sitagliptin",
+      "E": "Vildagliptin"
+    },
+    "correct": "B",
+    "explanation_md": "Linagliptin is a DPP4 inhibitor that is predominantly excreted unchanged in faeces, with metabolism of the drug playing a minor role in overall pharmacokinetics. It is a weak inhibitor of cytochrome P450. There is no dose adjustment required for linagliptin in renal-failure patients.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 19,
+    "stem_md": "Pioglitazone can be used as a second- or third-line therapy when glycaemic control remains poor, especially in the presence of a significant degree of insulin resistance, although the use of this agent has been associated with complications such as fluid retention.\n\n**Which of the following side effects/complications is associated with Pioglitazone use?**",
+    "image": null,
+    "options": {
+      "A": "Achilles tendon rupture",
+      "B": "Macular oedema",
+      "C": "Osteomyelitis",
+      "D": "Renal impairment",
+      "E": "Weight loss"
+    },
+    "correct": "B",
+    "explanation_md": "Pioglitazone and rosiglitazone are thiazolidinedione compounds, which act as peroxisome proliferator-activated receptor γ-agonists and help reduce peripheral insulin resistance. Weight gain of 2–3 kg is relatively common with pioglitazone use and is dose related. Pioglitazone use is also associated with the risk of fluid retention due to peripheral vasodilation and renal sodium retention. In the PROactive trial, Pioglitazone use was associated with a non-significant increase in the number of patients who developed bladder carcinoma. There are case reports linking the development of macular oedema with the use of pioglitazone therapy. This agent has also been associated with an increased risk of fractures (mostly in distal long bones of post-menopausal women).\n\nRosiglitazone use was also associated with increased cardiovascular risks and it was withdrawn from the market in 2010, following a review by the European Medicines Agency.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 20,
+    "stem_md": "Statins are the commonest agents used to manage dyslipidaemia in patients with diabetes, although these have been associated with an increased statistical risk of development of diabetes.\n\n**Which one of the following statins has been associated with a reduction in risk of development of Type 2 DM?**",
+    "image": null,
+    "options": {
+      "A": "Atorvastatin",
+      "B": "Pitavastatin",
+      "C": "Pravastatin",
+      "D": "Rosuvastatin",
+      "E": "Simvastatin"
+    },
+    "correct": "B",
+    "explanation_md": "Statin use has been linked with an increased risk of the development of diabetes. A meta-analysis of five trials (PROVE-IT, A to Z, TNT, IDEAL, and SEARCH), involving more than 32,000 patients without diabetes, compared the effects of high-dose statins with conventional dose statins, with a 12% increased risk of developing diabetes in the former compared with the latter.\n\nIn another meta-analysis of 13 statin trials, 4,278 participants out of a total of 91,140 developed diabetes during a mean period of 4 years, equating to a 9% increased risk for development of diabetes while on statin therapy. Statin use was observed to be associated with an increased risk of development of Type 2 DM with pooled Hazard ratio (HR) (95% CI) for incident diabetes of 1.36 (1.17 to 1.58) in the Diabetes Prevention Program (DPP) outcome study.\n\nAlternatively, the subgroup analysis results of the LIVES (Livalo Effectiveness and Safety) trial have shown improvement in glucose homeostasis, with an increase in HDL-cholesterol levels with pitavastatin use.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 21,
+    "stem_md": "Statin therapy is the mainstay of treatment for patients with familial (homozygous or heterozygous) hypercholesterolaemia.\n\n**Which one of the following biological changes is associated with use of statin therapy?**",
+    "image": null,
+    "options": {
+      "A": "Down-regulation of LDL receptors",
+      "B": "Impaired endothelial function",
+      "C": "Increase in LDL cholesterol",
+      "D": "Reduction in HDL cholesterol",
+      "E": "Up-regulation of PCSK9 expression"
+    },
+    "correct": "E",
+    "explanation_md": "Statins have been the mainstay therapy to lower LDL cholesterol levels in patients with both homozygous, as well as heterozygous hypercholesterolaemia, with efficacy ranging from 15% to 53%, based on the agent and dose used. These agents act by inhibiting the hydroxy-3-methylglutaryl-coenzyme A reductase enzyme. Statins also lead to an up-regulation of both the LDL-receptor, as well as proprotein convertase substilisin kexin 9 (PCKS9) expression. PCSK9 is a key regulator of LDL-C levels as it promotes lysosomal-mediated degradation of the LDL-receptor. The up-regulation of PCSK9 expression significantly attenuates the LDL-C lowering potential of statins.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 22,
+    "stem_md": "Corticosteroids (e.g. dexamethasone, prednisolone) and antipsychotic medications (e.g. olanzapine, risperidone) are commonly prescribed medications which are associated with weight gain and impaired glycaemic control.\n\n**Which of the following medications has also been observed to have an adverse impact on glycaemic control?**",
+    "image": null,
+    "options": {
+      "A": "Citalopram",
+      "B": "Everolimus",
+      "C": "Frusemide",
+      "D": "Pitavastatin",
+      "E": "PCSK9 inhibitors"
+    },
+    "correct": "B",
+    "explanation_md": "High-dose statin use has been associated with an increased risk of development of diabetes. The use of corticosteroids is associated with increased insulin resistance, decreased glucose uptake in muscle, and increased gluconeogenesis. Nicotinic acid use has been linked with worsening of glycaemic control, secondary to increased gluconeogenesis. Protease inhibitors that are used as part of anti-retroviral therapy have been shown to induce insulin resistance by inhibition of the GLUT4 transporter. Atypical antipsychotics, such as olanzapine and clozapine, have been associated with an increased risk of diabetes. mTOR inhibitors and everolimus use have been associated with 5.3% incidence of high-grade hyperglycaemia.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 23,
+    "stem_md": "A 55-year-old man with a background history of Type 2 DM was referred to the diabetes clinic in view of his suboptimal glycaemic control, despite being on metformin and gliclazide therapy. His past medical history included osteoarthritis, dyslipidaemia, and hypertension. On examination, he had a BMI of 35 kg/m², with evidence of pre-proliferative diabetic retinopathy. He was considered for initiation of therapy with glucagon-like peptide receptor agonists (GLP-1 RA) in view of his suboptimal glycaemic control.\n\n**Which one of the following is a correct statement regarding GLP-1 analogue therapy use?**",
+    "image": null,
+    "options": {
+      "A": "GLP1-RA are contraindicated if eGFR<45 mL/minute/1.73 m²",
+      "B": "GLP1 RA should be avoided in patients with background retinopathy",
+      "C": "GLP1-RA should be discontinued if <1% drop of HbA1c at 6 months",
+      "D": "GLP1-RA should be discontinued if <5% body weight loss at 6 months",
+      "E": "GLP1-RA should not be combined with insulin therapy"
+    },
+    "correct": "E",
+    "explanation_md": "According to NICE guidelines, GLP1-RA can be considered if glycaemic control remains suboptimal despite using triple therapy (metformin, a DDP-4 inhibitor, and a sulfonylurea; or metformin, pioglitazone, and a sulfonylurea) and for patients who have:\n\n- a BMI ≥35kg/m² (adjust accordingly for people from black, Asian, and other minority ethnic groups) and specific psychological or other medical problems associated with obesity; or\n- a BMI <35kg/m² and for whom:\n  - insulin therapy would have significant occupational implications or\n  - weight loss would benefit other significant obesity-related comorbidities.\n\nAccording to NICE guidelines, treatment with GLP1-RA needs to be continued only if the person with Type 2 DM has had a beneficial metabolic response (i.e. a reduction of at least 11 mmol/mol [1.0%] in HbA1c and a weight loss of at least 3% of initial body weight in 6 months). GLP-1RA (such as liraglutide, semaglutide, and dulaglutide) can be administered up to an eGFR of 15 mL/min/1.73 m², although these need to be avoided in end-stage renal disease.\n\nMulticentric randomized controlled trials such as LEADER (liraglutide), SUSTAIN 6 (semaglutide), and REWIND (dulaglutide) have shown a trend in reducing incidence of major adverse cardiovascular events (MACE). As a result, the current EASD/ADA consensus supports use of GLP1-RA at an earlier stage for the patients with Type 2 DM.\n\nThe main side effects of GLP-1 analogue therapy are gastrointestinal disturbance, including nausea and vomiting, diarrhoea, and abdominal pain. There is no conclusive evidence related to an increased risk of acute pancreatitis with these agents.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 24,
+    "stem_md": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors have been approved for use in the management of patients with Type 2 DM.\n\n**Which one of the following is a known side effect with use of SGLT2 inhibitors?**",
+    "image": null,
+    "options": {
+      "A": "Acute kidney injury",
+      "B": "Euglycaemic ketoacidosis",
+      "C": "Fluid retention",
+      "D": "Hyperosmolar hyperglycaemic state (HHS)",
+      "E": "Liver failure"
+    },
+    "correct": "B",
+    "explanation_md": "SGLT2 inhibitor use is associated with the increased risk of development of urinary tract and genital infections. The FDA adverse event reporting system noted use of SGLT2 inhibitors being associated with ~7-fold increase in developing acidosis. Out of a total of 192 patients reported to have ketoacidosis, 71% had euglycaemic ketoacidosis.\n\nAn SGLT2 inhibitor (dapagliflozin) can be considered as an option for treating adult patients with Type 1 diabetes, in addition to insulin, if their BMI is at least 27 kg/m² and when insulin alone does not provide adequate glycaemic control despite optimal insulin therapy, only if:\n\n- They are on insulin doses of more than 0.5 units/kg of body weight per day **and**\n- They have completed a structured education programme that is evidence-based, quality-assured, and delivered by trained educators, and includes information about diabetic ketoacidosis on such matters as:\n  - How to recognize its risk factors, signs, and symptoms\n  - How and when to monitor blood ketone levels\n  - What actions to take for elevated blood ketones\n\n  **and**\n- Treatment is started and supervised by a consultant physician specializing in endocrinology and diabetes.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 25,
+    "stem_md": "Gluconeogenesis is a process of generation of glucose from non-glucose sources such as amino-acids, glycerol, fatty acids, and lactate.\n\n**Which one of the following organs participates in the process of gluconeogenesis in human beings?**",
+    "image": null,
+    "options": {
+      "A": "Liver and adipose tissue",
+      "B": "Liver and kidney",
+      "C": "Liver and pancreas",
+      "D": "Pancreas and adipose tissue",
+      "E": "Pancreas and muscles"
+    },
+    "correct": "B",
+    "explanation_md": "The liver and kidneys are the primary organs participating in the process of gluconeogenesis in human beings.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 26,
+    "stem_md": "A 55-year-old man was reviewed in the diabetes clinic on an annual follow-up visit. He had a background history of Type 2 DM (diagnosed 5 years previously), morbid obesity, and dyslipidaemia. He was a non-smoker with an alcohol intake of about 3–4 units/week. On examination, he had central obesity with a BMI of 42 kg/m². His hepatitis screen, iron studies, and autoimmune screen were normal. Ultrasound of the abdomen showed a fatty liver with a normal gall bladder and bile duct.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Albumin | 34 g/L | 30–50 |\n| ALP | 255 U/L | 50–125 |\n| ALT | 82 mU/L | 05–58 |\n| Bilirubin | 1.2 mg/L | 0.1–1 |\n| HbA1c | 95 mmol/mol | <46 |\n\nBased on his clinical profile, together with the results of biochemical and radiological tests, a diagnosis of non-alcoholic fatty liver disease (NAFLD) secondary to diabetes/metabolic syndrome was considered.\n\n**Which one of the following is the cornerstone of management of patients with NAFLD?**",
+    "image": null,
+    "options": {
+      "A": "Avoidance of metformin",
+      "B": "Early use of insulin",
+      "C": "DPP4 inhibitors",
+      "D": "Sulfonylureas",
+      "E": "Weight loss and lifestyle measures"
+    },
+    "correct": "E",
+    "explanation_md": "Type 2 diabetes is associated with a whole spectrum of liver diseases, including abnormal liver function tests, non-alcoholic hepatosteatosis, cirrhosis, and hepatocellular carcinoma. According to the Verona diabetes study, cirrhosis was the fourth leading cause of death in patients with diabetes. Diabetes is also emerging as one of the commonest aetiologies of patients otherwise labelled with cryptogenic cirrhosis. Patients with poorly controlled diabetes characteristically have elevated triglycerides, low HDL cholesterol, elevated LDL-cholesterol levels, with varying degrees of insulin resistance. There is increased lipolysis resulting in elevated levels of free fatty acids and overloading of the hepatic mitochondrial β-oxidation system. Free fatty acids induce the production of oxygen-free radicals and generation of pro-inflammatory cytokines, such as TNF-α, and interleukin-1 and 6, leading to cellular damage.\n\nLifestyle measures remain the cornerstone of management of patients with NAFLD. There is evidence from randomized controlled trials (RCTs) supporting the use of pioglitazone, leading to a reduction in steatohepatitis and a modest effect on fibrosis. DPP4 inhibitors have not been associated with any significant benefit for management of patients with NAFLD, although emerging evidence with use of GLP1 RA (liraglutide) in patients with NAFLD seems promising.",
+    "review": "Answer text printed 'mitochondrial ↓-oxidation'; corrected to 'β-oxidation' as an obvious PDF artefact."
+  },
+  {
+    "chapter": 6,
+    "number": 27,
+    "stem_md": "A 60-year-old man with newly diagnosed Type 2 DM presented to the diabetes clinic with symptoms of low libido, fatigue, and malaise. He also complained of non-specific abdominal pain, with stiffness of the joints. He was a non-smoker and drank 1–2 units of alcohol on a weekly basis. On examination, he had a BMI of 24 kg/m², with no evidence of peripheral neuropathy or diabetic retinopathy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Albumin | 30 g/L | 30–50 |\n| ALP | 205 U/L | 50–125 |\n| ALT | 115 mU/L | 05–58 |\n| Bilirubin | 1.9 mg/L | 0.1–1 |\n| HbA1c | 71 mmol/mol | <46 |\n| Ferritin | 450 pmol/L | 10–300 |\n| Transferrin saturation | 50% | |\n\n**Which one of the following is the probable diagnosis, based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Glycogen storage disease",
+      "B": "Haemochromatosis",
+      "C": "LADA",
+      "D": "Mitochondrial disease",
+      "E": "Pancreatic carcinoma"
+    },
+    "correct": "B",
+    "explanation_md": "Haemochromatosis (bronze diabetes) is a hereditary (*HFE/SCL11A3/HAMP* gene mutations) or acquired (e.g. secondary to repeated blood transfusions) disorder, which leads to excessive iron accumulation in various tissues and organs, such as the pancreas, liver, and heart, and in joints. Patients can present with non-specific symptoms such as fatigue and malaise, low libido, arthritis, late-onset diabetes, liver disorders, bronzed skin, and cardiomyopathy.\n\nPatients with haemochromatosis have an increased transferrin saturation (normal <30%), with elevated ferritin levels (it may be normal in early disease). Liver biopsy and genetic tests are helpful to establish the diagnosis.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 28,
+    "stem_md": "A 33-year-old Caucasian woman was reviewed during a routine antenatal check-up when she was 16 weeks pregnant. It was her second pregnancy, with the birthweight of her first baby being 4.1 kg. She had a family history of Type 1 DM (grandmother). On examination, her BMI was 26.5 kg/m².\n\n**According to NICE guidelines for the management of diabetes in pregnancy, the presence of which of the following factors should act as a trigger to screen for GDM?**",
+    "image": null,
+    "options": {
+      "A": "BMI of 26.5 kg/m²",
+      "B": "Caucasian ethnic origin",
+      "C": "Family history of Type 1 DM",
+      "D": "First baby weighing 4.1 kg",
+      "E": "GDM during first pregnancy"
+    },
+    "correct": "E",
+    "explanation_md": "According to NICE guidelines, the following have been shown as independent risk factors for development of GDM and, thus, the presence of any of the following should trigger screening for GDM:\n\n- BMI >30 kg/m²\n- Family history of Type 2 diabetes (first-degree relatives)\n- Previous GDM\n- Previous macrosomic baby (weighing >4.5 kg)\n- South East Asian, Black Caribbean, or Middle Eastern ethnic origin",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 29,
+    "stem_md": "A 35-year-old woman with Type 1 DM was reviewed in the diabetes clinic on a routine visit. She was on a basal-bolus insulin regimen, with good glycaemic control as evidenced by a HbA1c value of 48 mmol/mol. She was keen to start a family and sought preconception advice. She was known to have hypertension and was on amlodipine tablets. She had no microalbuminuria. An estimated glomerular filtration rate (eGFR) was 57 mL/minute/m². Her last retinal assessment had been carried out 8 months before.\n\n**According to NICE guidelines, which of the following is correct advice regarding management of patients with diabetes in the preconception period?**",
+    "image": null,
+    "options": {
+      "A": "Avoid pregnancy as HbA1c <48 mmol/mol",
+      "B": "Offer 6-monthly HbA1c measurement",
+      "C": "Renal referral as eGFR <60 mL/minute/1.73 m²",
+      "D": "Retinal assessment as last one carried out >6 months ago",
+      "E": "Target pre-meal plasma glucose reading of 5–8 mmol/mol"
+    },
+    "correct": "D",
+    "explanation_md": "According to NICE guidelines for the management of diabetes in pregnancy (NG3), preconception care and assessment of patients with diabetes should include:\n\n- Folic acid supplement (5 mg/day) until week 12 of pregnancy\n- Self-monitoring of blood glucose\n- Ketone testing strips to women with Type 1 DM\n- Offer of up to monthly HbA1c\n- Retinal assessment, if not done in the previous 6 months\n- Renal assessment and consideration for referral to renal physician if:\n  - eGFR <45 mL/minute/1.73 m², or\n  - Serum creatinine is 120 mmol/L or more, or\n  - Urinary albumin to creatinine ratio is greater than 30 mg/mmol\n- Strong advice to avoid pregnancy if HbA1c >86 mmol/mol (10%)\n- Stop statins, angiotensin-II receptor antagonists, and ACE inhibitors before pregnancy or as soon as pregnancy is confirmed\n- Target fasting plasma glucose readings of 5–7 mmol/L on waking up and 4–7 mmol/L before meals at other times of the day",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 30,
+    "stem_md": "A 24-year-old woman with Type 1 DM, diagnosed 6 years previously, was reviewed during a routine follow-up visit to the antenatal clinic. She was taking a basal-bolus insulin regimen and had suboptimal preconception glycaemic control as reflected by a HbA1c of 62 mmol/mol. She was keen to assess the risk of congenital malformation in her offspring.\n\n**What is the relative risk of developing congenital malformations in children born to mothers with diabetes compared with the non-diabetic population?**",
+    "image": null,
+    "options": {
+      "A": "No increased risk",
+      "B": "2–4-fold increased risk",
+      "C": "5–6-fold increased risk",
+      "D": "7–8-fold increased risk",
+      "E": ">10-fold increased risk"
+    },
+    "correct": "B",
+    "explanation_md": "There is a 2–4-fold risk of developing major congenital malformations in children born to mothers with Type 1 DM compared with the non-diabetic population. The commonest congenital malformations include cardiac, renal, and neural tube defects.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 31,
+    "stem_md": "A 25-year-old schoolteacher with Type 1 DM attended her first joint antenatal–diabetes clinic while she was 10 weeks pregnant. She had been diagnosed with Type 1 DM when she was 14 years old and remained well controlled on a basal-bolus insulin regimen. Her preconception HbA1c level was 49 mmol/mol. Her last retinal screening had been carried out 6 months before. Her renal function was within the normal range and she had no microalbuminuria.\n\n**Which of the following is correct advice, based on NICE guidelines, for the management of women with diabetes in pregnancy?**",
+    "image": null,
+    "options": {
+      "A": "Advise fasting and 2-hour post-meal blood glucose monitoring",
+      "B": "Ketone testing not recommended due to high false positive rate",
+      "C": "Measure eGFR to assess renal function",
+      "D": "Retinal screening at baseline and at 28 weeks",
+      "E": "Soluble insulin preferable over rapid-acting insulin (e.g. aspart)"
+    },
+    "correct": "C",
+    "explanation_md": "According to NICE guidelines on antenatal care for women with Type 1 DM:\n\n- Check fasting, pre-meal, 1-hour post-meal, and bedtime blood glucose\n- Measure baseline HbA1c at booking appointment\n- Consider rapid-acting analogues such as aspart and lispro (advantageous as compared to soluble insulin)\n- Offer continuous glucose monitoring in pregnancy (if not already using it)\n- Offer blood ketone testing strips and a meter\n- Offer retinal assessment by digital imaging with mydriasis, using tropicamide, following their first antenatal clinic appointment (unless they have had a retinal assessment in the previous 3 months), and again at 28 weeks\n- If diabetic retinopathy (DR) is present at booking, offer an additional retinal assessment at 16–20 weeks; presence of DR is not a contraindication for rapid optimization of glycaemic control\n- Offer renal assessment at baseline; eGFR should not be used to measure renal function",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 32,
+    "stem_md": "A 32-year-old woman with Type 1 DM was reviewed in the joint antenatal–diabetes clinic. She was on a basal-bolus insulin regimen, with satisfactory glycaemic control (HbA1c 48 mmol/mol, preconception).\n\n**According to NICE guidelines, which one of the following statements is correct with regards to blood glucose monitoring and target blood glucose values?**",
+    "image": null,
+    "options": {
+      "A": "Aim for fasting blood glucose ≤6 mmol/L",
+      "B": "Aim for 1-hour post-meal target ≤8.4 mmol/L",
+      "C": "Aim for 2-hour post-meal target ≤6.4 mmol/L",
+      "D": "Aim to maintain capillary glucose reading ≥4.5 mmol/L",
+      "E": "Target HbA1c ≤7.5%"
+    },
+    "correct": "C",
+    "explanation_md": "According to NICE guidelines for the management of diabetes in pregnancy, women with Type 1 DM and/or women with any type of diabetes using multiple daily insulin are advised to measure fasting, pre-meal,1-hour post-meal, and bedtime blood glucose levels (around eight times/day). Women with Type 2 DM and GDM who are treated with either diet, oral anti-diabetic agents, or single-dose intermediate-acting or long-acting insulin are advised to measure their glucose levels at fasting and 1-hour post-meal (around four times/day).\n\nThe blood glucose target in pregnancy needs to be individualized, with the following targets (if achievable without increasing the risk of problematic hypoglycaemia):\n\n- Fasting blood glucose level <3 mmol/L\n- 1-hour post-prandial glucose level <7.8 mmol/L\n- 2-hour post-prandial glucose level <6.4 mmol/L\n- Maintain capillary blood glucose levels >4 mmol/L",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 33,
+    "stem_md": "A 37-year-old woman with Type 2 DM was reviewed in the diabetes clinic on a routine follow-up visit. She was on metformin (1 g twice a day) and glargine insulin (lantus, 8 units at night-time) therapy, with good glycaemic control as reflected by a HbA1c of 50 mmol/mol. She was also on ramipril (5 mg once a day) for blood pressure control. She had a family history of mixed dyslipidaemia. She was keen to start a family and was seeking preconception advice.\n\n**According to NICE guidelines, which one of the following is the correct statement regarding her further management during pregnancy?**",
+    "image": null,
+    "options": {
+      "A": "Continue glargine insulin",
+      "B": "Reduce metformin dose",
+      "C": "Reduce ramipril dose",
+      "D": "Start atorvastatin",
+      "E": "Start sitagliptin"
+    },
+    "correct": "A",
+    "explanation_md": "According to NICE guidelines:\n\n- Metformin use is safe during pregnancy.\n- Isophane insulin is the first choice for long-acting insulin during pregnancy.\n- Available evidence does not suggest adverse effects of short-acting insulin analogues (aspart and lispro insulin) during pregnancy.\n- Long-acting insulin analogues (detemir and glargine) can be continued in women with Type 2 DM who had good glycaemic control before pregnancy.\n- Statins and ACE inhibitor therapy need to be stopped during the antenatal period.\n- Women with an HbA1c >86 mmol/mol (10%) should be advised against pregnancy given the risks associated with high HbA1c such as miscarriage, stillbirth, congenital malformation, and neonatal death.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 34,
+    "stem_md": "A 36-year-old woman with Type 2 DM was reviewed on a routine follow-up visit to the diabetes clinic. She was planning to start a family and was keen to assess the risk of development of congenital malformations and perinatal mortality in her offspring.\n\n**Which one of the following statements is correct regarding the risk of perinatal mortality and congenital malformations in the offspring of women with Type 2 DM, compared with women with Type 1 DM?**",
+    "image": null,
+    "options": {
+      "A": "1.5–2-fold less risk",
+      "B": "4–5-fold less risk",
+      "C": "1.5–2-fold increased risk",
+      "D": "4–5-fold increased risk",
+      "E": "Same risk"
+    },
+    "correct": "E",
+    "explanation_md": "There is four-fold increased perinatal mortality in children born to mothers with diabetes, compared with the non-diabetic population. There is no conclusive evidence of differences in perinatal mortality and congenital malformation risk in the offspring of women with Type 1 or Type 2 DM.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 35,
+    "stem_md": "**Which one of the following is the correct diagnostic criterion for the diagnosis of GDM for the 75 g OGTT (based on NICE NG3 guidelines)?**",
+    "image": null,
+    "options": {
+      "A": "Fasting >5.1 mmol/L",
+      "B": "Fasting >7 mmol/L",
+      "C": "1-hour value >7.8 mmol/L",
+      "D": "2-hour value >7.8 mmol/L",
+      "E": "2-hour value >10 mmol/L"
+    },
+    "correct": "D",
+    "explanation_md": "GDM is diagnosed based on 75-g OGTT when fasting glucose is >5.6 mmol/L and/or 2-hour post-test glucose is >7.8 mmol/L.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 36,
+    "stem_md": "A 45-year-old man of Afro-Caribbean origin was reviewed in the diabetes clinic on a routine follow-up visit. He had a background history of Type 2 DM, hypertension, and sickle cell disease. He was on isophane insulin (12 units twice a day) and metformin sustained-release tablets (2 g once a day). His home blood glucose monitoring readings were variable, with a range of 10–15 mmol/L throughout the day. He had not suffered from any hypoglycaemic episodes in recent months.\n\n**Which one of the following is relatively the most accurate parameter to assess his glycaemic control?**",
+    "image": null,
+    "options": {
+      "A": "Fasting glucose",
+      "B": "Fructosamine",
+      "C": "Glucosamine HbA1c",
+      "D": "HbA1c",
+      "E": "OGTT"
+    },
+    "correct": "B",
+    "explanation_md": "HbA1c measurement is the standard laboratory test for the assessment of glycaemic control. Clinical conditions which reduce haemoglobin lifespan and haemoglobinopathies can impact the reliability of HbA1c results (falsely low readings). In contrast, falsely elevated HbA1c values can be seen in uraemia (carbamylated Hb) or in the presence of HbF.\n\nThe man in this scenario had suboptimal glycaemic control, as reflected by his elevated home blood sugar readings, although his HbA1c was low (falsely low due to underlying sickle cell disease). As a result, his insulin dose needs to be increased to improve glycaemic control.\n\nIn patients with haemoglobinopathies, measurement of fructosamine may provide a better assessment of glycaemic control compared with HbA1c. Fructosamine measurement is dependent on serum protein glycation and remains unaffected by the presence of haemoglobinopathies. In contrast to HbA1c, fructosamine measurement provides assessment of blood glucose levels during the preceding 2–3 weeks only.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 37,
+    "stem_md": "A 55-year-old man of South East Asian origin presented to his GP with a 2-month history of weight loss and increased thirst. He had a family history of thalassemia D. He had a previous history of splenectomy (post-traumatic rupture). He was also consuming 32 units of alcohol on a weekly basis and taking codeine tablets for lower back pain. On examination, his BMI was 28 kg/m². His general physical and systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Hb | 9.6 g/L | 12–15 |\n| Urea | 24.5 mg/dL | 7–20 |\n| Creatinine | 130 µmol/L | 60–115 |\n| eGFR | 55 mL/minute/1.73 m² | |\n| HbA1c | 38 mmol/mol | <46 |\n| Fasting glucose | 9.5 mmol/L | |\n\n**Which of the following is associated with a falsely decreased HbA1c result?**",
+    "image": null,
+    "options": {
+      "A": "Asplenia",
+      "B": "Chronic alcoholism",
+      "C": "Haemolytic anaemia",
+      "D": "Opioid intake",
+      "E": "Renal impairment"
+    },
+    "correct": "C",
+    "explanation_md": "Table 6.3 contains a list of conditions which influence HbA1c measurement.\n\n**Table 6.3** Factors which influence HbA1c results\n\n| Falsely increased HbA1c | Falsely decreased HbA1c |\n|---|---|\n| Vitamin B12 and iron deficiency anaemia | Reticulocytosis |\n| Alcoholism | Haemolytic anaemia |\n| Chronic renal failure | Chronic liver disease |\n| Splenectomy/asplenia | Sickle cell anaemia |\n| Chronic opiate use | Antiretroviral therapy, ribavirin, interferon-α |\n| | Splenomegaly |\n| | Pregnancy |",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 38,
+    "stem_md": "A 63-year-old man was reviewed routinely by his GP. He was otherwise fit and healthy. On examination, he had a BMI of 28 kg/m² with central obesity. He was consuming half a bottle of whisky and a few cans of lager on a daily basis.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Albumin | 35 g/L | 30–50 |\n| ALP | 115 U/L | 50–125 |\n| ALT | 35 mU/L | 05–58 |\n| Bilirubin | 0.5 mg/L | 0.1–1 |\n| HbA1c | 40 mmol/mol | <46 |\n| Triglycerides | 12 mmol/L | |\n| LDL cholesterol | 4.1 mmol/L | |\n\n**Which one of the following is the most appropriate next step for the further management of his elevated triglyceride levels?**",
+    "image": null,
+    "options": {
+      "A": "Admit to hospital urgently",
+      "B": "Repeat triglyceride in fasting state",
+      "C": "Start fibrates",
+      "D": "Start omega fatty acids",
+      "E": "Start statins"
+    },
+    "correct": "B",
+    "explanation_md": "According to NICE guidelines:\n\n- In individuals with triglyceride concentration >20 mmol/L (after excluding poor glycaemic control and excess alcohol intake), seek urgent specialist advice.\n- If the triglyceride levels are 10–20 mmol/L, repeat the triglyceride measurement with a fasting test (after an interval of 5 days, but within 2 weeks) and review for potential secondary causes of dyslipidaemia (such as excessive alcohol intake, metabolic syndrome, poor diabetes control, and drugs). Specialist advice is needed if the repeat fasting triglyceride concentration remains >10 mmol/L.\n- In individuals with triglyceride levels of 4.5–9.9 mmol/L, the risk of cardiovascular disease (CVD) might be underestimated by risk assessment tools.\n- In patients with mixed dyslipidaemia (fasting total cholesterol >7.5 mmol/L and triglycerides level >4.5 mmol/L), exclude the presence of remnant hyperlipidaemia by measuring the ratio of high-density lipoprotein/apolipoprotein B with subsequent fasting beta-quantification, if the ratio is raised.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 39,
+    "stem_md": "A 62-year-old retired schoolteacher attended the diabetes clinic on a routine follow-up visit. He had a background history of hypertension and Type 2 DM for 20 years. He felt frustrated about his inability to lose weight despite his best possible efforts. He was currently taking metformin (1 g twice daily), liraglutide (1.2 mg subcutaneously once daily), ramipril 10 mg once daily, and amlodipine (10 mg once a day). On examination, his BMI was 38 kg/m². His blood pressure was 152/92 mm of Hg.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| HbA1c | 89 mmol/mol | |\n\n**According to NICE guidelines for obesity (CG189), the presence of which of the following criteria would deem him as a suitable candidate for bariatric surgery?**",
+    "image": null,
+    "options": {
+      "A": "Age >55 years",
+      "B": "BMI >35 Kg/m²",
+      "C": "BMI >35 Kg/m² and high blood pressure",
+      "D": "BMI >35 Kg/ m² and inability to lose weight",
+      "E": "HbA1c >70 mmol/mol"
+    },
+    "correct": "C",
+    "explanation_md": "According to the NICE guidelines for obesity, bariatric surgery is a treatment option for people with obesity if all of the following criteria are fulfilled:\n\n- BMI >40 kg/m² or BMI 35–40 kg/ m² and other significant disease (e.g. hypertension and diabetes in this scenario) which could be improved with weight loss\n- All appropriate non-surgical measures have been tried\n- Patient is fit for surgery and commits to long-term follow-up\n- Patient has been receiving (or would receive) intensive management in a tier 3 weight management service",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 40,
+    "stem_md": "A 55-year-old man with Type 2 DM for 15 years was reviewed in the diabetes clinic on a routine follow-up visit. He was taking metformin, gliclazide, and ramipril tablets. On examination, he had a BMI of 27 kg/m². His blood pressure was 145/90 mmHg. Retinal examination showed evidence of background diabetic retinopathy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary albumin creatinine ratio | < 3mg/mmol | |\n| Urinary microscopy | Normal | |\n| eGFR creatinine | 52 ml/min/1.73m² (unchanged eGFR as compared to previous clinic visit 6 months before) | |\n\n**Which one of the following can be used to confirm or rule out chronic kidney disease (CKD) in this patient?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary protein measurement",
+      "B": "24-hour urinary vanillylmandelic acid",
+      "C": "eGFR cystatinC",
+      "D": "Renal angiogram",
+      "E": "Ultrasound of kidneys"
+    },
+    "correct": "C",
+    "explanation_md": "According to NICE guidelines, eGFR cystatinC can be considered at initial diagnosis to confirm or rule out chronic kidney disease (CKD) in people with:\n\n- An eGFR creatinine of 45–59 ml/min/1.73 m² (sustained for at least 90 days)\n- No proteinuria (urinary ACR<3 mg/mmol) and without any other marker of kidney disease",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 41,
+    "stem_md": "A 62-year-old woman with Type 2 DM for over 20 years was reviewed in the diabetes clinic on a routine follow-up visit. She was on metformin, dapagliflozin, and sitagliptin tablets for Type 2 DM. She was taking lisinopril and amlodipine tablets for blood pressure (BP) control. On examination, she had a BMI of 30.5 kg/m². Her BP was 142/84 mmHg. She had clinical evidence of peripheral neuropathy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary albumin creatinine ratio | 35 mg/mmol | |\n| eGFR creatinine | 47 ml/min/1.73m² (eGFR creatinine of 64 ml/min/1.73 m² during previous clinic visit 6 months before) | |\n| HbA1c | 50 mmol/mol | |\n| K | 5.1 mmol/L | 3.5–5.5 |\n| Urea | 10.5 mg/dL | 7–20 |\n| Creatinine | 96 µmol/L | 60–115 |\n\n**Which one of the following is the most appropriate next step in her further management?**",
+    "image": null,
+    "options": {
+      "A": "Arrange 24-hour ambulatory BP monitoring",
+      "B": "Refer to renal clinic",
+      "C": "Stop dapagliflozin",
+      "D": "Stop lisinopril",
+      "E": "Stop metformin"
+    },
+    "correct": "B",
+    "explanation_md": "The significant decline in eGFR creatinine for this patient is suggestive of progression of CKD (diabetic nephropathy) which warrants a referral to the renal clinic.\n\nAccording to NICE guidelines, progression of CKD is defined by the presence of:\n\n- A sustained decrease in GFR of ≥25%\n- A change in GFR category within 12 months\n- A sustained decrease in GFR of ≥15 ml/min/1.73 m² per year\n\nIn addition to CKD progression, referral to the renal clinic should be considered if:\n\n- GFR <30 ml/min/1.73 m² (GFR category G4 or G5) with or without diabetes\n- ACR ≥70 mg/mmol (unless known to be caused by diabetes and appropriately treated)\n- ACR ≥30 mg/mmol (ACR category A3) together with haematuria\n\nIn patients with CKD and diabetes, aim to keep systolic blood pressure (BP) <130 mm of Hg and diastolic BP <80 mm of Hg. Renin-angiotensin antagonists are preferred agents for BP control in such patients in the presence of microalbuminuria. Stop renin-angiotensin antagonists if serum potassium levels increase to >6 mmol/L and other medications which can lead to hyperkalaemia have been discontinued.\n\nSGLT2 inhibitors have been shown to have a beneficial effect in preventing progression of diabetic nephropathy.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 42,
+    "stem_md": "A 25-year-old woman with Type 1 DM (diagnosed when she was 6 years old) was reviewed in the clinic during an annual follow-up visit. She was on basal-bolus insulin regimen (insulin degludec 6 units once a day and insulin novorapid as per carbohydrate counting). She had recently heard about the Free Style Libre flash glucose monitoring system and enquired about her eligibility for funding on the NHS for such a system.\n\n**Which of the following is a criterion for NHS England reimbursement for flash glucose monitoring?**",
+    "image": null,
+    "options": {
+      "A": "Autonomic neuropathy",
+      "B": "HbA1c >69 mmol/L (8.5%)",
+      "C": "Infrequent glucose monitoring",
+      "D": "Pregnancy",
+      "E": "Type 1 DM duration >10 years"
+    },
+    "correct": "D",
+    "explanation_md": "Criteria for NHS England flash glucose monitoring reimbursement include:\n\n- People with Type 1 DM (or with any form of diabetes and on insulin treatment) who are clinically indicated as requiring intensive monitoring (>8 times/day)\n- Pregnant women with Type 1 DM\n- People with Type 1 diabetes who are unable to routinely self-monitor blood glucose due to disability\n- Recurrent hypoglycaemic episodes or hypoglycaemic unawareness\n\nThe full list of criteria can be found at: https://www.england.nhs.uk/wp-content/uploads/2020/02/national-arrangements-for-funding-of-relevant-diabetes-patients-v1.2.pdf",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 43,
+    "stem_md": "A 19-year-old university student with Type 1 DM was reviewed in the adolescent diabetes clinic. She had been on meal-time aspart insulin injections (tds, dose based on carbohydrate counting), with a basal injection of glargine insulin at night-time. Her home blood glucose readings were variable, ranging from 5 to 15 mmol/L, and her HbA1c readings were 75 mmol/mol (9%).\n\n**According to NICE guidelines, which one of the following is the correct HbA1c cut-off recommended for the use of continuous subcutaneous insulin infusion (insulin pump) in adults and children over the age of 12 years with Type 1 DM?**",
+    "image": null,
+    "options": {
+      "A": "8.0%",
+      "B": "8.5%",
+      "C": "≥9.0%",
+      "D": "≥9.5%",
+      "E": "≥10%"
+    },
+    "correct": "B",
+    "explanation_md": "According to NICE guidelines, insulin pump therapy should be considered in adults and children >12 years of age with Type 1 diabetes if:\n\n- Attempts to reach target HbA1c with multiple insulin injections is leading to disabling hypoglycaemic episodes *or*\n- HbA1c levels >8.5%, despite multiple daily insulin injections",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 44,
+    "stem_md": "A 65-year-old man was admitted to the medical assessment unit with generalized lethargy, nausea, and malaise. He had a background history of Type 2 DM and end-stage renal failure, and was waiting to begin haemodialysis therapy. He was oliguric on admission. On examination, he was clinically dehydrated, his blood pressure was 150/60 mmHg, and he had a pulse rate of 70 beats/minute. His systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 106 mmol/L | 135–145 |\n| K | 6.0 mmol/L | 3.5–5.5 |\n| Urea | 30 mg/dL | 5–9 |\n| Creatinine | 565 µmol/L | 60–115 |\n| FT4 | 15.5 pmol/L | 9–19.1 |\n| TSH | 0.55 mU/L | 0.35–5.00 |\n| Serum osmolality | 292 mOsmol/kg | 275–295 |\n| Urine osmolality | 502 mOsmol/kg | |\n| Urine sodium | <20 mmol/L | |\n\n**Which one of the following is the correct management approach for this patient?**",
+    "image": null,
+    "options": {
+      "A": "Fluid restriction",
+      "B": "Hydrocortisone (intravenous/intramuscular)",
+      "C": "Intravenous fluids and insulin infusion",
+      "D": "Intravenous fluids only",
+      "E": "Prednisolone (orally)"
+    },
+    "correct": "C",
+    "explanation_md": "The serum osmolality in this patient is 292 mOsmol/kg, despite having low sodium of 106 mmol/L, suggestive of high blood glucose values:\n\n- Serum osmolality: 2 × Na + urea + glucose\n- 292 mOsmol/kg = 2 × 106 + 30 + glucose\n- 292 mOsmol/kg = 212 + 30 + glucose\n- 292 mOsmol/kg = 242 + glucose\n- Glucose = 292–242 = 50 mmol/L\n\nThe correct management approach for this patient is to start intravenous fluids and insulin infusion as he is clinically dehydrated with elevated blood glucose levels, caused by having translocational hyponatraemia.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 45,
+    "stem_md": "A 70-year-old woman was admitted to the accident and emergency unit with sudden-onset severe headache and nausea. She had a background history of hypertension, osteoarthritis, and dyslipidaemia. She was taking amlodipine, atorvastatin, and paracetamol tablets. On examination, she had an elevated blood pressure of 190/104 mmHg, a Glasgow coma score (GCS) of 15/15, with normal systemic examination and no focal neurological deficit.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 129 mmol/L | 135–145 |\n| K | 5.5 mmol/L | 3.5–5.5 |\n| Urea | 10 mg/dL | 5–9 |\n| Creatinine | 125 µmol/L | 60–115 |\n| FT4 | 6.5 pmol/L | 9–19.1 |\n| TSH | 0.12 mU/L | 0.35–5.00 |\n| Serum osmolality | 280 mOsmol/kg | 275–295 |\n| Urine osmolality | 442 mOsmol/kg | |\n| Urine sodium | 24 mmol/L | |\n\n**Which one of the following is the most appropriate next step in her management?**",
+    "image": null,
+    "options": {
+      "A": "CT pituitary",
+      "B": "Fluid restriction",
+      "C": "Hypertonic saline (3%)",
+      "D": "Thyroid uptake scan",
+      "E": "Tolvaptan"
+    },
+    "correct": "A",
+    "explanation_md": "This woman has secondary hypothyroidism in view of her biochemical results of low FT4 and inappropriately low normal TSH. She has presented with sudden onset of headache and nausea, and pituitary apoplexy should be considered as a diagnosis. Pituitary apoplexy may occur on a background of expansion of a pre-existing pituitary adenoma, which may or may not have been diagnosed previously. The features of sudden-onset headache and ophthalmoplegia (third, fourth, and sixth nerve palsies) should alert to the possibility of pituitary apoplexy. The initiation of steroids in these settings may be life-saving. It is a differential diagnosis of angiographically negative subarachnoid haemorrhage.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 46,
+    "stem_md": "An 88-year-old man was admitted to the medical assessment unit with a history of recurrent falls and progressive confusion. He had a background history of vascular dementia, previous stroke, and dyslipidaemia. He was on ramipril, phenytoin, simvastatin, frusemide, and aspirin therapy.\n\nOn examination, his blood pressure was 104/70 mmHg. He had a pulse of 94 beats/minute and a normal systemic examination, with no focal neurological deficit.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 126 mmol/L | 135–145 |\n| K | 3.2 mmol/L | 3.5–5.5 |\n| Urea | 12.8 mg/dL | 5–9 |\n| Creatinine | 91 µmol/L | 60–115 |\n| FT4 | 14.4 pmol/L | 9–19.1 |\n| TSH | 8.1 mU/L | 0.35–5.00 |\n| Serum osmolality | 272 mOsmol/kg | 275–295 |\n| Urine osmolality | 402 mOsmol/kg | |\n| Urine sodium | 40 mmol/L | |\n| Random cortisol | 502 nmol/L | |\n\n**Which one of the following is the most appropriate management approach in his case?**",
+    "image": null,
+    "options": {
+      "A": "Demeclocycline",
+      "B": "Fluid restriction",
+      "C": "Hydrocortisone",
+      "D": "Saline infusion",
+      "E": "Tolvaptan"
+    },
+    "correct": "D",
+    "explanation_md": "This man has biochemical features of dehydration (elevated urea levels); his low Na level is most probably due to hypovolaemic hyponatraemia, rather than syndrome of inappropriate antidiuretic hormone (SIADH). The key point to remember in clinical practice is that the urinary spot sodium test results are influenced by hydration status, as well as medications being taken. In this patient, despite his relative hypovolaemic state, urinary sodium levels are 40 mmol (rather than <10 mmol as expected in a patient with dehydration) due to the concomitant use of diuretic therapy.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 47,
+    "stem_md": "A 62-year-old woman was admitted to the medical assessment unit with increasing drowsiness and a witnessed tonic-clonic seizure. She had a background history of hypertension and osteoporosis. She was on amlodipine and alendronate therapy. On examination, she was well hydrated, with a normal systemic examination. There was no focal neurological deficit.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 117 mmol/L | 135–145 |\n| K | 4.0 mmol/L | 3.5–5.5 |\n| Urea | 6.8 mg/dL | 5–9 |\n| Creatinine | 101 µmol/L | 60–115 |\n| FT4 | 12.5 pmol/L | 9–19.1 |\n| TSH | 7.2 mU/L | 0.35–5.00 |\n| Serum osmolality | 252 mOsmol/kg | 275–295 |\n| Urine osmolality | 501 mOsmol/kg | |\n| Urine sodium | 48 mmol/L | |\n| Random cortisol | 432 nmol/L | |\n| CT of the head | Normal study | |\n\n**Which one of the following is the most appropriate management approach in her clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "Demeclocycline",
+      "B": "Fluid restriction (0.5–1 L/day)",
+      "C": "Hydrocortisone",
+      "D": "0.9% saline infusion (2 L over 24 hours)",
+      "E": "3% saline"
+    },
+    "correct": "E",
+    "explanation_md": "This patient has euvolaemic hyponatraemia, and her biochemical results are consistent with a diagnosis of syndrome of inappropriate antidiuresis. The vasopressin secretion in patients with syndrome of inappropriate antidiuresis is inappropriate as it occurs independently of effective serum osmolality or circulating volume. In a patient with acute hyponatraemia due to the syndrome of inappropriate diuresis, 3% saline needs to be used in the presence of red-flag features such as encephalopathic seizures (due to low Na), coma, reduced Glasgow coma score (GCS), or vomiting.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 48,
+    "stem_md": "A 67-year-old retired professor was reviewed in the diabetes clinic on a routine follow-up visit. He had been diagnosed as having Type 2 DM about 8 years earlier, and was taking metformin and gliclazide tablets. He was a known patient with hypertension, taking amlodipine and ramipril tablets. On examination, he had a BMI of 30.5 kg/m², with evidence of central adiposity. There was evidence of bilateral background diabetic retinopathy on ophthalmological examination.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 25.5 mg/dL | 7–20 |\n| Creatinine | 145 µmol/L | 60–115 |\n| eGFR | 42 mL/minute/1.73 m² | |\n| HbA1c | 50 mmol/mol | <46 |\n| Urine albumin creatinine ratio | >300 mg/mmol | |\n\n**Which one of the following is suggestive of an alternative aetiology for the renal impairment, rather than development of diabetic nephropathy?**",
+    "image": null,
+    "options": {
+      "A": "Absence of active sediment in urine",
+      "B": "Duration of Type 2 DM >5 years",
+      "C": "The presence of diabetic retinopathy",
+      "D": "Rapid decline in eGFR",
+      "E": "Systemic hypertension"
+    },
+    "correct": "D",
+    "explanation_md": "The presence of the following clinical and biochemical characteristics should prompt a search for an alternative aetiology for renal impairment in patients with diabetes:\n\n- Duration of Type 2 DM <5 years and Type 1 DM <10 years\n- Absence of diabetic retinopathy\n- Presence of active sediment in urine\n- Rapid decline in eGFR\n- Refractory hypertension (although systemic hypertension is common)\n- Massive albuminuria\n- >30% decline in eGFR within 2–3 months of initiation of ACE inhibitor or ARB therapy\n- Significant haematuria\n- Presence of systemic illness",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 49,
+    "stem_md": "X-ray of the foot can be a useful tool to confirm a clinical suspicion of osteomyelitis in assessing patients with diabetic foot diseases. A good knowledge of foot anatomy is crucial to ensure an accurate interpretation of foot images.\n\n**In Fig. 6.1, which of the following numbers correctly identifies navicular bone of the foot?**\n\n{{image}}",
+    "image": "images/ch06/q049.png",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "correct": "C",
+    "explanation_md": "**Foot X-rays should ideally be done when weight bearing (if possible).** Dorsal-planter and oblique views are commonly used to visualize the foot bones. Use a systematic approach to review foot X-rays.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 50,
+    "stem_md": "A 52-year-old man presented to the diabetes clinic with an 8-month history of excruciating pain in his feet, which was keeping him awake in the night. He had been on pregabalin tablets (300 mg twice a day) for pain relief for over 6 months, although he did not feel it to be beneficial for symptom control. He was diagnosed as having Type 1 diabetes in his early 20s and had been on a basal-bolus insulin regimen (short-acting human insulin with meals, with a glargine insulin injection in the evening). On examination, he had bilateral pre-proliferative diabetic retinopathy changes, with reduced vibration, as well as pin-prick sensation (as checked by monofilament) in the feet.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 22.0 mg/dL | 7–20 |\n| Creatinine | 122 µmol/L | 60–115 |\n| eGFR | 68 mL/minute/1.73 m² | |\n| HbA1c | 79 mmol/mol | <46 |\n\n**According to NICE guidelines (CG173), which one of the following is the most appropriate treatment option for this patient in view of ongoing neuropathic pain?**",
+    "image": null,
+    "options": {
+      "A": "Increase pregabalin tablet dose",
+      "B": "Reduce pregabalin tablet dose and add tramadol",
+      "C": "Start amitriptyline along with pregabalin",
+      "D": "Switch to amitriptyline",
+      "E": "Switch to tramadol"
+    },
+    "correct": "D",
+    "explanation_md": "**According to NICE guidelines, you can offer a choice of amitriptyline, duloxetine, gabapentin, or pregabalin as initial treatment for neuropathic pain (except for trigeminal neuralgia, where carbamazepine is the initial choice).** If the initial treatment is not effective or is not tolerated, offer one of the remaining three drugs, and consider switching again if the second and third drugs tried are also not effective or not tolerated. Moreover, you can consider tramadol only if acute rescue therapy is needed, while topical capsaicin cream can be used for people with localized neuropathic pain who wish to avoid, or who cannot tolerate, oral treatments.\n\nIn this patient, as pregabalin tablets have been ineffective to control neuropathic pain, amitriptyline (or duloxetine) can be started, with gradual tapering of the pregabalin tablet dose (stop pregabalin tablets over 1–2 weeks).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 51,
+    "stem_md": "A 16-year-old girl presented to her GP with an 8-week history of increased thirst, weight loss, and increased frequency of micturition. She had no previous history of any medical illness. On examination, she had mild dehydration and her systemic examination was normal.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 133 mmol/L | 135–145 |\n| K | 3.6 mmol/L | 3.5–5.5 |\n| Urea | 8.5 mg/dL | 5–9 |\n| Creatinine | 110 µmol/L | 60–115 |\n| Random glucose | 18.5 mmol/L | |\n| Urine albumin: creatinine ratio | <3 mg/mmol | |\n\nA clinical diagnosis of Type 1 DM was made, based on her osmotic symptoms with elevated blood glucose levels. She was started on a basal-bolus insulin regimen. During a follow-up visit, she was asymptomatic and clinically well. Her home blood glucose levels were in the target range (4–7 mmol/L: fasting/pre-meal and 5–9 mmol/L: post-meal).\n\n**According to NICE guidelines (NG18), which of the following should be offered for monitoring during her follow-up visits to the diabetes clinic?**",
+    "image": null,
+    "options": {
+      "A": "9 am cortisol",
+      "B": "17-OH progesterone",
+      "C": "24-hour urinary protein",
+      "D": "Coeliac disease screening",
+      "E": "Thyroid function test"
+    },
+    "correct": "E",
+    "explanation_md": "According to NICE guidelines, children and young people with Type 1 diabetes should be offered screening for:\n\n- Thyroid disease, at diagnosis and annually thereafter, until transfer to adult services\n- Diabetic retinopathy, annually from 12 years old\n- Moderately increased albuminuria (albumin to creatinine ratio [ACR] 3–30 mg/mmol; ‘microalbuminuria’) to detect diabetic kidney disease, annually from 12 years old\n- Hypertension, annually from 12 years\n\nIt is important to be aware of the following relatively rare complications associated with Type 1 diabetes:\n\n- Addison’s disease\n- Coeliac disease\n- Juvenile cataracts\n- Necrobiosis lipoidica",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 52,
+    "stem_md": "A 25-year-old man of South East Asian origin was incidentally detected to have an elevated random blood glucose level of 15 mmol/L, while he underwent routine blood tests. He had no previous history of medical illness and was not on any regular medications. He had a strong family history of diabetes. On examination, his BMI was 24.5 kg/m². His general physical and systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 135 mmol/L | 135–145 |\n| K | 4.5 mmol/L | 3.5–5.5 |\n| Urea | 7.5 mg/dL | 5–9 |\n| Creatinine | 90 µmol/L | 60–115 |\n| Fasting glucose | 12.5 mmol/L | |\n| HbA1c | 103 mmol/mol | <46 |\n| Serum ketones | 3.1 mmol/L | |\n\n**The presence of which one of the following clinical/biochemical features is suggestive of a diagnosis of Type 1 diabetes in his case?**",
+    "image": null,
+    "options": {
+      "A": "BMI of 24.5 kg/m²",
+      "B": "Presence of ketonaemia",
+      "C": "Significantly elevated HbA1c levels",
+      "D": "South East Asian ethnic origin",
+      "E": "Strong family history of diabetes"
+    },
+    "correct": "B",
+    "explanation_md": "In a patient who appears to have Type 2 diabetes, consider a diagnosis of Type 1 diabetes if he/she has:\n\n- Ketonaemia\n- Marked weight loss\n- No features of metabolic syndrome\n\nSimilarly, consider a diagnosis of Type 2 diabetes/monogenic diabetes in younger adults if:\n\n- Normal body weight in the presence of a strong family history or diabetes diagnosed aged <1 year (s/o monogenic diabetes)\n- Family history of diabetes with obesity (likely Type 2 diabetes)\n\nSouth East Asian men are prone to Type 2 DM with a comparatively lower BMI, and measurement of waist circumference is deemed more accurate in this particular ethnic subgroup.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 53,
+    "stem_md": "A 54-year-old man was reviewed in the diabetes clinic on a follow-up visit. He had been diagnosed as having Type 2 diabetes around 8 years before and was on metformin, gliclazide, and dapagliflozin tablets. His glycaemic control was suboptimal, as reflected by elevated home blood glucose readings. On examination, he had a BMI of 26 kg/m². He had bilateral background diabetic retinopathy changes in the eyes.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 10.5 mg/dL | 5–9 |\n| Creatinine | 125 µmol/L | 60–115 |\n| Fasting glucose | 7.5 mmol/L | |\n| eGFR | 55 mL/minute/ 1.73 m² | |\n| HbA1c | 70 mmol/mol | <46 |\n\n**Which one of the following is the most appropriate next step in his management, based on NICE guidelines (NG28)?**",
+    "image": null,
+    "options": {
+      "A": "DPP 4 inhibitor",
+      "B": "GLP-1 analogue",
+      "C": "Human NPH insulin",
+      "D": "Insulin degludec",
+      "E": "No change required"
+    },
+    "correct": "C",
+    "explanation_md": "According to NICE guidelines, insulin-based therapies should be considered as a second intensification when HbA1c remains suboptimal (>58 mmol/L) despite using two or more oral anti-diabetic agents.\n\n- Human NPH insulin injected at bedtime or bd remains the initial recommended insulin.\n- A long-acting insulin analogue (insulin detemir or glargine) can be considered if:\n  - the patient needs assistance from a carer or healthcare professional to inject insulin to reduce the frequency of injections; or\n  - the patient’s lifestyle is restricted by recurrent symptomatic hypoglycaemic episodes; or\n  - the patient cannot use the device to inject NPH insulin.\n\nPre-mixed (biphasic) human insulin bd can be considered, especially if HbA1c >9.0% (75 mmol/mol).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 54,
+    "stem_md": "A 48-year-old man with Type 1 diabetes for over three decades was reviewed in the diabetes clinic. He had been on basal-bolus insulin with suboptimal glycaemic control, as reflected by elevated home blood glucose readings. He had noticed a deterioration in his vision over the previous 4 weeks. On examination, he had evidence of venous loops and exudates within a disc diameter of the centre of the fovea.\n\n**Which of the following are not indications for referral to the ophthalmologist in a patient with diabetic retinopathy?**",
+    "image": null,
+    "options": {
+      "A": "Cotton-wool spots",
+      "B": "Exudates within the macula",
+      "C": "Multiple blot haemorrhages",
+      "D": "Unexplained drop in visual acuity",
+      "E": "Venous beading and loops"
+    },
+    "correct": "A",
+    "explanation_md": "A patient with diabetic retinopathy should be referred to ophthalmology, in accordance with the National Screening Committee criteria and timelines, if any of these features are present:\n\n- Sudden loss of vision\n- Rubeosis iridis\n- Pre-retinal or vitreous haemorrhage\n- Retinal detachment\n- Any large sudden unexplained drop in visual acuity",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 55,
+    "stem_md": "A 55-year-old man with a background history of Type 1 diabetes was reviewed in the diabetes clinic during a routine follow-up visit. He was on a basal-bolus insulin regimen comprising novorapid insulin (3 times a day, along with meals) and degludec insulin (night-time). He had recently undergone annual retinal screening and was graded as having R1M0 changes bilaterally.\n\n**Which of the following findings can be seen in his retinal images?**",
+    "image": null,
+    "options": {
+      "A": "New vessel formation",
+      "B": "Microaneurysms, haemorrhages, and hard exudate",
+      "C": "Macular oedema",
+      "D": "Loss of visual acuity",
+      "E": "Vitreous haemorrhage"
+    },
+    "correct": "B",
+    "explanation_md": "R1MO is the grade given to background diabetic retinopathy. In the case of this patient, annual screening is recommended and there is no need for referral to ophthalmology. The NHS Diabetic Eye Screening Programme aims to reduce the risk of sight loss by the early detection and treatment, if needed, of diabetic retinopathy and maculopathy. Research has shown that screening could prevent sight loss in more than 400 people with diabetes per year.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 56,
+    "stem_md": "A 58-year-old male with a known history of Type 2 diabetes reported symptoms of fever, headache, and mild cough for 3 days. He was taking metformin (500 mg twice a day) and empagliflozin (10 mg once a day) tablets for blood glucose control. A Reverse transcription Polymerase chain reaction (RT-PCR) test confirmed the diagnosis of COVID-19 infection. He was advised to stay home, with monitoring of oxygen saturation using a pulse oximeter. After 1 week, he presented to the hospital with worsening shortness of breath and oxygen saturation in room air <92%. His chest X-ray showed ground-glass patchy pneumonic changes. He was admitted for oxygen and dexamethasone therapy. During admission, he was noticed to have a blood glucose level of 20 mmol/L on two occasions and serum ketone levels <1mmol/L.\n\n**Which of the following is the most appropriate next step for his further management?**",
+    "image": null,
+    "options": {
+      "A": "Give correction dose of rapid-acting insulin",
+      "B": "Increase empagliflozin dose",
+      "C": "Increase metformin dose",
+      "D": "Reduce dexamethasone dose",
+      "E": "Start sulfonylurea"
+    },
+    "correct": "A",
+    "explanation_md": "According to the COncise adVice on Inpatient Diabetes (COVID: Diabetes), all patients with diabetes and COVID-19 infection should have their blood glucose and capillary ketones measured initially. If their glucose is >12 mmol/L, it is very important to have further investigations to rule out any diabetic emergencies, such as DKA or a hyperosmolar hypercglycaemic state (HHS). Metformin and empagliflozin need to be stopped in view of an acute illness.\n\nIf DKA/HHS is excluded, and the patient has not received any insulin in the previous 4 hours (insulin naïve patient or on oral medications), correction doses of rapid-acting insulin can be given. If the patient requires more than two corrective doses within 24 hours, intermediate or long-acting insulin can be initiated and adjusted accordingly.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 57,
+    "stem_md": "A 41-year-old man was admitted to the intensive care unit (ICU) with a diagnosis of severe COVID-19 pneumonitis. He had been previously well and was not on any medications prior to this admission. He required non-invasive ventilation to maintain oxygen saturation while in the ICU. He was also started on dexamethasone 6 mg IV once daily. He was noticed to have a morning glucose reading of 18 mmol/L.\n\n**With regards to dexamethasone-induced hyperglycaemia in COVID-19 patients, which of the following statements is correct?**",
+    "image": null,
+    "options": {
+      "A": "Basal insulin injection is unsafe in view of the risk of hypoglycaemia",
+      "B": "Intermediate-acting insulin is not recommended in acute settings",
+      "C": "Patients with no history of diabetes are unlikely to suffer from ketoacidosis",
+      "D": "Sulfonylurea therapy is not recommended",
+      "E": "Target blood glucose readings are 4–8 mmol/L"
+    },
+    "correct": "D",
+    "explanation_md": "Dexamethasone reduces mortality in people with COVID-19 who require ventilation or oxygen therapy, as per the findings from the RECOVERY trial. Corticosteroid therapy is associated with impaired glucose metabolism and predisposes to HHS in vulnerable individuals. COVID-19 infection has been reported to be associated with increased insulin resistance and impaired insulin secretion, resulting in hyperglycaemia and precipitation of DKA in individuals who may or may not have diabetes.\n\nThe COncise adVice on Inpatient Diabetes group has produced guidance on the management of blood glucose in patients with COVID-19 and dexamethasone-induced hyperglycaemia. According to these guidelines:\n\n- The target blood glucose (BG) is 6–10 mmol/L (up to 12 mmol/L is acceptable).\n- Check the BG at least 6-hourly (or more frequently if BG readings are not in the target range).\n- Exclude Diabetic ketoacidosis (DKA) or Hyperosmolar hyperglycaemic syndrome (HHS) (check ketones, BG, venous pH, HCO3, U & E)\n\nWhile sulphonylureas (SU) can be used to counteract steroid-induced hyperglycaemia, SUs are NOT recommended in the context of COVID-19 infection as β-cell function may be impaired and insulin resistance is likely to be severe. For this reason, these recommendations differ from those in the JBDS guidelines on the management of hyperglycaemia and steroid (glucocorticoid) therapy.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 58,
+    "stem_md": "A 66-year-old woman was admitted to hospital with severe central chest pain radiating to the left arm. The pain was worse on exertion and relieved with nitroglycerin spray. She had a past medical history of Type 2 DM for which she was on metformin therapy (1 g twice a day). On examination, her BMI was 32 kg/m². She had central obesity, although there was no proximal myopathy or easy bruisability.\n\nThe electrocardiogram (ECG) on admission showed ST-segment depression in the lateral leads (V3–V6). A subsequent angiogram confirmed the presence of coronary artery disease for which she underwent successful angioplasty. An echocardiogram on admission showed normal left ventricular function. She was initiated on β-blockers, atorvastatin, and dual anti-platelet therapy. You were asked for advice with regards to her blood glucose control.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| HbA1c | 68 mmol/mol | |\n| eGFR | 82 ml/min/1.73 m² | |\n| Urine albumin: creatinine ratio | <3 mg/mmol creatinine | |\n\n**Which one of the following is considered as the most appropriate second-line therapy (along with metformin) for this patient, based on the American Diabetes Association (ADA)/European Association for the Study of Diabetes (EASD) 2018 consensus report on the management of hyperglycaemia in Type 2 DM?**",
+    "image": null,
+    "options": {
+      "A": "Basal insulin",
+      "B": "DPP4 inhibitors",
+      "C": "GLP1-receptor agonists",
+      "D": "Pioglitazone",
+      "E": "SGLT2 inhibitors"
+    },
+    "correct": "C",
+    "explanation_md": "The consensus report by the ADA/EASD for the management of hyperglycaemia in Type 2 DM (published in 2018) recommends an assessment for the presence of atherosclerotic cardiovascular disease (ASCVD), heart failure, and CKD to decide the most appropriate second-line therapy along with metformin (which remains the first-line therapy). This was based on the evidence derived from several landmark cardiovascular outcome trials (CVOTs)—namely, LEADER, SUSTAIN-6, REWIND for glucagon-like peptide-1 receptor agonists (GLP-1 RA) and EMPA-REG, DECLARE- TIMI 58, and CANVAS for sodium glucose cotransporter-2 inhibitors (SGLT2i).\n\nThe ADA/EASD consensus recommends the addition of GLP-1 RA for patients with established ASCVD, as in the given clinical scenario. In the presence of heart failure and/or chronic kidney disease, SGLT2i are the preferred therapeutic agents.\n\nLiraglutide, subcutaneous semaglutide, albiglutide, and dulaglutide have been shown to be associated with a reduction in composite cardiovascular outcomes. Lixisenatide, weekly exenatide, and oral semaglutide have been shown to be non-inferior (although not associated with superiority) as far as a reduction of composite cardiovascular outcomes is concerned.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 59,
+    "stem_md": "A 70-year-old man was admitted to hospital with progressive shortness of breath which had limited his day-to-day activity. He had woken up in the night with severe shortness of breath, with symptoms worsened on lying down flat. He had a background history of Type 2 DM for over 10 years. He was on metformin and saxagliptin tablets prior to hospital admission. On examination, his BMI was 30 kg/m². He had pedal oedema and jugular venous pressure was raised. He had bilateral reduced air entry on lung-base auscultation. Chest X-ray showed cardiomegaly, bilateral pleural effusion, and pulmonary congestion.\n\nHe was treated on the lines of congestive cardiac failure and started on diuretics, ACE inhibitors, and β blockers as per the recommendation from the cardiology team. He responded well to the therapy and was deemed fit for discharge after 5 days in hospital. You were asked to review his glucose-lowering medication regimen prior to discharge from hospital.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| HbA1c | 58 mmol/L | |\n| eGFR | 62 mL/minute/1.73 m² | |\n\n**Which one of the following is the most appropriate management plan for him?**",
+    "image": null,
+    "options": {
+      "A": "Continue metformin and saxagliptin",
+      "B": "Stop metformin and add GLP1 RA",
+      "C": "Stop saxagliptin and add GLP1 RA",
+      "D": "Stop saxagliptin and add SGLT2 inhibitor",
+      "E": "Switch to insulin therapy"
+    },
+    "correct": "D",
+    "explanation_md": "SGLT2 inhibitors remain the preferred glucose-lowering agents in Type 2 DM patients with a background of heart failure. Saxagliptin needs to be stopped for the patient in this scenario as its use is associated with an increased risk of hospitalization for heart failure based on the results of the SAVOR-TIMI 53 clinical trial published in 2013. Multicentric randomized controlled trials (RCTs) with alogliptin (EXAMINE), sitagliptin (TECOS), and linagliptin (CAROLINA and CARMELINA) have shown these agents to be non-inferior to placebo as far cardiovascular outcomes are concerned.\n\nBased on evidence derived from the EMPA-REG (Empagliflozin Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients), CANVAS program (Canagliflozin Cardiovascular Assessment Study), and DECLARE-TIMI 58 trial (Dapagliflozin Effect on Cardiovascular Events–Thrombolysis in Myocardial Infarction 58), SGLT2i use has been observed to reduce the risk of heart failure (HF) events. Dapagliflozin use in patients with established heart failure (DAPA-HF trial) showed a reduction in the risk of worsening heart failure or death from cardiovascular causes, even in patients with no history of diabetes.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 60,
+    "stem_md": "A 16-year-old boy was reviewed in the joint paediatric/young adolescent diabetes transition clinic. He had a background history of obesity, insulin resistance, and Type 2 DM. He had suffered from poor vision since birth and had had worsening hearing since he was 10 years old. On examination, he had pedal oedema, raised jugular venous pressure, and bilateral reduced air entry on lung-base auscultation.\n\n**Which one of the following is the correct diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "Alstrom syndrome",
+      "B": "DEND syndrome",
+      "C": "MERRF syndrome",
+      "D": "Prader–Willi syndrome",
+      "E": "Wolfram Syndrome"
+    },
+    "correct": "A",
+    "explanation_md": "Alstrom syndrome is a rare genetic disorder characterized by vision and hearing abnormalities, obesity in childhood, insulin resistance, DM, heart disease (dilated cardiomyopathy), and slowly progressive kidney (renal) dysfunction, potentially leading to renal failure. It is due to mutations in the *ALMS1* gene. There is no specific treatment for this disease apart from managing symptoms and complications.\n\nTable 6.4 sums up the genetic conditions/syndromes associated with diabetes.\n\n**Table 6.4** Genetic conditions/syndromes associated with diabetes\n\n| Condition | Genetic defect | Comments |\n|---|---|---|\n| Transient neonatal diabetes (TND) | Chromosome 6q24 imprinting abnormalities | Neonates present with growth delay and diabetes within the first week of life; remission is expected at 3 months of age, though there might be a tendency to develop diabetes later in life |\n| Developmental delay, epilepsy, and neonatal diabetes (DEND) syndrome | KCNJ11 and ABCC8 related K-ATP channel gene mutations | DEND is the most severe form of permeant neonatal diabetes |\n| Alstrom syndrome | Rare autosomal recessive disease due to ALMS1 gene mutation | Early-onset truncal obesity, insulin resistance, and Type 2 diabetes; cone-rode dystrophy; hearing loss; cardiomyopathy |\n| Wolfram syndrome | WFS1 gene linked to chromosome 4p | Characterized by diabetes insipidus, diabetes (non-autoimmune), optic atrophy, and deafness (a set of conditions referred to as DIDMOAD). |",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 61,
+    "stem_md": "A 42-year-old schoolteacher was reviewed in the diabetes clinic during an annual review visit. He had been diagnosed with Type 1 DM 15 years before. He was on a basal-bolus insulin regimen comprising glargine (20 units at night) and novorapid (4 units before meals). He had a family history of cardiovascular disease (a first cousin had had a myocardial infarction at the age of 45 years). He was concerned about the risk of having a heart attack given his raised total cholesterol levels.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 143 mmol/L | 135–145 |\n| K | 4.2 mmol/L | 3.5–5.5 |\n| Urea | 19 mg/dL | 7–20 |\n| Creatinine | 99 µmol/L | 60–115 |\n| eGFR | >90 mL/minute/1.73 m² | |\n| HbA1c | 66 mmol/mol | <48 |\n| Total cholesterol | 5.4 mmol/L | <4 |\n\n**According to NICE guidelines (CG181), which one of the following is a recommended indication for starting statin therapy for primary prevention in people with Type 1 DM?**",
+    "image": null,
+    "options": {
+      "A": "Diabetes duration >5 years",
+      "B": "Established diabetic nephropathy",
+      "C": "Family history of cardiovascular disease (CVD) in first-degree relatives",
+      "D": "HbA1c >75 mmol/mol",
+      "E": "Total cholesterol >4 mmol/L"
+    },
+    "correct": "B",
+    "explanation_md": "According to NICE guidelines, statin therapy can be offered to adults with Type 1 DM if:\n\n- Older than 40 years\n- Diabetes duration >10 years\n- Established nephropathy\n- In presence of other risk factors for CVD\n\nIn people with Type 2 DM, atorvastatin 20 mg can be offered for primary prevention if the 10-year risk of developing CVD based on QRISK2 assessment tool is ≥10%.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 62,
+    "stem_md": "A 53-year-old man was admitted to hospital with community acquired pneumonia. He had a background history of Type 1 DM for over 30 years. His pre-admission insulin regimen included glargine (34 units before bed) and lispro (6 units before each meal). He complained of productive cough, nausea, and reduced appetite. On day 2 (post admission), he felt sweaty and clammy. His capillary blood glucose was recorded as 2.6 mmol/L. He was conscious, although complained of mild headache.\n\n**Which one of the following is the most appropriate immediate management step?**",
+    "image": null,
+    "options": {
+      "A": "Dextrose 10% (200 ml over 15 minutes)",
+      "B": "Dextrose 20% (100 ml over 15 minutes)",
+      "C": "Glucagon (1 mg intramuscular)",
+      "D": "Lucozade (100–150 ml)",
+      "E": "Pure fruit juice (150–200 ml)"
+    },
+    "correct": "E",
+    "explanation_md": "According to the Joint British Diabetes Societies for Inpatient Care (JBDS-IP) Group guidelines for the management of hypoglycaemia in adults with DM, the treatment of hypoglycaemia in a conscious adult patient in hospital should be with 15–20 g of quick-acting carbohydrate, such as 5–7 tablets of Dextrosol®, 4 or 5 Glucotabs®, or 150–200 ml of pure fruit juice (e.g. orange). Since the introduction of the UK government sugar tax in 2018, Lucozade®—which was commonly used to treat hypoglycaemia—is no longer recommended due to the quantities required to achieve 15–20 g carbohydrate (and the variation in carbohydrate content between different types of Lucozade®).\n\nOnce the hypoglycaemia is treated (blood glucose >4.0 mmol/L) and the patient has recovered, give a long-acting carbohydrate of the patient’s choice: for example, two biscuits, one slice of bread/toast, 200–300 ml of milk (not soya), or normal meal if it is due (must contain carbohydrate). In patients with moderately severe hypoglycaemia (e.g. patient is unable to take oral carbohydrate and/or are agitated), who are able to swallow, give either 1.5 –2 tubes 40% glucose gel (Glucogel®) squeezed into the mouth between the teeth and gums. This can be repeated up to three times if blood glucose remains <4 mmol/L. In patients with severe hypoglycaemia (unconscious, fitting, or having persistent hypoglycaemia), give intravenous dextrose (200 ml of 10% dextrose or 100 ml of 20% dextrose over 15 minutes) or intramuscular glucagon (1 mg).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 63,
+    "stem_md": "A 72-year-old woman with a right knee anterior cruciate ligament tear was awaiting an elective laparoscopic ligament reconstruction. She had a background history of Type 2 DM diagnosed 6-years before. She was on metformin (1 g twice daily), sitagliptin (50 mg once daily), and glargine (20 units once daily). Her elective surgical procedure was booked for 8.30 a.m. and she was expected to miss only one meal during the day.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| HbA1c | 65 mmol/L | |\n| eGFR | 90 mL/minute/1.73 m² | |\n\n**Which one of the following is the correct management approach for peri-operative management of her diabetes?**",
+    "image": null,
+    "options": {
+      "A": "Omit glargine (night prior to surgery)",
+      "B": "Omit metformin (on day of surgery)",
+      "C": "Postpone surgery (till HbA1c <58 mmol/mol)",
+      "D": "Start variable-rate intravenous insulin infusion (peri-operatively)",
+      "E": "Target capillary blood glucose 6–12 mmol/L"
+    },
+    "correct": "E",
+    "explanation_md": "According to the Joint British Diabetes Societies (JBDS) guidelines for the management of adults with diabetes undergoing surgery:\n\n- If HbA1c is >69 mmol/mol prior to the surgery, glucose lowering therapy needs to be optimised.\n- Target capillary glucose readings are 6–12 mmol/L (peri-operative period)\n- Consider reducing basal insulin dose by 20% a day prior to surgery\n\nMetformin need not be stopped for the patient in this scenario, and variable-rate insulin infusion is not needed in her case as there is no risk of prolonged starvation (only one missed meal).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 64,
+    "stem_md": "A 68-year-old man was admitted to hospital for an elective repair of a left-sided inguinal hernia. He was known to have had Type 1 DM for over 30 years. He was on a basal bolus insulin regimen comprising glargine (12 units in the morning) and novorapid (6 units before each meal). His operation was scheduled for 9.00 a.m. in the morning and it was anticipated that he might have to miss only one meal during the day.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| HbA1c | 60 mmol/L | |\n| eGFR | 58 mL/minute/1.73 m² | |\n\n**Which one of the following is correct advice related to insulin therapy titration during the peri-operative period?**",
+    "image": null,
+    "options": {
+      "A": "Half the dose of long-acting insulin (on day of surgery)",
+      "B": "Half the dose of short-acting insulin (till he resumes eating and drinking normally)",
+      "C": "Omit long-acting insulin on day of surgery",
+      "D": "Omit short-acting insulin (till he resumes eating and drinking normally)",
+      "E": "Switch to pre-mix insulin (twice a day)"
+    },
+    "correct": "D",
+    "explanation_md": "Long-acting insulin should not be stopped for this patient (even if the patient is on variable-rate insulin) as this may lead to rebound hyperglycaemia. The most sensible approach would be to reduce the morning dose of the long-acting insulin (usually by 20%) and omit the short-acting insulin in the morning (if breakfast is missed). Resume short-acting insulin only when the patient resumes eating and drinking normally.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 65,
+    "stem_md": "A 70-year-old man was admitted to hospital after suffering from an acute-onset cerebrovascular accident (haemorrhagic stroke). He subsequently developed aspiration pneumonia and continued to deteriorate clinically while in the stroke unit. He had a background history of Type 1 DM and was on glargine (20 units at night) and novorapid (6 units before meals). As his clinical condition continued to deteriorate despite best possible medical measures, the admitting team decided that his need was for an end-of-life care pathway.\n\n**Which one of the following is the most appropriate management approach in his case?**",
+    "image": null,
+    "options": {
+      "A": "Give glargine in the morning and stop short-acting insulin",
+      "B": "Give stat doses of short-acting insulin if blood glucose >15 mmol/L",
+      "C": "Stop basal-bolus insulin and monitor blood glucose every 6 hours",
+      "D": "Stop glargine and continue with short-acting insulin",
+      "E": "Switch to variable-rate insulin infusion (VRII)"
+    },
+    "correct": "A",
+    "explanation_md": "At the end of life, the emphasis should be on ensuring the patient is comfortable and pain-free. Frequent monitoring of blood glucose and use of short-acting insulin is not justified. It is equally important to prevent any physical distress caused by extremes of blood glucose readings. In patients with Type 1 DM, once-daily long-acting insulin (preferably injected in the morning) with a once-daily check of blood glucose at 6.00 p.m. is recommended",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 66,
+    "stem_md": "A 25-year-old woman was admitted to hospital with repeated vomiting and abdominal pain. She had a background history of Type 1 DM (diagnosed when she was aged 8 years). She was on a basal-bolus insulin regimen comprising degludec (10 units at night-time) with pre-meal short-acting insulin (dose based on carbohydrate counting). On examination, she was dehydrated. Her respiratory rate was 26/minute and she had blood pressure of 110/60 mm of Hg. Systemic examination was normal. She was diagnosed as having diabetic ketoacidosis (DKA) in the accident and emergency (A&E) department, and she was initiated on treatment based on DKA management national guidelines.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Haemoglobin | 138 g/L | 130–160 |\n| Serum sodium | 140 mmol/L | 135–145 |\n| Serum potassium | 2.9 mmol/L | 3.5–4.5 |\n| eGFR | 52 ml/minute/1.73 m² | |\n| Venous pH | 7.14 | 7.35–7.45 |\n| Venous HCO3 | 12 meq/L | 20–29 |\n| Blood ketones | 4.8 mmol/L | |\n| Blood glucose | 23 mmol/L | |\n| HbA1c | 94 mmol/mol | <48 mmol/mol |\n\nAs you are the medical registrar on call, you are asked by the A & E department’s house officer to accept the patient’s transfer to the medical ward for further management. **The presence of which of the following findings would indicate a need for a referral to the high-dependency unit (HDU)?**",
+    "image": null,
+    "options": {
+      "A": "Blood glucose 23 mmol/L",
+      "B": "Blood ketones 4.8 mmol/L",
+      "C": "pH of 7.14",
+      "D": "Serum bicarbonate 12 mmol/L",
+      "E": "Serum potassium 2.9 mmol/L"
+    },
+    "correct": "E",
+    "explanation_md": "According to the JBDS guidelines for the management of DKA in adults, the presence of one or more of the following may indicate severe DKA:\n\n- Blood ketones >6mmol/L\n- Bicarbonate level <5mmol/L\n- Venous/arterial pH <7.0\n- Hypokalaemia on admission (<3.5mmol/L)\n- GCS <12 or abnormal AVPU scale\n- Oxygen saturation <92% on air, systolic BP < 90 mmHg, pulse >100 or <60 beats/minute\n- Anion gap >16\n\nThe presence of any of these signs should trigger a consultant physician review and a referral to Level 2/HDU. In this patient, her potassium levels are extremely low and might drop further on initiation of fixed-rate insulin infusion. Meticulous fluid replacement with additional potassium replacement might be needed and be deemed safer in the HDU.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 67,
+    "stem_md": "An 80-year-old woman was admitted to the acute medical admission unit as she had been feeling generally unwell for a week. She had a past medical history of hypertension, hypercholesterolaemia, and Type 2 DM. Her medications included metformin (1 g twice daily), sitagliptin (100 mg once daily), and amlodipine (10 mg once daily). On admission, she was confused and dehydrated. Her blood pressure was 100/70 mmHg and her heart rate was 119 beats/minute. She had coarse inspiratory crepitations on auscultation of the right lung base.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Haemoglobin | 102 g/L | 130–160 |\n| Serum sodium | 165 mmol/L | 135–145 |\n| Serum potassium | 4.2 mmol/L | 3.5–4.5 |\n| Urea | 25.5 mmol/L | 2.5–7 |\n| Creatinine | 172 umol/L | 50–120 |\n| eGFR | 23 ml/minute/1.73 m² | |\n| Venous pH | 7.32 | 7.35–7.45 |\n| Venous HCO3 | 18 meq/L | 20–29 |\n| Blood ketones | 0.6 mmol/L | |\n| Blood glucose | 42 mmol/L | |\n| HbA1c | 85 mmol/mol | <48 mmol/mol |\n\n**Which one of the following is the most appropriate initial fluid therapy for her?**",
+    "image": null,
+    "options": {
+      "A": "0.45% sodium chloride",
+      "B": "0.9% sodium chloride",
+      "C": "Fixed-rate insulin infusion at a rate of 0.1 U/kg/hr",
+      "D": "Fixed-rate insulin infusion at a rate of 0.05 U/kg/hr",
+      "E": "Hartmann’s solution"
+    },
+    "correct": "B",
+    "explanation_md": "This patient fulfils the diagnostic criteria of HSS. This is based on the presence of hypovolaemia, significant hyperglycaemia (laboratory glucose >30 mmol/L), without significant capillary ketones (<3 mmol/L and osmolarity of >320 mosmol/kg). HHS carries a higher mortality risk than DKA, which can reach up to 20%. Fluid losses in HHS are estimated to be 100–220 ml/kg (6–13 litres in a person weighing 60 kg and 10–22 litres in a person weighing 100 kg). Extreme caution is needed with regards to the rate of fluid therapy, especially in the elderly, as very rapid rehydration may cause fluid overload and acute pulmonary oedema.\n\nIn HHS, the JBDS recommend the use of 0.9% sodium chloride as the principle fluid to treat hypovolaemia. The use of 0.45% sodium chloride might be considered if the osmolality is not declining despite adequate positive fluid balance with the standard sodium chloride infusion. To avoid rapid fluid replacement, it is recommended to aim for a positive balance of 3–6 litres by 12 hours, while the remaining replacement of estimated fluid losses should be replaced over the next 12 hours.\n\nThe use of intravenous insulin (0.05 units/kg/hr; this is half the dose recombined for DKA) can be considered if the blood glucose is not falling at the expected rate with intravenous fluids alone or in the presence significant ketonaemia (capillary ketones >1 mmol/L or urine ketones greater than 2+).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 68,
+    "stem_md": "A 26-year-old woman was reviewed in the joint antenatal–diabetes clinic. She had a background history of Type 1 DM diagnosed 8 years before. She was on a basal-bolus insulin regimen comprising degludec (14 units at night-time) and novorapid (dose based on carbohydrate counting). She was in the third trimester (33rd week) of pregnancy. Recent serial ultrasound scans had shown accelerated baby growth and evidence of foetal macrosomia. As a result, she was advised to have an elective Caesarean section at the 34th week of her pregnancy. She was keen to understand more about the diabetes care on the day of her planned elective Caesarean section.\n\n**Which one of the following statements is correct regarding care of this women during labour and the post-natal period?**",
+    "image": null,
+    "options": {
+      "A": "Antenatal steroids are contraindicated given the risk of DKA",
+      "B": "Capillary blood glucose should be checked every 2 hours (while on VRIII)",
+      "C": "Capillary blood glucose target should be 6–10 mmol/L",
+      "D": "During breastfeeding, daily caloric intake should be increased",
+      "E": "Long-acting insulin should be stopped in view of the risk of hypoglycaemia"
+    },
+    "correct": "D",
+    "explanation_md": "JBDS guidelines recommend that all women with diabetes during labour should have capillary blood glucose (CBG) testing hourly whilst on variable-rate insulin infusion (VRIII), aiming for a target reading of 4–7 mmol/L. Administration of antenatal steroids is crucial for foetal lung maturity and should be considered for all women at risk for preterm birth, up to 35+6 weeks of gestation. Glycaemic control may deteriorate for up to 72 hours after steroid administration, but this is not a contraindication to steroid therapy.\n\nAs breastfeeding and expressing breast milk can both increase the risk of maternal hypoglycaemia, women should be advised to take extra calories (up to 450 per day) when feeding is fully established. This is done by advising the woman to snack (10–15 g carbohydrate) and drink each time they feed or express milk (including night feeds). Indeed, insulin doses may need adjustment based on calorie and carbohydrate intake.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 69,
+    "stem_md": "A 22-year-old man was admitted to the emergency department with repeated nausea and vomiting, and increasing drowsiness. He was known to have Type 1 DM, although he had not attended a diabetes clinic appointment for the previous 3 years. On examination, his blood pressure was 100/40 mm of Hg. His pulse rate was 104/minute and he had a respiratory rate of 32/minute. Systemic examination was normal.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Serum sodium | 132 mmol/L | 135–145 |\n| Serum potassium | 4.5 mmol/L | 3.5–4.5 |\n| Urea | 12.4 mmol/L | 2.5–7 |\n| Creatinine | 137 umol/L | 50–120 |\n| Venous pH | 7.22 | 7.35–7.45 |\n| Venous HCO3 | 16 meq/L | 20–29 |\n| Blood ketones | 3.5 mmol/L | |\n| Blood glucose | 28 mmol/L | |\n| HbA1c | 127 mmol/mol | <48 mmol/mol |\n\nBased on his clinical presentation and investigation results, a diagnosis of DKA was made and he was treated as per the national DKA treatment protocol. He made a gradual recovery and was transferred across to the medical ward on resolution of DKA, on a variable rate intravenous insulin infusion (VRIII). He remembered that he was prescribed glargine and aspart (novorapid), but he could not recall the dose of insulin injection. He admitted suboptimal compliance with insulin injections and had experienced hypoglycaemic episodes frequently on days when he injected his insulin injection (as per prescribed dose). In the previous 6 hours, he had received 6 units of insulin through the VRIII. His body weight was 60 kg.\n\n**As you are considering switching him from VRIII back to subcutaneous (SC) insulin, what is the estimated dose of glargine for him?**",
+    "image": null,
+    "options": {
+      "A": "9–10 units",
+      "B": "12–14 units",
+      "C": "16–18 units",
+      "D": "20–24 units",
+      "E": "24–28 units"
+    },
+    "correct": "A",
+    "explanation_md": "There are two methods to calculate the total daily dose (TDD) of insulin:\n\n**1. Weight method: TDD = body weight (kg) × (0.3–0.5).** As this patient reported frequent hypoglycaemia, it is safer to start with a lower dose and titrate accordingly. In this patient, TDD is 18 units (weight is 60 kg). After calculating the TDD, half the TDD will be given as basal and the other half will be divided to pre-meal boluses. In this patient, 9 units will be given as basal glargine, while the remaining 9 units are to be divided into 3 units of insulin novorapid before meals.\n\n**2. VRIII method: An estimate of the daily insulin requirement can be made from the last 6 hours of the VRIII as follows:**\n\na) Divide the total dose of insulin administered in the last 6 hours of the VRIII by 6 to calculate the average hourly dose of insulin.\n\nb) Multiply this by 20 (not 24, to reduce the risk of hypoglycaemia) to estimate the patient’s total daily insulin requirement.\n\nc) A further correction may be needed in some patients, depending on individual insulin sensitivity, previous degree of glycaemic control, and severity of intercurrent illness.\n\nThe patient in this scenario has had 6 units of insulin through VRIII in the previous 6 hours. This means that his TDD of insulin is 20 units (remember, as he has risk of hypoglycaemia, we have opted not to give 24 units). Hence, half the TDD (half of 20 = 10) will be given as basal insulin glargine, and the remaining 10 units will be divided as pre-meal boluses (for example, 4 units in the morning, 3 units in the afternoon, 3 units in the evening).",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 70,
+    "stem_md": "A 62-year-old woman was admitted to the HDU after suffering from a left-sided total anterior circulation stroke. She was known to have Type 2 DM and prior to admission was on pre-mixed insulin (humulin M3, 30 units twice daily). She was reviewed by the speech and language therapist and was deemed unsafe for oral feeding. The team decided to insert a nasogastric tube for the purpose of feeding. You were asked to see her to review her insulin regimen. The dietician was aiming to provide the following diet regimen:\n\nCarbohydrate content of feed = 15 g/100 ml\nIntended infusion rate of enteral feed = 100 ml/hour\nIntended duration of feed = 16 hours/day\n\n**What is the estimated humulin M3 dose from carbohydrate feed content that she should be given?**",
+    "image": null,
+    "options": {
+      "A": "18 units",
+      "B": "24 units",
+      "C": "38 units",
+      "D": "40 units",
+      "E": "60 units"
+    },
+    "correct": "D",
+    "explanation_md": "Before we can attempt to calculate the initial insulin requirement for patients starting on enteral feeding, a few points and calculations must first be taken into account:\n\na) Total carbohydrate intake from enteral feed: that is the total carbohydrate intake expected from the enteral feed over the duration of feeding (e.g. 16, 20, 24 hours). This is calculated as:\n\n[infusion rate (ml/hour)] × [carbohydrate content (g/100 ml)] × [duration of feeding] ÷ 100\n\nb) Carbohydrate-to-insulin ratio (CIR): this is how many grams of carbohydrate/glucose are covered by 1 unit of insulin. The blood glucose rise from enteral feeds is much more than would occur for normal meals: therefore, 1 unit of insulin will cover less of a carbohydrate load.\n\n- i If not usually on insulin, use a CIR value of 10.\n- ii If usual total daily insulin dose (TDID) <40 units, use a value of 8.\n- iii If usual TDID >40 units, use a value of 6.\n\nc) Daily nutritional insulin requirement: this is the daily insulin required to cover the enteral feed over the duration of feeding (e.g. 16, 20, 24 hrs). This is calculated as:\n\n**[total carbohydrate intake from feed] ÷ [CIR]**\n\nThis number of units is then divided into two doses: the first to be given at the start of the feed and the other given at the midpoint of the feed.\n\nIn this patient:\n\n- Carbohydrate content of feed = 15 g/100 ml\n- Intended infusion rate of enteral feed = 100 ml/hour\n- Intended duration of feed = 16 hours\n- She was previously on insulin with TDD >40: therefore CIR = 6\n- Total humulin M3 dose = (15 × 100 × 16)/100/6 = 40 units/24 hrs",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 71,
+    "stem_md": "A 54-year-old woman attended the diabetes clinic for a routine annual check-up. She had been diagnosed as having Type 2 DM about 5 years before. She was also known to have hypertension for which she was taking ramipril (10 mg once daily) and amlodipine (5 mg once daily). On examination, her blood pressure (BP) was 150/80 mmHg. Her recent renal function and urinary albumin creatinine ratio were within the normal range.\n\n**Based on NICE guidelines, what should be the target blood pressure reading for this patient?**",
+    "image": null,
+    "options": {
+      "A": "<130/80",
+      "B": "<135/85",
+      "C": "<140/80",
+      "D": "<145/85",
+      "E": "<120/80"
+    },
+    "correct": "C",
+    "explanation_md": "In patients with Type 2 diabetes, NICE recommends a BP target of 140/80 mmHg, while the target for adults with Type 1 diabetes is 135/85 mmHg. A target of 130/80 is recommended by NICE in adults with Type 1 diabetes in the presence of albuminuria or two or more features of metabolic syndromes, and in patients with Type 2 diabetes in the presence of nephropathy, retinopathy, or cerebrovascular disease.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 72,
+    "stem_md": "A 26-year-old man was referred to the lipid clinic in view of incidentally detected high serum cholesterol levels while he underwent routine blood tests for a new job. He was otherwise fit and healthy, with no history of any previous medical illness. He was not on any regular medications. His father had Type 2 diabetes and had suffered from a myocardial infarction aged 48 years. On examination, the patient had a BMI of 30 mm/kg² and BP of 130/70 mm of Hg.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 140 mmol/L | 135–145 |\n| K | 4.3 mmol/L | 3.5–5.5 |\n| Urea | 10 mg/dL | 7–20 |\n| Creatinine | 100 µmol/L | 60–115 |\n| eGFR | >90 mL/minute/1.73 m² | |\n| HbA1c | 34 mmol/mol | <48 |\n| Total cholesterol | 7.8 mmol/L | <5 |\n| Serum triglycerides | 1.2 mmol/L | <4.5 |\n| Non-HDL cholesterol | 6.4 mmol/L | <4 |\n\n**Which one of the following is the next step in his management?**",
+    "image": null,
+    "options": {
+      "A": "Calculate QRISK3 score to assess the need for statins",
+      "B": "Refer him to the familial hypercholesterolaemia specialist service",
+      "C": "Repeat fasting-lipid profile",
+      "D": "Start fibrates",
+      "E": "Start high-dose statin therapy"
+    },
+    "correct": "B",
+    "explanation_md": "The young patient in this scenario has a clinical diagnosis of possible familial hypercholesterolaemia (FH) based on Simon Broome criteria, as he has two readings of total cholesterol >7.5 mmol/L and history of premature cardiovascular events in his first-degree relatives. The QRISK3 score should not be used if FH is suspected, but instead, the Simon Broome criteria or the Dutch Lipid Clinic Network Score (DLCNS) are often used to make a clinical diagnosis of FH and assess the need for genetic testing. NICE recommends referring a person to an FH specialist service for DNA testing if they meet the Simon Broome criteria for possible or definite FH, or they have a DLCN score >5.",
+    "review": null
+  },
+  {
+    "chapter": 6,
+    "number": 73,
+    "stem_md": "A 54-year-old man was referred to the lipid clinic in view of deranged lipid profile and intolerance to statins therapy. He was known to have hypertension, Type 2 diabetes, and mixed dyslipidaemia, which was diagnosed after he had suffered a myocardial infarction at the age of 45 years. After this event, he had had two coronary stents and was started on atorvastatin 40 mg once daily. Subsequently, he reported extreme muscle pains despite trying different statins including atorvastatin, simvastatin, and rosuvastatin over the previous 5 years. He had been off statin therapy for the previous 2 years and was not keen to try one. Recently, he had suffered from another myocardial infarction which had necessitated coronary arteries bypass grafting (CABG).\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| Total cholesterol | 6.3 mmol/L | <5 |\n| HDL-cholesterol | 1.2 mmol/L | |\n| Serum triglycerides | 2.7 mmol/L | <4.5 |\n| Non-HDL cholesterol | 5.1 mmol/L | <4 |\n| Calculated LDL-C | 3.5 mmol/L | |\n\n**Which of the following is the most appropriate management approach based on his clinical presentation?**",
+    "image": null,
+    "options": {
+      "A": "Evacetrapib",
+      "B": "Evolocumab",
+      "C": "Ezetimibe",
+      "D": "Fenofibrate",
+      "E": "Niacin"
+    },
+    "correct": "B",
+    "explanation_md": "Evolocumab is recommended as an option for treating primary hypercholesterolaemia or mixed dyslipidaemia when the low-density lipoprotein concentrations (LDL-C) are persistently above the thresholds specified despite maximal tolerated lipid-lowering therapy. That is, either the maximum dose has been reached or further titration is limited by intolerance. Bile acid sequestrant (resin), fenofibrate, and LDL-apheresis can be considered in patients with FH, but not mixed dyslipidaemia, who have either intolerance or contraindications to statins or ezetimibe",
+    "review": null
+  }
+]

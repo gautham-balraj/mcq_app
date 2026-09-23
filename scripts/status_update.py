@@ -10,8 +10,7 @@ try:
     cursor.execute("""
         UPDATE questions
         SET status = 'verified'
-        WHERE chapter = 1
-          AND review_note IS NULL;
+        WHERE chapter = 6;
     """)
 
     conn.commit()
