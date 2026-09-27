@@ -1,0 +1,1042 @@
+[
+  {
+    "chapter": 2,
+    "number": 1,
+    "stem_md": "During embryological development, the thyroid gland originates from the floor of the pharynx as an outpouching. Microscopically, the gland is composed of a series of follicles that synthesize thyroglobulin (Tg) and parafollicular (C) cells, which secrete calcitonin during adult life.\n\n**The embryological origin for the parafollicular cells of the thyroid is from which one of the following sources?**",
+    "image": null,
+    "options": {
+      "A": "Base of the tongue",
+      "B": "Ectoderm of the floor of pharynx",
+      "C": "Foramen caecum",
+      "D": "Lateral pharyngeal pouches",
+      "E": "Neural crest and/or endoderm germ cells"
+    },
+    "correct": "E",
+    "explanation_md": "The thyroid gland is usually the first endocrine gland to develop in the body, at around 24 days of gestation. It originates as a proliferation of endodermal epithelium on the floor of the developing pharynx, with some contribution from the lateral pharyngeal pouches. The foetal thyroid gland is connected to the tongue by the thyroglossal duct, which subsequently solidifies and becomes completely obliterated by 8–10 weeks of gestation. During development, the posterior aspect of the thyroid gland becomes associated with the parathyroid gland and the para-follicular cells (C cells) derived from the ultimo-branchial body. The ultimo-branchial body is believed to originate from the fifth pharyngeal pouch, with infiltration of cells migrating from the neural crest. However, the neural crest derived origin of C cells has been challenged by recent genetic studies in mice which suggest progenitors of C cells arising in endoderm germ cells.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 2,
+    "stem_md": "Thyroid hormones are transported in serum, bound to carrier proteins such as thyroxine-binding globulin (TBG), transthyretin (TTR), and albumin. TBG comprises a single polypeptide chain (containing four carbohydrate chains) and is the major transporter of thyroid hormones.\n\n**Which one of the following is associated with an increase in TBG levels?**",
+    "image": null,
+    "options": {
+      "A": "Active acromegaly",
+      "B": "Anabolic steroids",
+      "C": "Androgens",
+      "D": "Chronic liver disease",
+      "E": "Tamoxifen"
+    },
+    "correct": "E",
+    "explanation_md": "TBG has a high affinity for thyroid hormones and carries about 70% of circulating T3 and T4. TBG levels are influenced by a wide array of clinical conditions and medications as shown in Table 2.1. Inherited defects of TBG are uncommon, although these can lead to alteration and misinterpretation of the thyroid function test. The affected individuals with an inherited TBG defect remain clinically euthyroid and require no treatment.\n\n**Table 2.1** Clinical conditions and medications that influence TBG levels\n\n| TBG increased | TBG decreased |\n|---|---|\n| Newborn | Androgens |\n| Oestrogen | Large-dose steroids, Cushing's disease |\n| Tamoxifen | Chronic liver disease |\n| Hepatitis A, chronic active hepatitis | Severe systemic illness |\n| Biliary cirrhosis | Active acromegaly |\n| Oral contraceptive pills | Nephrotic syndrome |\n| Pregnancy | Drugs: phenytoin |",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 3,
+    "stem_md": "A 17-year-old girl was incidentally detected to have abnormal thyroid function test (TFT) results, as part of routine tests to ascertain the cause of her tiredness. She denied any weight gain, menstrual irregularity, cold intolerance, or constipation. She had a strong family history of thyroid dysfunction, with her elder brother and maternal uncle noted to have abnormal thyroid function, although none had received any medications. On examination, she had mild tremors in her hands and a pulse rate of 76 beats/minute with the rest of the general physical and systemic examination being unremarkable.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 24.4 pmol/L | 11.5–19.7 |\n| FT3 | 7.8 pmol/L | 3.5–6.5 |\n| TSH | 7.2 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most likely diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Pregnancy",
+      "B": "Prolactinoma",
+      "C": "Resistance to thyroid hormone",
+      "D": "Subclinical hyperthyroidism",
+      "E": "Subclinical hypothyroidism"
+    },
+    "correct": "C",
+    "explanation_md": "Impaired sensitivity to thyroid hormone (TH) action can be due to:\n\n- TH cell membrane transport defects (e.g. X-linked MCT8 gene mutation)\n- TH metabolism defects (reduced conversion of FT4 to FT3 due to DI2 polymorphism)\n- TH action defects (TRα1, TRβ1, or TRβ2 mutations)\n\nTHs mediate their actions via nuclear receptors (TRα1, TRβ1 & TRβ2). Tissues which predominantly express TRα include the heart and bone, while the liver, kidney, lungs, pituitary, and hypothalamus predominantly express TRβ. Resistance to thyroid hormone (RTH) due to mutations in α and β subunits leads to distinct phenotypes as summed up in Table 2.2.\n\n**Table 2.2** TH receptor mutation subtypes: clinical characteristics and management\n\n| Gene mutation | Clinical characteristics | Thyroid function test | Management |\n|---|---|---|---|\n| TRβ heterozygous | Variable presentation, may be asymptomatic, small goitre | Raised FT4 & FT3, non-suppressed TSH | Mild disease does not usually require anti-thyroid medications |\n| TRβ homozygous | Large goitre, dysmorphia, tachycardia, developmental delay | Raised FT4 & FT3, TSH normal–high normal | β blockers may be needed |\n| TRα | Short stature, skeletal defects, mild cognitive impairment, bradycardia | FT4 low normal, FT3 high normal, TSH normal or high | Thyroxine therapy to normalize TSH |\n| SECISBP2 | Short stature, delayed bone age | Elevated FT4, low FT3, mildly elevated TSH | Thyroxine therapy |\n| DI2 polymorphism | Obesity, T2DM | Normal FT4, FT3, TSH | T3 therapy? |\n\nAbbreviations: DI2: deiodinase 2; TR: thyroid receptor\n\nRTH can be:\n\n- Generalized resistance\n- Selective pituitary resistance\n- Selective peripheral resistance\n\nRTH due to TRβ homozygous gene mutation is characterized by a severe phenotype apart from elevated FT4 and FT3 in the presence of a non-suppressed TSH. Heterogeneous TRβ gene mutation is characterized by asymptomatic clinical state, although there may be a small palpable goitre in patients with selective pituitary resistance. Other clinical features that may be present include short stature, hyperactivity, and inattention, with or without learning difficulties. Most patients do not require any treatment, although β-blockers can be used to ameliorate symptoms, mostly in patients with selective pituitary resistance.\n\nRTH can be distinguished from a TSH-secreting adenoma (TSHoma) on the basis of a low α subunit to TSH molar ratio of <1, dynamic testing using TRH stimulation (an increase of TSH secretion is seen in RTH), and MRI of the pituitary.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 4,
+    "stem_md": "Genetic analysis confirmed the diagnosis of thyroid hormone resistance syndrome in this same patient.\n\n**Which one of the following is most commonly associated with thyroid hormone resistance syndrome?**",
+    "image": null,
+    "options": {
+      "A": "Heterozygous mutation of both TRα and TRβ gene",
+      "B": "Heterozygous mutation of TRα gene",
+      "C": "Heterozygous mutation of TRβ gene",
+      "D": "Homozygous mutation of TRα gene",
+      "E": "Homozygous mutation of TRβ gene"
+    },
+    "correct": "C",
+    "explanation_md": "Thyroid hormones circulate mostly bound to TBG, TTR, and albumin. It is the free hormones (FT3 and FT4) that are biologically active and transported within the cells (by passive diffusion or specific carriers) to bind to specific receptors in the cell nucleus. The nuclear receptors for the thyroid hormone belong to a family of receptors that are similar to receptors for glucocorticoids, oestrogens, retinoic acid, and mineralocorticoids.\n\nThe thyroid hormone receptor is encoded by two genes—TRα and TRβ—located on chromosomes 17 and 4, respectively. These genes further produce two products each (TRα1 and 2; TRβ1 and 2). Mutations in the ligand-binding domain of thyroid receptors are associated with thyroid hormone resistance syndrome. Most of these mutations have an autosomal dominant mode of inheritance.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 5,
+    "stem_md": "TSH synthesis and secretion is mainly influenced by serum levels of thyroid hormones (FT4 and FT3) and, to a certain extent, by a few hormones and drugs.\n\n**Which one of the following medications/hormones stimulates the release of TSH?**",
+    "image": null,
+    "options": {
+      "A": "Arginine-vasopressin",
+      "B": "Dopamine agonists",
+      "C": "Glucocorticoids",
+      "D": "Growth hormone",
+      "E": "Somatostatin"
+    },
+    "correct": "A",
+    "explanation_md": "TSH is a glycoprotein synthesized and secreted by thyrotrophs of the anterior pituitary gland. It is composed of two subunits, α and β, linked together by non-covalent bonds. The β subunit is common between other glycoprotein hormones, such as FSH, LH, and hCG, while the α subunit confers its specific biological activity and binding properties. TSH synthesis and release may be stimulated/inhibited by certain hormones and drugs as shown in Table 2.3.\n\n**Table 2.3** Predominant effect of various hormones on TSH secretion\n\n| TSH stimulation | TSH inhibition |\n|---|---|\n| Thyrotropin-releasing hormone | Thyroid hormones and analogues |\n| Opioids | Dopamine agonists |\n| Arginine-vasopressin | Gastrin |\n| Glucagon-like peptide 1 | Somatostatin |\n| Leptin | Glucocorticoids |\n| | Growth hormone |",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 6,
+    "stem_md": "TSH controls thyroid cell growth and hormone synthesis by binding to specific TSH receptor (TSH-R).\n\n**Which one of the following is a correct description for TSH-R?**",
+    "image": null,
+    "options": {
+      "A": "Intra-cytoplasmic receptor",
+      "B": "Nuclear receptor",
+      "C": "Peptide receptor",
+      "D": "Steroid type receptor",
+      "E": "Transmembrane G protein coupled receptor"
+    },
+    "correct": "E",
+    "explanation_md": "TSH binds to the TSH-R, which is a transmembrane G protein-coupled receptor on the thyroid cells membrane. The binding activates the G protein-linked adenyl cyclase-cAMP signalling cascades. TSH-R also has binding sites for stimulating (TSH-R Ab, stim) and blocking antibodies (TSH-R Ab block), which are seen in patients with Graves' disease and autoimmune atrophic thyroiditis, respectively. Mutations of TSH-R can lead to either hyperthyroidism (due to spontaneous activation of the receptor) or hypothyroidism (due to TSH resistance).",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 7,
+    "stem_md": "Thyroid follicle cells synthesize thyroglobulin (Tg), which is comprised of tyrosyl residues, carbohydrates, and iodide.\n\n**Which one of the following conditions is associated with decreased Tg levels?**",
+    "image": null,
+    "options": {
+      "A": "Graves' disease (GD)",
+      "B": "Hyperthyroidism",
+      "C": "Subacute thyroiditis",
+      "D": "Thyrotoxicosis factitia",
+      "E": "Untreated differentiated thyroid cancers"
+    },
+    "correct": "D",
+    "explanation_md": "Thyroglobulin (Tg) is a dimeric glycoprotein that is synthesized and utilized within the thyroid gland. Tg plays a crucial role in the synthesis of thyroid hormones, which takes place at the interface between follicle cells and the colloid. Low levels of Tg are seen in thyrotoxicosis factitial, in contrast to high Tg levels and depressed uptake on scintigraphy seen in patients with thyroiditis.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 8,
+    "stem_md": "A 70-year-old man was admitted to the intensive care unit with features of septicaemia due to community-acquired pneumonia. His thyroid function tests, which were carried out within 48 hours of admission, showed an abnormal pattern which was attributed to a non-thyroidal illness syndrome (NTIS).\n\n**Which one of the following is the typical pattern of thyroid dysfunction seen in NTIS?**",
+    "image": null,
+    "options": {
+      "A": "Elevated levels of T3 and T4; low levels of reverse T3",
+      "B": "Elevated levels of T3, T4, and reverse T3",
+      "C": "Low levels of T3 and T4; elevated levels of reverse T3",
+      "D": "Low levels of T3 and T4; normal levels of reverse T3",
+      "E": "Low levels of T3, T4, and reverse T3"
+    },
+    "correct": "C",
+    "explanation_md": "Non-thyroidal illness syndrome (NTIS) is described as a state of thyroid dysfunction often seen in the context of a severe or life-threatening illness (e.g. septicaemia, organ failure, end-stage malignancy) in the absence of a previous hypothalamic–pituitary–thyroid abnormality. It is characterized by low T3 and T4 levels along with elevated levels of reverse T3. Reverse T3 levels are generally increased due to inhibition of normal Type 1 deiodinase enzyme (D1) or reduced clearance of reverse T3. There is no evidence to suggest the role of thyroid hormone therapy in patients with NTIS.\n\n**Table 2.4** Possible mechanisms which contribute to thyroid hormone changes in NTIS\n\n| Organ/Tissue/Cell | Mechanism | Impact of thyroid hormone |\n|---|---|---|\n| Hypothalamus | Decreased leptin levels; increased D2 (tanycytes) | Decreased TRH secretion |\n| Pituitary | Increased cytokines | Decreased TSH secretion |\n| Plasma | Decreased TBG | Decreased total T4 & total T3 |\n| Deiodination | Decreased D1 (liver, kidney); decreased D2 (muscle) | Modest fall in free T3 & free T4 levels |\n| TH receptors | Acute illness | Decreased expression |\n\nAbbreviations: D: deiodinases; TH: thyroid hormone",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 9,
+    "stem_md": "Thyroid hormone signalling can alter at the individual tissue level, based on activation or inactivation of thyroid hormone by the process of deiodination. Three different deiodinase enzymes are known to exist and play a part in influencing thyroid hormone signalling at tissue level.\n\n**Which one of the following correctly describes the commonest 5' deiodinase enzyme present in neurons, and its role?**",
+    "image": null,
+    "options": {
+      "A": "Type 1 deiodinase, leading to decreased T3",
+      "B": "Type 1 deiodinase, leading to increased T3",
+      "C": "Type 2 deiodinase, leading to decreased T3",
+      "D": "Type 2 deiodinase, leading to increased T3",
+      "E": "Type 3 deiodinase, leading to increased T3"
+    },
+    "correct": "D",
+    "explanation_md": "The conversion of T4 to T3 is mediated by the activity of 5' deiodinase (D) enzymes. Deiodination of the outer ring of T4 results in the formation of biologically active T3, while deiodination of the inner ring leads to formation of metabolically inert reverse T3. Three different types of deiodinase enzymes are known to exist, with D2 believed to be the main activating enzyme in humans.\n\n**Table 2.5** Various 5' deiodinase enzymes and their clinical significance\n\n| Type of 5' deiodinase | Site | Action | Role |\n|---|---|---|---|\n| Type 1 | Liver, muscle, kidneys | Acts on outer as well as inner ring of T4 | Increased in hyperthyroidism |\n| Type 2 | Neurons, heart, skeletal muscle, brown adipose tissue | Acts on outer ring of T4 to produce T3 | Main activating enzyme in hypothalamus |\n| Type 3 | Placenta, embryo, proliferative tissue (e.g. cancer cells) | Acts on inner ring of T4 to produce RT3 | Protects placenta from excess T3 and T4; overexpressed in cancer cells |\n\nThe DIO2 gene encodes for D2 enzyme. The Thr92Ala-DIO2 polymorphism has been observed to reduce thyroid hormone signalling and cause systemic and/or localized hypothyroidism.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 10,
+    "stem_md": "**Which one of the following medications is associated with an increase in serum-free thyroid hormone levels although the TSH levels remain normal (mimicking test results seen in thyroid hormone resistance)?**",
+    "image": null,
+    "options": {
+      "A": "Cholestyramine",
+      "B": "Enoxaparin",
+      "C": "Iron preparations",
+      "D": "Lithium",
+      "E": "Oestrogen"
+    },
+    "correct": "B",
+    "explanation_md": "Heparin and low molecular weight heparin preparations such as enoxaparin are associated with increased release of lipoprotein lipase from vascular endothelium. Lipoprotein lipase induces free fatty acid generation which can lead to displacement of T4 and T3 from binding proteins and spurious TFT results.\n\n**Table 2.6** Drugs which may lead to spurious thyroid laboratory test results\n\n| Medication | Lab results | Condition mimicked |\n|---|---|---|\n| Carbamazepine, phenytoin, NSAID | Low/low normal FT4 & FT3, TSH normal | Central hypothyroidism |\n| Heparin, enoxaparin | High FT4 & FT3, TSH normal | TSHoma, RTH |\n\nAbbreviations: NSAID: non-steroidal anti-inflammatory drugs; RTH: resistance to thyroid hormone\n\nMedications can impact thyroid hormone synthesis, secretion, protein binding, and metabolism as shown in Table 2.7.\n\n**Table 2.7** Influence of various medications on thyroid function\n\n| Mechanism of interference | Medications |\n|---|---|\n| Increase TBG | Oestrogen, tamoxifen, heroin, methadone, clofibrate |\n| Decrease TBG | Androgens, anabolic steroids, glucocorticoids, niacin |\n| Interfere with thyroid hormone binding | Furosemide, mefanamic acid, salicylates, phenytoin, diazepam, sulphonylureas, heparin |\n| Inhibit conversion of T4 to T3 | Propylthiouracil, glucocorticoids, propranolol, iodinated contrast agents, amiodarone, clomipramine |\n| Increase hepatic metabolism | Phenobarbital, rifampicin, phenytoin, carbamazepine |\n| Decrease T4 absorption or enhance excretion | Cholestyramine, colestipol, aluminium hydroxide, ferrous sulphate, sucralfate, amiodarone |\n| Decrease T3/T4 synthesis and/or secretion | Lithium, propylthiouracil, carbimazole, thiocyanate, perchlorate, amiodarone |\n| Increase T3/T4 synthesis and/or secretion | Iodide, amiodarone, cytokines |\n| Decrease TSH concentration | GH, somatostatin, opiates, dopamine, bromocriptine |\n| Autoimmune hypophysitis and/or enhanced thyroid autoimmunity | Immune checkpoint inhibitors (e.g. CTLA4 & PD-1) |\n\nAbbreviations: CTLA4: cytotoxic T lymphocyte antigen 4; GH: growth hormone; PD-1: programmed cell death-1 receptor; TBG: thyroxine-binding globulin",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 11,
+    "stem_md": "A 52-year-old woman was referred to the thyroid clinic with a lump in her neck which was first noticed by her about 4 weeks before. She had no past medical history of exposure to radiation. There was no family history of thyroid carcinoma. On examination, a 2-cm left-sided thyroid nodule was palpable. She underwent ultrasound-guided fine-needle aspiration cytology (FNAC) of the nodule. The histopathology report of the FNAC confirmed the presence of Thy3f cytology.\n\n**Which one of the following is the most appropriate management approach for a Thy3f cytology, based on the British Thyroid Association (BTA) 2014 guidelines for thyroid cancer?**",
+    "image": null,
+    "options": {
+      "A": "Discharge from follow-up",
+      "B": "Left-sided diagnostic hemithyroidectomy",
+      "C": "Radio-iodine ablation",
+      "D": "Repeat fine-needle aspiration cytology (FNAC) in 3–6 months",
+      "E": "Total thyroidectomy"
+    },
+    "correct": "B",
+    "explanation_md": "According to the 2014 BTA guidelines for thyroid cancer, most patients with Thy3f cytology have a suspected follicular neoplasm (see Table 2.8). These patients should be discussed at the thyroid cancer multidisciplinary team (MDT) meeting, with most of them requiring diagnostic hemithyroidectomy (the lobe containing the nodule) and completion thyroidectomy if histology confirms carcinoma.\n\n**Table 2.8** Thy classification for thyroid cancer\n\n| FNAC result | Interpretation | Action |\n|---|---|---|\n| Thy 1 | Non-diagnostic | US +/- repeat FNAC |\n| Thy1c | Cyst fluid sample | |\n| Thy 2 | Non-neoplastic | Correlate with clinical & radiological findings |\n| Thy3a | Atypical features | US +/- FNAC (if repeat FNAC Thy3a, MDT discussion) |\n| Thy3f | Suspected follicular neoplasm | Diagnostic hemithyroidectomy |\n| Thy 4 | Suspicious of malignancy | Diagnostic hemithyroidectomy |\n| Thy 5 | Diagnostic of malignancy | Discuss at MDT meeting; may require surgery and/or radiotherapy and/or chemotherapy based on tumour type |",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 12,
+    "stem_md": "A 35-year-old woman was referred by her GP to the thyroid clinic with a painless lump in the neck first noticed about 3 months before. She was otherwise well and asymptomatic. There was no history of radiation exposure. There was no family history of thyroid cancer. On examination, a 1.5-cm firm thyroid nodule was palpable. There was no cervical lymphadenopathy. Ultrasound-guided fine-needle aspiration cytology (FNAC) was carried out. The histopathology report of the FNAC confirmed the presence of Thy2 cytology.\n\n**Which one of the following is the correct description of Thy2 cytology?**",
+    "image": null,
+    "options": {
+      "A": "Follicular adenoma",
+      "B": "Follicular carcinoma",
+      "C": "Non-diagnostic test",
+      "D": "Non-neoplastic lesion",
+      "E": "Suspicious malignancy"
+    },
+    "correct": "D",
+    "explanation_md": "A Thy2 result on FNAC is suggestive of a non-neoplastic lesion. The suggestive clinical action for a Thy2 report remains clinical and radiological correlation.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 13,
+    "stem_md": "A 45-year-old man of Indian subcontinent origin was referred to the endocrine clinic with symptoms of malaise, weight gain, and cold intolerance. He had a past medical history of primary autoimmune hypothyroidism and had been taking thyroxine (100 µg/day) for the last 5 years. He had been reviewed in a respiratory clinic 6 weeks earlier and diagnosed with pulmonary tuberculosis. As a result, he was initiated on a combination chemotherapy regimen for tuberculosis, comprising isoniazid, rifampicin, ethambutol, and pyrazinamide.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 10.2 pmol/L | 11.5–22.7 |\n| TSH | 10.4 mU/L | 0.35–5.5 |\n| Anti-TPO antibody | Positive | |\n\n**Which one of the following is the most likely explanation for his symptoms and biochemistry results?**",
+    "image": null,
+    "options": {
+      "A": "Flare-up of autoimmune activity with tuberculosis",
+      "B": "Thyroxine interaction with ethambutol",
+      "C": "Thyroxine interaction with isoniazid",
+      "D": "Thyroxine interaction with rifampicin",
+      "E": "Poor compliance"
+    },
+    "correct": "D",
+    "explanation_md": "This man was on a stable dose of thyroxine and developed clinical and biochemical features of hypothyroidism 6 weeks after starting chemotherapy for tuberculosis. Rifampicin is an inducer of hepatic enzymes and accelerates the metabolism of several drugs. In this clinical scenario, his thyroxine dose needs to be increased due to its interaction with rifampicin.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 14,
+    "stem_md": "A 44-year-old woman was referred to the clinic with occasional episodes of palpitations and flushing lasting for a few minutes. These episodes had no obvious precipitating factor and were not associated with any chest pain or tightness. On examination, she had resting tremors and a pulse rate of 84 beats/minute with a regular rhythm. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 20.2 pmol/L | 11.5–22.7 |\n| TSH | 0.18 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n\n**Which one of the following is the most appropriate management approach, based on her clinical profile and test results?**",
+    "image": null,
+    "options": {
+      "A": "Commence on carbimazole",
+      "B": "Commence on β-blockers only",
+      "C": "Observe and monitor TFTs",
+      "D": "Radioactive iodine ablation (RAIA)",
+      "E": "Arrange a thyroid uptake scan"
+    },
+    "correct": "C",
+    "explanation_md": "Subclinical hyperthyroidism (SH) is characterized by normal FT4 and low TSH levels. It can be broadly divided into two subgroups based on TSH levels: (a) suppressed TSH (<0.1 mU/L) and (b) a low TSH (0.1–0.4 mU/L). Progression to overt hypothyroidism is more common in the patients with suppressed TSH as compared to ones with low TSH. The management approach to such patients should include:\n\n1. Confirm the biochemical test results: repeat the TFT in 2–6 weeks for patients with a high risk of complications (e.g. atrial fibrillation, heart failure, ischaemic heart disease, osteoporosis) or in 3–6 months in patients without these risk factors.\n2. Establish the underlying aetiology: a persistently low/suppressed TSH is likely to be due to a solitary or multiple toxic multinodular goitre or Graves' disease. TSH receptor antibody and/or thyroid uptake scan are useful investigations which can help to establish the diagnosis.\n3. Assess for associated co-morbidities: SH is associated with increased cardiovascular morbidity and mortality, increased risk of arrhythmia, and osteoporosis.\n\n**Table 2.9** Management approach for subclinical hyperthyroidism\n\n| Factor | TSH <0.01 mU/L | TSH 0.01–0.04 |\n|---|---|---|\n| Age >65 years | Treat | Consider treatment |\n| Age <65 years with one or more co-morbidities (e.g. heart disease, osteoporosis) | Treat | Consider treatment |\n| Age <65 years (asymptomatic) | Consider treatment | Observe |\n\nThis woman has SH as evidenced by a normal FT4 with a suppressed TSH level. As she has non-specific symptoms together with a measurable TSH level, with no features of an exogenous thyroid dysfunction, the management approach should be conservative at this stage.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 15,
+    "stem_md": "A 40-year-old woman presented to her GP with general lethargy and difficulty in sleeping. She was not on any regular drug replacement and there was no family history of thyroid disease. Her general physical and systemic examination was unremarkable.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 23.8 pmol/L | 11.5–19.7 |\n| FT3 | 8.8 pmol/L | 3.5–6.5 |\n| TSH | 5.8 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate next step in her management?**",
+    "image": null,
+    "options": {
+      "A": "Commence carbimazole",
+      "B": "Commence thyroxine",
+      "C": "Consider assay interference",
+      "D": "Genetic tests for thyroid hormone resistance",
+      "E": "Urgent MRI of the pituitary"
+    },
+    "correct": "C",
+    "explanation_md": "The possibility of assay interference needs to be considered whenever there is a discrepancy between clinical features and biochemical results. Assay interference can be due to macro-TSH, heterophilic antibodies, thyroid hormone autoantibodies, biotin, and anti-streptavidin antibodies. The TFT should be repeated from a different laboratory, using a different assay method.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 16,
+    "stem_md": "A 66-year-old farmer was incidentally detected to have abnormal thyroid function while he was hospitalized for a pulmonary embolism and undergoing anti-coagulation therapy with low molecular weight heparin.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–19.7 |\n| FT3 | 6.8 pmol/L | 3.5–6.5 |\n| TSH | 4.8 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate step in his immediate management?**",
+    "image": null,
+    "options": {
+      "A": "Commence carbimazole",
+      "B": "Consider RAI",
+      "C": "Observe",
+      "D": "Thyroid uptake scan",
+      "E": "Urgent MRI of the pituitary"
+    },
+    "correct": "C",
+    "explanation_md": "Heparin leads to an increased release of lipoprotein lipase from the vascular endothelium, producing a rise in the levels of free fatty acid (FFA). High levels of FFA inhibit the binding of thyroid hormones to their plasma-binding proteins, producing a rise in measured quantities of thyroid hormones. Spurious test results can be avoided by taking TFT samples at least 10 hours after heparin injection and with immediate analysis of the sample.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 17,
+    "stem_md": "A 32-year-old woman was admitted to the medical assessment unit with nausea, vomiting, and dehydration. She also complained of intermittent headaches and visual blurring.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT3 | 7.1 pmol/L | 3.5–6.5 |\n| FT4 | 21.3 pmol/L | 11.5–19.7 |\n| TSH | 4.1 mU/L | 0.35–5.5 |\n\n**Which one of the following tests may be useful to diagnose TSHoma?**",
+    "image": null,
+    "options": {
+      "A": "A 3-mm lesion in the pituitary on MRI",
+      "B": "Blunted or absent response to TRH stimulation",
+      "C": "Decreased α subunit/TSH molar ratio",
+      "D": "Low to normal level of SHBG",
+      "E": "Negative gene sequencing for THRB gene"
+    },
+    "correct": "B",
+    "explanation_md": "The main differential diagnosis for elevated TSH, in the presence of normal or high FT4 and FT3, includes a TSHoma, immune assay interference, and thyroid hormone resistance (THR).\n\n**Table 2.10** Approach to patient with possible diagnosis of TSHoma\n\n| Steps | Differential diagnosis | Investigations |\n|---|---|---|\n| Step 1: Consider differential diagnosis | Medications (e.g. oestrogen), pregnancy, non-thyroidal illness, subacute thyroiditis, assay interference, THR | Medication history, family history, repeat TFT in 3–4 weeks, use different immunoassay, SHBG, pituitary function test |\n| Step 2: Supportive evidence for diagnosis of TSHoma | TRH test, α subunit measurement, somatostatin test, T3 suppression test, MRI of pituitary | Blunted TSH response to TRH stimulation, increased α subunit/TSH molar ratio, reduced FT4 & FT3, TSH not suppressed, MRI findings (typically, a macroadenoma) |\n\nIn clinical practice, TSHoma are rare and a methodical approach focusing on history, clinical examination, and biochemical and radiological investigations can help establish the diagnosis.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 18,
+    "stem_md": "A 35-year-old woman presented to her GP with increasing anxiety, palpitations, weight loss, and irregular menstrual periods. On examination, she had bilateral tremors, proptosis, and a palpable small goitre.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 27.2 pmol/L | 11.5–22.7 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Positive | |\n| Anti-TPO antibody | Positive | |\n\n**What percentage of patients with Graves' disease demonstrate a positive anti-thyroid peroxidase (anti-TPO) antibody status?**",
+    "image": null,
+    "options": {
+      "A": "<5%",
+      "B": "15–20%",
+      "C": "40–50%",
+      "D": "70–80%",
+      "E": "95–100%"
+    },
+    "correct": "D",
+    "explanation_md": "Anti-thyroid peroxidase (anti-TPO) antibodies are specific for the auto-antigen TPO, a 105-kDa glycol-protein that catalyses iodine oxidation and Tg tyrosyl iodination reactions in the thyroid gland. Anti-TPO antibodies may contribute to minor thyrocyte cytotoxicity in Hashimoto's thyroiditis, although they have no established role in the aetio-pathogenesis of Graves' disease. They can cross the placenta to a variable extent, although there is no conclusive evidence regarding their impact on neonatal health.\n\n**Table 2.11** Status of anti-TPO antibodies in various conditions\n\n| Clinical state | % anti-TPO positive |\n|---|---|\n| Hashimoto's thyroiditis | 90–95% |\n| Graves' disease | 70–80% |\n| Normal individuals | 10–15% |\n\nHigh serum antibodies are found in active-phase chronic autoimmune thyroiditis. Thus, an antibody titre can be used to assess disease activity in patients that have developed such antibodies. The majority of anti-TPO antibodies are produced by thyroid-infiltrating lymphocytes, with minor contributions from lymph nodes and the bone marrow.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 19,
+    "stem_md": "A 22-year-old man presented to his GP with weight gain, lethargy, and cold intolerance. He had a background history of primary hypothyroidism for which he was taking thyroxine (125 µg) tablets once a day. He also had bronchial asthma for which he was on salbutamol inhaler (prn).\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–22.7 |\n| FT3 | 6.4 pmol/L | 3.5–6.5 |\n| TSH | 8.2 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management approach in this clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "Counselling regarding compliance with therapy",
+      "B": "Increase thyroxine dose",
+      "C": "Reduce thyroxine dose",
+      "D": "Repeat TFTs in 6–8 weeks",
+      "E": "Switch to liothyronine (T3)"
+    },
+    "correct": "A",
+    "explanation_md": "Poor compliance with thyroxine replacement can lead to discordant TFT results. Intermittent hormone ingestion may result in normal or even elevated thyroid hormone levels, although the TSH levels may show a lag in normalization.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 20,
+    "stem_md": "**Which one of the following body fluids has a 50-fold lower concentration of thyroid hormones and metabolites levels compared with serum?**",
+    "image": null,
+    "options": {
+      "A": "Breast milk",
+      "B": "CSF",
+      "C": "Saliva",
+      "D": "Tissue fluid",
+      "E": "Urine"
+    },
+    "correct": "B",
+    "explanation_md": "The 24-hour excretion of T4 in urine in normal adults ranges from 4 to 13 µg and from 1.8 to 3.7 µg, depending on whether total or only conjugated T4 is measured. Corresponding normal ranges for T3 are 2.0–4.0 µg and 0.4–1.9 µg. Striking seasonal variations have been shown for the urinary excretion of both of these hormones.\n\nThe T4 concentration in amniotic fluid averages from 0.5 µg/dL, with a range from 0.15 to 1.0 µg/dL, and thus is very low when compared with values in maternal and cord serum. The FT4 concentration is, however, twice as high in amniotic fluid relative to serum.\n\nThe concentrations of both T4 and T3 in CSF are approximately 50-fold lower than those of serum. However, the concentration of the free forms is similar to those in the serum.\n\nThe total T4 concentration in human milk is around 0.03–0.5 µg/dL. The total T3 concentration ranges from 10 to 200 ng/dL. Thus, it is unlikely that milk would provide a sufficient quantity of thyroid hormone to alleviate hypothyroidism in an infant.\n\nLevels of T4 in saliva range from 4.2 to 35 ng/dL and do not correlate with the concentration of FT4 in serum.\n\nAs the response to thyroid hormones is expressed at the cellular level via nuclear receptors, it is logical to assume that human concentrations in tissues should correlate best with their action. Methods for extraction, recovery, and measurement of iodo-thyronines have been developed, but the data is limited. Preliminary work has shown that hormonal levels in tissues such as the liver, kidney, and muscle usually correlate with that of the serum.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 21,
+    "stem_md": "A 70-year-old retired teacher was referred to the thyroid clinic with a 3-month history of anxiety, recurrent bouts of palpitations, and increased sweating. He had a past medical history of hypertension and atrial fibrillation. He was taking amiodarone, lisinopril, and bisoprolol therapy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| FT4 | 30.5 pmol/L | 11.5–22.7 |\n| Anti-TPO antibodies | Positive | |\n| TSH receptor antibodies | Negative | |\n\nHe underwent a radioactive iodine uptake (RAIU) scan (see Fig. 2.1).\n\n{{image}}\n\n**Which one of the following is the most appropriate therapeutic option for his further management?**",
+    "image": "images/ch02/q021.png",
+    "options": {
+      "A": "Carbimazole",
+      "B": "Prednisolone",
+      "C": "Propranolol",
+      "D": "Radioiodine ablation",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "A",
+    "explanation_md": "Amiodarone is an anti-arrhythmia medication which contains 37.3% iodine by weight. It releases approximately 7 mg of iodide per 200-mg tablet. This is 45 times the recommended daily intake of 150 µg for men and non-pregnant women. Amiodarone therapy is commonly associated with thyroid dysfunction and can result in both amiodarone-induced thyrotoxicosis (AIT), as well as amiodarone-induced hypothyroidism (AIH). There are two types of AIT—Type 1 and 2—as described in Table 2.12.\n\n**Table 2.12** Major differences between AIT Type 1 and AIT Type 2\n\n| | AIT Type 1 | AIT Type 2 |\n|---|---|---|\n| Antibody status | Usually positive | Usually negative |\n| Thyroid dysfunction | May be present | Normal gland |\n| Mechanism | Due to excess iodide | Destructive thyroiditis |\n| Thyroid uptake scan | Increased uptake | Reduced uptake |\n| Management | Carbimazole | Steroids |\n\nIn clinical practice, it may not always be possible to distinguish between these two types of amiodarone-induced thyrotoxicosis, and the patient may be managed with combination therapy of steroids and thionamides.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 22,
+    "stem_md": "A 63-year-old woman presented to her GP with palpitations and weight loss. She had a background medical history of intractable atrial fibrillation (AF) for which she was under cardiology follow-up, and was taking bisoprolol and amiodarone therapy. On examination, she had bilateral tremors, no eye signs of Graves' orbitopathy (GO), and AF with a ventricular rate of 90–100 beats/minute.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| FT4 | 29.9 pmol/L | 11.5–22.7 |\n| TSH receptor antibodies | Negative | |\n| Thyroid uptake scan | <1% uptake | |\n\n**Which one of the following is the most appropriate management option for her?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Prednisolone",
+      "C": "Radio-iodine ablation",
+      "D": "Stop amiodarone",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "B",
+    "explanation_md": "Amiodarone therapy is commonly associated with thyroid dysfunction and can induce both AIT as well as AIH. There are two types of AIT—Type 1 and 2. AIT Type 2 usually occurs on a background of a normal thyroid gland and is associated with reduced uptake on a thyroid uptake scan. The treatment of choice in AIT Type 2 is steroid therapy. Amiodarone is essential for this patient in view of intractable AF, and is thus difficult to be stopped. She should be commenced on steroid therapy. In clinical practice, patients may require a combination of steroids as well as carbimazole therapy for AIT, due to practical difficulties in distinguishing between AIT Types 1 and 2.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 23,
+    "stem_md": "A woman who was 12 weeks pregnant presented with nausea, vomiting, and palpitations over the previous 2 weeks. She had a family history of thyroid dysfunction (her elder sister and mother had been treated with radioiodine ablative therapy for an overactive thyroid gland). On examination, she was dehydrated, with tachycardia and bilateral tremors. She also had proptosis and a small palpable goitre with an audible bruit.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 40.5 pmol/L | 11.5–22.7 |\n| FT3 | 15.4 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n\n**Which one of the following investigations will be most useful to plan her further management?**",
+    "image": null,
+    "options": {
+      "A": "hCG levels",
+      "B": "Radioiodine uptake scan",
+      "C": "Radionuclide scintigraphy",
+      "D": "Thyroid ultrasound",
+      "E": "TSH receptor antibody"
+    },
+    "correct": "E",
+    "explanation_md": "The patient is likely to have Graves' thyrotoxicosis as suggested by features of hyperthyroidism and the associated strong family history of autoimmune thyroid disease. Although hyperemesis gravidarum is an important differential diagnosis and presents with similar symptoms, a palpable goitre and audible bruit, on examination, is more in favour of a diagnosis of Graves' disease. Her TSH receptor antibody status should be checked and, if positive, she should be commenced on a low dose of carbimazole therapy. Carbimazole crosses the placenta and its use is associated with an unproven risk of developing aplasia cutis, oesophageal atresia, and choanal atresia during the early stages of the first trimester. As a result, some experts avoid using it in women who are of childbearing age, although low-dose carbimazole can be used safely from the second trimester onwards and is not linked with any foetal thyroid dysfunction. Radioiodine uptake scan or radionuclide scintigraphy should not be performed during pregnancy.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 24,
+    "stem_md": "A woman who was 10 weeks pregnant was admitted to the maternity unit with nausea, early morning vomiting, and palpitations lasting the previous 10 days. There was no family history of thyroid dysfunction. She was on folic acid and multivitamin supplements. On examination, she had bilateral fine tremors. Her heart rate was 74 beats/minute, and she was apyrexial. There were no eye signs of Graves' ophthalmopathy.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 20.5 pmol/L | 11.5–22.7 |\n| FT3 | 5.4 pmol/L | 3.5–6.5 |\n| TSH | 0.1 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n\n**Which one of the following is the most appropriate therapeutic approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Observe",
+      "C": "Propranolol",
+      "D": "Propylthiouracil",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "B",
+    "explanation_md": "Human chorionic gonadotrophin (hCG) secreted by the placenta shares structural similarity with TSH and can bind weakly to TSH receptors in the thyroid gland. This can lead to increased FT4 and FT3 levels and suppression of TSH secretion (as a result of negative feedback due to raised levels of thyroid hormones). The hCG levels usually peak around 7–11 weeks of gestation, with TSH levels of <0.1 mU/L observed in up to 15% of pregnant women by week 11 of pregnancy.\n\nThe diagnosis for this woman is likely to be gestational thyrotoxicosis considering her clinical presentation and negative TSH receptor antibody status. Gestational thyrotoxicosis is usually transient and self-limiting. The management includes supportive therapy (intravenous fluids, anti-emetics, and β-blockers if there is evidence of sympathetic overactivity). In this particular scenario, considering a heart rate of 74 beats/minute (without any other overt feature of sympathetic overactivity), β-blocker therapy is not required.",
+    "review": "Source text prints the hCG-driven TSH-suppression prevalence as '<0.1 mU/L observed in up to 5%'; the plausible intended figure, matching standard obstetric-endocrinology references, is 15%. Flagged as uncertain."
+  },
+  {
+    "chapter": 2,
+    "number": 25,
+    "stem_md": "A 25-year-old woman was reviewed in the endocrine clinic on a routine follow-up visit. She had a background history of primary autoimmune hypothyroidism and she was taking thyroxine (125 µg od) therapy. She remained well in herself and was not on any other medication apart from thyroxine. On examination, she was clinically euthyroid and systemically well. She mentioned in the clinic about planning for a family in the coming few months and sought your advice.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 14.5 pmol/L | 11.5–22.7 |\n| FT3 | 4.2 pmol/L | 3.5–6.5 |\n| TSH | 3.6 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate preconception management approach based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Add liothyronine, continue thyroxine",
+      "B": "Continue same dose of thyroxine",
+      "C": "Increase dose of thyroxine",
+      "D": "Reduce dose of thyroxine",
+      "E": "Switch to liothyronine"
+    },
+    "correct": "C",
+    "explanation_md": "According to the American Thyroid Association guidelines (2017), women with primary hypothyroidism on thyroxine therapy should have TSH levels checked in the preconception period. The dose of thyroxine should be adjusted to achieve TSH levels in a range between the lower reference limit and 2.5 mU/L. In this particular clinical scenario, preconception TSH is higher than the recommended range. As a result, the thyroxine dose needs to be increased and the TFT repeated in 6–8 weeks.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 26,
+    "stem_md": "A 31-year-old woman who was 22 weeks pregnant was reviewed in the joint antenatal–endocrine clinic on a routine visit. She had a background history of recurrent Graves' thyrotoxicosis which had been treated with radioiodine ablative therapy 2 years before. She was well in herself and was not on any medications. On examination, she had pulse rate of 78 beats/minute. There were no tremors or goitre. There were no eye signs of Graves' ophthalmopathy. Ultrasound confirmed persistent foetal tachycardia, raising clinical suspicion of isolated foetal hyperthyroidism.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 16.9 pmol/L | 11.5–22.7 |\n| TSH | 2.8 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Strongly positive | |\n\n**Which one of the following is the most appropriate management approach for isolated foetal hyperthyroidism in this clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "β blockers",
+      "B": "Carbimazole and thyroxine (block and replace therapy)",
+      "C": "Carbimazole (low dose)",
+      "D": "Propylthiouracil",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "B",
+    "explanation_md": "It is not uncommon for TSH receptor antibodies to persist for a few years post radioiodine ablative therapy. These antibodies can cross the placenta and induce isolated foetal hyperthyroidism. This remains the only indication of using block and replacement therapy in pregnancy. Antithyroid medication (carbimazole/propylthiouracil) can cross the placenta leading to foetal hypothyroidism. The placenta is not permeable to thyroxine given to the mother. As a result, carbimazole used in such a case would cross the placenta and help control foetal hyperthyroidism, while thyroxine will prevent maternal hypothyroidism (without affecting the foetus). Such women will need close monitoring in liaison with a paediatrician.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 27,
+    "stem_md": "A 24-year old woman was reviewed on a follow-up visit in the thyroid clinic. She had a background history of congenital hypothyroidism and was taking thyroxine (125 µg od) therapy. She was keen to start a family in the coming few months and sought preconception advice.\n\n**Which one of the following is a correct statement regarding physiological changes observed during pregnancy?**",
+    "image": null,
+    "options": {
+      "A": "Free T4 levels increase",
+      "B": "Renal iodine excretion increases",
+      "C": "TBG levels decline",
+      "D": "Thyroid gland increases in size by 50%",
+      "E": "TSH levels increase"
+    },
+    "correct": "B",
+    "explanation_md": "Pregnancy is associated with:\n\n- Increase in thyroid gland size by 10% and 25–40% in iodine replete and depleted regions respectively\n- TBG and total T4 levels increase, although free T4 levels remain unchanged\n- Placental hCG stimulation leads to lowering of TSH levels, especially during the first trimester\n- Daily iodine requirement increases by 50%; there is increased renal iodine excretion",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 28,
+    "stem_md": "A 27-year-old woman presented to her GP with anxiety, palpitations, and increased sweating. She was 10 weeks post-partum and not on any medications. On examination, she had bilateral tremors and a pulse rate of 96 beats/minute, with no eye signs of Graves' disease or goitre.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–22.7 |\n| TSH | <0.1 mU/L | 0.35–5.5 |\n| TSH receptor antibodies | Negative | |\n\n**Which one of the following is the most appropriate management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Propranolol",
+      "C": "Propylthiouracil",
+      "D": "Radioiodine ablation",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "B",
+    "explanation_md": "This patient is in the thyrotoxic phase of post-partum thyroiditis (PPT) based on her clinical profile. It is usually characterized by women in the post-partum period presenting with features of thyrotoxicosis lasting for 1–3 months, followed by a phase of hypothyroidism, which may last for a period of 6–12 months. In 10–20% of the women, PPT might lead to permanent hypothyroidism. It is not uncommon for patients to manifest with only one phase (hyper-or hypothyroidism). It is believed to be mediated by an autoimmune-induced process and is more commonly seen in women with a previous history of autoimmune disease/positive anti-TPO antibody status or a history of previous thyroid dysfunction.\n\nAnti-TPO antibody positivity is the most useful marker for the prediction of post-partum thyroid dysfunction. Symptoms during the thyrotoxic phase of PPT tend to be milder than during hyperthyroidism due to GD. β-blockers are useful agents for symptom control during the thyrotoxic phase. Asymptomatic women who are not planning a subsequent pregnancy and whose TSH level is between 4 and 10 mIU/L, do not necessarily require intervention and should have their TFTs re-evaluated in 4–8 weeks. When a TSH above the reference range continues post-partum, women should be treated with thyroxine. Women with a TSH between 4 and 10 mIU/L who are either symptomatic or trying to conceive should be treated with thyroxine.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 29,
+    "stem_md": "A 35-year-old woman presented to the thyroid clinic with features of malaise, lethargy, and weight gain 4 months following her delivery. She had a background history of Type 1 DM (and was on a basal-bolus insulin regimen). Her mother and elder sister were known to have primary autoimmune hypothyroidism. On examination, she had a pulse rate of 60 beats/minute, and cold, dry skin, although systemic examination was unremarkable.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 5.8 pmol/L | 11.5–22.7 |\n| TSH | 14.0 mU/L | 0.35–5.5 |\n| Anti-TPO antibody | Strongly positive | |\n\n**The presence of which one of the following clinical features has minimal (or no) impact on the risk of development of post-partum thyroiditis?**",
+    "image": null,
+    "options": {
+      "A": "Age >35 years",
+      "B": "Family history of thyroid dysfunction",
+      "C": "Positive anti-TPO antibody titre",
+      "D": "Previous post-partum thyroiditis",
+      "E": "Type 1 DM"
+    },
+    "correct": "A",
+    "explanation_md": "The following are considered to be risk factors for developing post-partum thyroiditis:\n\n- History of previous post-partum thyroiditis\n- Presence of autoimmune disease (Type 1 DM, systemic lupus erythematous [SLE], chronic viral hepatitis)\n- Positive anti-TPO antibody status\n- History of previous thyroid dysfunction\n- Family history of thyroid disease",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 30,
+    "stem_md": "A 22-year-old woman was reviewed in the antenatal clinic during a routine appointment. She was 10 weeks pregnant and asymptomatic, apart from having mild early morning sickness. She was known to have monogenic diabetes (HNF4α mutation) and was on gliclazide tablets. Her mother was known to have an underactive thyroid gland and remained on thyroxine therapy. On examination, she had a heart rate of 80 beats/minute and body mass index of 28 Kg/m². She had no goitre and was clinically euthyroid. Systemic examination was normal.\n\n**Which one of the following subgroup of women should be considered for biochemical screening for thyroid dysfunction during pregnancy?**",
+    "image": null,
+    "options": {
+      "A": "Age <25 years",
+      "B": "Body mass index >30 Kg/m²",
+      "C": "Family history of thyroid dysfunction",
+      "D": "Monogenic diabetes",
+      "E": "Residence in iodine replete region"
+    },
+    "correct": "C",
+    "explanation_md": "There is no consensus of opinion on routine screening of newly-pregnant women. The focus for screening should be on the following high-risk groups:\n\n- Age >30 years\n- A family history of autoimmune thyroid disease\n- The presence of goitre\n- Positive thyroid antibodies status\n- The presence of autoimmune disorders (e.g. Type 1 DM)\n- Infertility\n- A history of miscarriage and preterm delivery\n- Previous therapeutic head or neck irradiation\n- Residence in an iodine-deficient area\n- Morbid obesity (BMI >40 Kg/m²)",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 31,
+    "stem_md": "A 42-year-old bank manager presented to her GP with a 6-week history of feeling generally unwell and with a double vision. She had also noticed redness in the white of the eye with a gritty sensation for the previous few months. On examination, she was apyrexial with redness of the conjunctiva, lid retraction, and a proptosis that was more marked in the left eye. Eye movements were not restricted and visual acuity on formal testing was normal. Systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 16.5 pmol/L | 11.5–22.7 |\n| TSH | 1.4 mU/L | 0.35–5.5 |\n| Anti-TPO antibody | Negative | |\n| C-reactive protein (CRP) | 5 mg/L | <6 |\n\n**Which one of the following is the most likely explanation for her visual symptoms and signs?**",
+    "image": null,
+    "options": {
+      "A": "Carotid-cavernous fistula",
+      "B": "Closed-angle glaucoma",
+      "C": "Graves' orbitopathy",
+      "D": "Orbital cellulitis",
+      "E": "Orbital tumour"
+    },
+    "correct": "C",
+    "explanation_md": "Based on the symptoms and the signs, Graves' orbitopathy (GO) is the most likely aetiology. Patients with GO may be hyper-or euthyroid at presentation. GO may present initially with unilateral eye involvement. Orbital cellulitis may present with similar symptoms, although patients may have marked features of sepsis. A carotid-cavernous fistula is characterized by the presence of cranial bruit and dilated episcleral vessels.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 32,
+    "stem_md": "A 50-year-old man with Graves' eye disease complained of dryness and grittiness of the eyes on a follow-up visit in the thyroid clinic. He was on a block and replacement regimen of carbimazole and thyroxine. On examination, his pulse rate was 80 beats/minute and there was no goitre. He had redness and chemosis of the conjunctiva as well as of the eye lids. He had bilateral exophthalmos and lid retraction, although visual acuity was normal. There was no restriction of eye movement. Corneal examination under slit lamp was normal.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 16.5 pmol/L | 11.5–22.7 |\n| FT3 | 4.4 pmol/L | 3.5–6.5 |\n| TSH | 2.8 mU/L | 0.35–5.5 |\n\n**Which of the following is a correct description of his Graves' orbitopathy (GO) based on the clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Active and mild",
+      "B": "Active and moderate–severe",
+      "C": "Active and sight-threatening",
+      "D": "Inactive and mild",
+      "E": "Inactive and moderate–severe"
+    },
+    "correct": "B",
+    "explanation_md": "Patients with GO, with ongoing visual symptoms or signs suggestive of active eye disease, should have visual acuity and colour vision assessment. A slit lamp examination, fundoscopy, and objective measurement of proptosis may be helpful. Activity of GO can be measured by clinical activity score (CAS). A CAS ≥3/7 is indicative of active GO, as in the given clinical scenario.\n\n**Box 2.1** Assessment of clinical activity of Graves' orbitopathy according to CAS\n\n1. Spontaneous retrobulbar pain\n2. Pain on upward or downward gaze\n3. Redness of eyelids\n4. Redness of conjunctiva\n5. Swelling of caruncle or plica\n6. Swelling of eyelids\n7. Swelling of conjunctiva (chemosis)\n\nGO severity can be assessed based on NOSPECS or EUGOGO classification.\n\n**Table 2.13** EUGOGO classification for assessing severity of Graves' orbitopathy\n\n| Classification | Clinical features |\n|---|---|\n| Mild | One or more of: lid retraction <2mm; mild soft-tissue involvement; exophthalmos <3mm above normal for gender and race; no or intermittent diplopia |\n| Moderate–severe | Two or more of the following (in absence of vision-threatening features): lid retraction ≥2mm; moderate to severe soft-tissue involvement; exophthalmos ≥3mm above normal for gender and age; inconstant or constant diplopia |\n| Severe (vision-threatening) | Dysthyroid optic neuropathy (DON) and/or corneal breakdown |\n\nThe complications of GO include corneal ulceration, optic nerve compression, strabismus (due to medial and inferior rectus muscle involvement), and fourth nerve pseudo-palsy. In the presence of normal visual acuity, measurement of visual-evoked potential is not indicated.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 33,
+    "stem_md": "A 38-year-old teacher was reviewed in the thyroid clinic on a routine follow-up visit. She had a background history of Graves' thyrotoxicosis for which she had been on carbimazole therapy for the previous 12 months. She complained of ongoing dryness of the eyes and a gritty sensation. On examination, her visual acuity and eye movements were normal. There was no proptosis or exophthalmos. There were no features of corneal or conjunctival involvement.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 15.5 pmol/L | 11.5–22.7 |\n| TSH | 1.3 mU/L | 0.35–5.5 |\n\n**Which one of the following would be the most appropriate measure for the management of her GO-related symptoms?**",
+    "image": null,
+    "options": {
+      "A": "Acetazolamide",
+      "B": "Artificial tears",
+      "C": "Selenium",
+      "D": "Systemic steroids",
+      "E": "Topical steroids"
+    },
+    "correct": "B",
+    "explanation_md": "Lacrimal glands express TSH receptors. In active Graves' disease, anti-TSH receptor antibodies can induce lacrimal gland inflammation leading to dry eyes and contributing to ocular surface inflammatory disease. In chronic disease, lacrimal glands may undergo fibrosis. The following measures are helpful in the management of mild GO:\n\n- Smoking cessation\n- Restore euthyroid state\n- Use of lubricants such as artificial tears\n- Night-time eyelid taping to prevent exposure keratitis\n- Elevation of head end of bed to reduce lid swelling\n- Use of prisms for double vision\n- Rarely, botulinum toxin injection\n\nSelenium is a constituent of selenoproteins which play a key role in maintaining cellular redox state. According to European Thyroid Association guidelines (2016), selenium therapy is recommended for patients with mild GO of relatively short duration (unlike the patient in the given clinical scenario who will benefit more from topical artificial tear therapy).",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 34,
+    "stem_md": "A 24-year-old woman presented to the thyroid clinic with symptoms of anxiety, palpitations, heat intolerance, and weight loss. She also complained of redness and grittiness of her eyes. On examination, she had conjunctival redness and chemosis with bilateral proptosis.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 33.5 pmol/L | 11.5–22.7 |\n| FT3 | 10.7 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Positive | |\n\n**Which one of the following is used as a parameter to assess the clinical activity score (CAS) in patients with GO?**",
+    "image": null,
+    "options": {
+      "A": "Eyelid erythema",
+      "B": "Intraocular pressure",
+      "C": "Level of FT3 and FT4",
+      "D": "Level of TSH receptor antibodies",
+      "E": "Lid lag"
+    },
+    "correct": "A",
+    "explanation_md": "The parameters used to determine the CAS score include:\n\n- Active lid swelling (moderate or severe)\n- Eyelid erythema\n- Definite conjunctival redness\n- Chemosis\n- Spontaneous orbital pain\n- Gaze-evoked orbital pain\n\n(See also Box 2.1, Q32.)",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 35,
+    "stem_md": "A 40-year-old woman was referred to the thyroid clinic with a 6-month history of weight loss, menstrual irregularities, and increased sweating. On examination, she had bilateral tremors, a pulse rate of 120 beats/minute, and an enlarged thyroid gland. She had normal visual acuity, although eye movements were restricted to the lateral gaze, along with the presence of bilateral proptosis as well as conjunctival congestion/redness. Corneal examination was normal. She also had an audible bruit on auscultation of her neck.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 44.4 pmol/L | 11.5–19.7 |\n| FT3 | 16.8 pmol/L | 3.5–6.5 |\n| TSH | <0.1 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Strongly positive | |\n\n**Which one of the following is the most appropriate first-line treatment for management of her GO?**",
+    "image": null,
+    "options": {
+      "A": "Orbital decompression",
+      "B": "Rituximab",
+      "C": "Selenium",
+      "D": "Systemic steroids",
+      "E": "Topical steroids"
+    },
+    "correct": "D",
+    "explanation_md": "This woman had evidence of active moderate–severe GO, based on her symptoms and signs. She needed an urgent referral to the ophthalmologist for further assessment. Her hyperthyroid state needed to be controlled with thionamide therapy together with initiation of high-dose systemic steroids. Steroid therapy should not be given if the patients have history of recent viral hepatitis, significant hepatic dysfunction, severe cardiovascular morbidity, or psychiatric disorders.\n\nRituximab can be used as a second-line therapy in patients with GO who fail to respond to high-dose systematic glucocorticoids, although it should be avoided in patients with impending dysthyroid optic neuropathy (DON) and/or if the disease duration is long.\n\nThyroidectomy is not associated with an improved thyroid eye disease outcome. Radioiodine ablation can be used in the presence of active GO, albeit under cover of steroids. Orbital decompression may be required for severe and sight-threatening GO.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 36,
+    "stem_md": "A 29-year-old hairdresser was admitted to the medical assessment unit with reduced vision. She had been diagnosed with Graves' disease 6 weeks previously and was taking carbimazole (40 mg/day). She had noticed an improvement in her initial symptoms of anxiety, palpitations, and diarrhoea since the initiation of the therapy. On examination, she had bilateral proptosis, swelling of the eye lids, and diminished vision in her right eye. She was reviewed by an ophthalmologist and initiated on pulse dosage of methyl prednisolone therapy. Her vision showed further signs of deterioration, despite the steroid therapy.\n\n**Which one of the following is the correct management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Botulinum toxin injection",
+      "B": "Interferons",
+      "C": "Orbital decompression",
+      "D": "Orbital radiotherapy",
+      "E": "Rituximab"
+    },
+    "correct": "C",
+    "explanation_md": "Patients with severe sight-threatening GO (also known as dysthyroid optic neuropathy) should initially be treated with very high-dose intravenous glucocorticoids (GCs). If the patients are intolerant to the GCs or fail to respond to these agents, surgical decompression of the orbit is the procedure of choice to alleviate the pressure on the optic nerve.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 37,
+    "stem_md": "A 48-year-old care home worker was referred to the thyroid eye clinic with double vision. She had a background history of Graves' disease, which had been treated with a 6-month course of block and replacement therapy about 5 years previously, and she had been in disease remission since then. After review in the thyroid eye clinic, she was told that her left eye had become 'lazy' and a couple of muscles were not working properly.\n\n**Which one of the following are the two most commonly involved muscles in a patient with GO?**",
+    "image": null,
+    "options": {
+      "A": "Inferior and medial rectus",
+      "B": "Inferior oblique and lateral rectus",
+      "C": "Medial and lateral rectus",
+      "D": "Superior and inferior oblique",
+      "E": "Superior oblique and medial rectus"
+    },
+    "correct": "A",
+    "explanation_md": "Patients with mild GO may present with eyelid retraction, lid lag (Von Graefe's sign), a widened palpebral fissure during fixation (Dalrymple's sign), and an inability to close the eyelids completely (lagophthalmos). Due to the proptosis, eyelid retraction, and lagophthalmos, the cornea is prone to dryness. The patients may also develop chemosis, epithelial erosions, and kerato-conjunctivitis.\n\nIn moderate GO, the signs and symptoms are persistent and increase with the involvement of the intrinsic eye muscles. The inferior rectus muscle is most commonly affected, and the patient may experience vertical diplopia on up-gaze and limitation of elevation of the eyes due to fibrosis of the muscle. The medial rectus is the second most commonly affected muscle, but multiple muscles may be affected, in an asymmetric fashion.\n\nIn severe GO, mass effects and cicatricial changes may occur within the orbit, which may manifest as progressive exophthalmos, restrictive myopathy, and an optic neuropathy. With enlargement of the extra ocular muscle at the orbital apex, the optic nerve is at risk of compression. It can potentially result in a loss of visual acuity, visual-field defect, afferent pupillary defect, and loss of colour vision. This is an emergency and requires systemic steroid therapy and consideration for urgent orbital decompression.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 38,
+    "stem_md": "A 22-year-old medical student was reviewed in the thyroid eye clinic with symptoms of double vision and blurring while she was studying for her exams. On examination, she had lid lag and bilateral proptosis, although there were no clinical features of hyperthyroidism.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 18.0 pmol/L | 11.5–19.7 |\n| TSH | 0.6 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n\n**Which one of the following is believed to play a role in the pathogenesis of active GO?**",
+    "image": null,
+    "options": {
+      "A": "Eosinophilic infiltration of ocular fibroblasts",
+      "B": "Inactivation of ocular thyrotrophin (TSH) receptors",
+      "C": "Insulin growth factor 1 receptor (IGF1R) increased signalling",
+      "D": "Reduced hyaluronan synthesis",
+      "E": "Retinal neovascularization"
+    },
+    "correct": "C",
+    "explanation_md": "Orbital tissue and orbital fibroblasts express thyrotrophin (TSH) receptor which is believed to be targeted by TSH receptor antibodies, contributing to the acute inflammatory response seen in active GO. In addition, immunoglobulins which activate insulin-like growth factor 1 receptor (IGF1-IR) signalling have been detected in patients with GO. IGF1-IR is overexpressed in orbital fibroblasts in patients with Graves' disease and is believed to act synergistically with thyrotrophin receptor. Teprotumumab is a human monoclonal antibody which is inhibitory to IGF1-IR and has been approved for use by the FDA in patients with active moderate to severe GO.\n\nThe typical histology of muscle involved in GO includes infiltration of the orbital connective tissue with lymphocytes, plasmocytes, and mastocytes. There is increased release of interleukins, cytokines, and tumour necrosis factor. Orbital fibroblasts are stimulated, resulting in the increased synthesis of hyaluronan, which contributes to oedema in extra-ocular muscles. There is also an induction of the lipogenesis by fibroblasts and pre-adipocytes, which can cause an increase in orbital volume and compression due to adipose tissue deposition.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 39,
+    "stem_md": "A 28-year-old PhD student presented to the medical clinic with symptoms of weight loss, palpitations, and menorrhagia. She had also noticed some change in the appearance of her eyes, which had seemed more swollen in the early hours of the morning. On examination, she had tachycardia, bilateral resting tremors, and a small goitre. Her visual acuity was normal, with no restriction in eye movements.\n\n**Which one of the following is the earliest and commonest sign associated with GO?**",
+    "image": null,
+    "options": {
+      "A": "Conjunctival chemosis",
+      "B": "Lid lag",
+      "C": "Proptosis",
+      "D": "Restricted eye movements",
+      "E": "Upper lid retraction"
+    },
+    "correct": "E",
+    "explanation_md": "Patients with mild GO may present with eyelid retraction, which is usually the earliest and most common sign. There may be lid lag (Von Graefe's sign), a widened palpebral fissure during fixation (Dalrymple's sign), and an inability to close the eyelids completely (lagophthalmos). Due to the proptosis, eyelid retraction, and lagophthalmos, the cornea is prone to dryness. Patients may also develop chemosis, epithelial erosions, and kerato-conjunctivitis.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 40,
+    "stem_md": "A 49-year-old man was reviewed in the thyroid clinic on a follow-up visit. He had a background history of Graves' disease and had remained on carbimazole (20 mg once a day) for the previous 3 months. He complained of grittiness of the eyes. He had found it difficult to read the newspaper and had experienced intermittent headaches. His body weight was stable and he did not complain of heat intolerance or palpitations. On examination, he had a scleral show of 2 mm in the inferior aspect, with conjunctival redness. His eye movements were normal.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 18.4 pmol/L | 11.5–19.7 |\n| FT3 | 5.8 pmol/L | 3.5–6.5 |\n| TSH | 0.46 mU/L | 0.35–5.5 |\n\n**Presence of which of the following symptoms/signs should prompt urgent ophthalmology referral?**",
+    "image": null,
+    "options": {
+      "A": "Conjunctival redness",
+      "B": "Grittiness of eyes",
+      "C": "Intermittent headache",
+      "D": "Reduced visual acuity",
+      "E": "Proptosis"
+    },
+    "correct": "D",
+    "explanation_md": "Declining visual acuity is an urgent indication for referral to an ophthalmologist. A formal assessment of visual acuity and colour vision is mandatory in these circumstances.\n\n**Table 2.14** Clinical features prompting an urgent referral to ophthalmologist in patients with Graves' disease\n\n| Symptoms | Signs |\n|---|---|\n| Unexplained drop in visual acuity | Restricted eye movements |\n| Reduced colour vision | Corneal opacity |\n| Double vision | Optic disc swelling |\n| Gaze induced orbital pain | Iris visible on trying to close eyelids |\n| Blurring of field of vision (does not resolve on blinking or covering one of the eyes) | Subluxation of globe |",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 41,
+    "stem_md": "A 17-year-old boy presented to the thyroid clinic with a 3-month history of feeling unwell, weight loss, anxiety, and panic attacks. He also complained of redness and grittiness of the eyes, with painful eye movements. On examination, he had bilateral tremors, proptosis, and lid retraction.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 30.5 pmol/L | 11.5–19.7 |\n| FT3 | 9.9 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n\n**Which one of the following factors is associated with increased risk for the development of severe GO?**",
+    "image": null,
+    "options": {
+      "A": "FT4 and FT3 levels",
+      "B": "Male sex",
+      "C": "No response to thionamides",
+      "D": "Smoking",
+      "E": "Young age"
+    },
+    "correct": "D",
+    "explanation_md": "Increased age of onset, duration of Graves' disease, and smoking remain the risk factors for development of GO. Current smokers are also more likely to experience disease progression or a poorer outcome of treatment. Use of anti-thyroid medication correlates negatively with development of GO.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 42,
+    "stem_md": "A 27-year-old man was referred to the thyroid clinic with symptoms of anxiety, palpitations, heat intolerance, and weight loss. He had a background history of Graves' disease which had been treated with a 12-month block and replacement regimen comprising of thyroxine and carbimazole about 3 years previously. He had been in disease remission since then. On examination, he had tremors, smooth goitre, and increased sweating. Based on his clinical profile, a diagnosis of relapse of Graves' disease was made, and he was counselled for elective radioiodine ablative (RAI) therapy. He was keen to know the risk of RAI on his fertility.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 28.2 pmol/L | 11.5–19.7 |\n| FT3 | 9.0 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n\n**Which one of the following is the minimum period during which it is advisable for the men receiving RAI not to father a child?**",
+    "image": null,
+    "options": {
+      "A": "5–7 days",
+      "B": "3–4 weeks",
+      "C": "2–3 months",
+      "D": "4–6 months",
+      "E": ">1 year"
+    },
+    "correct": "D",
+    "explanation_md": "According to the American Thyroid Association (ATA) guidelines (2016), men undergoing radioiodine ablation (RAI) therapy are advised to avoid fathering a child for 3–4 months to allow for turnover of sperm production. The European Thyroid Association (ETA) guidelines (2018) recommend avoidance of conception for 6 months post RAI for both genders. On attaining a euthyroid state in both genders, there is no evidence of reduced fertility and/or risk of development of congenital anomalies in offspring.",
+    "review": "The explanation cites ATA guidance of 3–4 months and ETA guidance of 6 months for RAI, while the marked correct option is the 4–6 month band; source text does not fully reconcile the two guideline figures with the chosen option."
+  },
+  {
+    "chapter": 2,
+    "number": 43,
+    "stem_md": "A 29-year-old woman presented to her primary care physician with symptoms of weight loss, restlessness, and menorrhagia. She had no family history of thyroid dysfunction. She was keen to start a family after about a year of control of her overactive thyroid gland. On examination, she had a pulse rate of 108 beats/minute, tremors, and increased sweating, and a small goitre was palpable in her neck. She had bilateral proptosis, although visual acuity was normal and there was no gaze-induced pain or diplopia. She was counselled for radioiodine ablative (RAI) therapy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 29.7 pmol/L | 11.5–19.7 |\n| FT3 | 11.0 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n| RAIU scan | Diffusely increased uptake | |\n\n**Which one of the following clinical situations favours the use of radioiodine as the modality to treat Graves' hyperthyroidism?**",
+    "image": null,
+    "options": {
+      "A": "Absence of co-morbidities",
+      "B": "Mild disease",
+      "C": "Moderate–severe active GO",
+      "D": "Plan for a family after about 1 year",
+      "E": "Small goitre"
+    },
+    "correct": "D",
+    "explanation_md": "There are three modalities for treatment for Graves' hyperthyroidism—antithyroid medications, radioiodine ablation, and surgery. The treatment decision should be based on discussion between the physician and the patient, taking into account available healthcare resources.\n\n**Table 2.15** Clinical features favouring a particular treatment modality in patients with Graves' disease\n\n| Modality of treatment | Clinical factors which aid in decision making |\n|---|---|\n| Anti-thyroid medications (carbimazole, propylthiouracil) | Higher chances of remission (women with mild disease, smaller goitre, low or negative anti-TSH receptor antibody titre); pregnancy; individuals in care-home facilities, with limited longevity (and unable to follow radiation safety protocols); moderate–severe active Graves' orbitopathy |\n| Radioiodine ablation (RAI) | Women planning a pregnancy in future (>6 months following RAI); presence of co-morbidities (increased surgical risk); contraindication or side effects with ATD; congestive heart failure; periodic thyrotoxic hypokalaemic paralysis |\n| Thyroidectomy | Larger or compressive goitre (≥80 g); suspected thyroid malignancy; large thyroid nodule (>4 cm); co-existing hyperparathyroidism; high TSH receptor antibody titre; moderate–severe active Graves' orbitopathy |\n\nAbbreviation: ATD: antithyroid drugs\n\nWomen undergoing radioiodine ablation therapy are advised to delay conception for 4–6 months to allow time to attain a euthyroid status. On attaining a euthyroid state in both genders, there is no evidence of reduced fertility and/or risk of development of congenital anomalies in offspring.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 44,
+    "stem_md": "A 43-year-old woman was reviewed in the thyroid clinic at a follow-up appointment 2 months after she had undergone radioiodine ablation (RAI) therapy treatment for recurrent Graves' disease. She complained of non-specific symptoms including lethargy and a lack of appetite. On examination, her heart rate was 80 beats/minute, with no signs of thyroid eye disease.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–19.7 |\n| FT3 | 6.2 pmol/L | 3.5–6.5 |\n| TSH | 0.05 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management approach at this stage?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Propranolol",
+      "C": "Propylthiouracil",
+      "D": "Second dose of RAI treatment",
+      "E": "Repeat TFTs in 8–12 weeks' time"
+    },
+    "correct": "E",
+    "explanation_md": "The effect of radioiodine ablative (RAI) therapy could take from 4 weeks to 6 months to fully manifest. Over 80% of the patients may develop hypothyroidism after 4 months of RAI, with lowering of FT4 being a useful biochemical marker for consideration of thyroxine replacement (TSH shows a lag in normalization). Treatment failure should only be considered after 6 months have elapsed post RAI therapy. Patients may need treatment with a titrating dose of carbimazole and/or β-blockers after RAI if they become overtly thyrotoxic. A second dose of RAI should be considered only after 6 months following the initial treatment.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 45,
+    "stem_md": "A 57-year-old woman presented to the endocrine clinic with symptoms of palpitations and weight loss. She had a strong family history of breast and thyroid cancers. On examination, she had mild tremors in the hands, no eye signs of Graves' eye disease, and a palpable right-sided firm thyroid nodule. She was counselled for RAI therapy in view of clinical features of toxic nodular goitre. She was very anxious about her increased risk of developing cancer after RAI therapy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 30.5 pmol/L | 11.5–19.7 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n| RAIU scan | >30% | |\n\n**Which one of the following is correct regarding the association of RAI therapy and cancer development?**",
+    "image": null,
+    "options": {
+      "A": "Increased risk of head and neck carcinoma",
+      "B": "Increased risk of lymphoma",
+      "C": "Increased risk of medullary thyroid carcinoma",
+      "D": "Increased risk of papillary thyroid carcinoma",
+      "E": "No increased risk of cancers"
+    },
+    "correct": "E",
+    "explanation_md": "RAI therapy is well tolerated by most patients, with a low rate of complication (except for worsening or induction of de novo GO in 15–20% of the patients). It can induce a transient increase in thyroid hormone. As a result, older patients with severe hyperthyroidism and/or co-morbidities may benefit from adjuvant anti-thyroid medications. The anti-thyroid medications are generally stopped 1 week prior to RAI (to avoid a reduction in efficacy of RAI) and can be restarted after 3–7 days in the patients at high risk of developing hyperthyroidism.\n\nThere is no conclusive evidence of an increased risk of cancer development after RAI therapy, although an observational study by Kitahara et al (2020) has suggested a modest positive association between total administered activity and solid cancer mortality.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 46,
+    "stem_md": "A 34-year-old nurse presented to her GP with symptoms of palpitations and anxiety. On examination, she had mild tremors and a pulse rate of 100 beats/minute. The rest of her systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 25.7 pmol/L | 11.5–19.7 |\n| FT3 | 7.8 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n| RAIU scan | <1% | |\n\n**Which one of the following is associated with a normal/increased uptake on a radioactive iodine uptake (RAIU) scan?**",
+    "image": null,
+    "options": {
+      "A": "Amiodarone-induced thyroiditis type 2",
+      "B": "Factitious ingestion of thyroid hormones",
+      "C": "Subacute thyroiditis",
+      "D": "Struma ovarii",
+      "E": "Trophoblastic disease"
+    },
+    "correct": "E",
+    "explanation_md": "Thyrotoxicosis can be associated with:\n\nNormal/increased uptake on RAIU scan:\n\n- Graves' disease\n- Toxic nodular or multinodular goitre\n- Trophoblastic disease\n- TSH-producing pituitary adenomas\n- Resistance to thyroid hormone (T3 receptor mutation)\n\nNear-absent uptake on RAIU scan:\n\n- Painless (silent) thyroiditis/acute thyroiditis\n- Amiodarone-induced thyrotoxicosis Type 2\n- Subacute (granulomatous, de Quervain's) thyroiditis\n- Iatrogenic thyrotoxicosis\n- Factitious ingestion of thyroid hormone\n- Struma ovarii",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 47,
+    "stem_md": "A 50-year-old woman presented to the clinic with lethargy and weight loss. On examination, she was noticed to have mild tremors and a heart rate of 70 beats/minute. A RAIU scan was planned for the following week.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 18.5 pmol/L | 11.5–19.7 |\n| FT3 | 6.2 pmol/L | 3.5–6.5 |\n| TSH | 0.05 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management plan for her while she awaits a thyroid RAIU scan?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Lugol's iodine",
+      "C": "Observe",
+      "D": "Propanolol",
+      "E": "Propylthiouracil"
+    },
+    "correct": "C",
+    "explanation_md": "Carbimazole therapy should be stopped or not commenced (whenever it is possible) before a RAIU scan, to allow TSH to recover, resulting in a better uptake of iodine. RAIU is indicated when the diagnosis is in question (except during pregnancy) and helps to distinguish various aetiologies of thyrotoxicosis having elevated or normal uptake over the thyroid gland from the ones that display a reduced or near-absent uptake.\n\n- RAIU is usually elevated in patients with GD, and normal or high in toxic nodular goitre. The pattern of RAIU in GD is diffuse unless there are coexistent nodules or fibrosis.\n- The pattern of uptake in a patient with a single toxic nodule generally shows focal uptake in the adenoma with suppressed uptake in the surrounding areas and contralateral thyroid tissue.\n- RAIU in multinodular goitre demonstrates multiple areas of focal increased and suppressed uptake.\n- RAIU will be near zero in patients with painless, post-partum, or subacute thyroiditis, factitious ingestion of thyroid hormone, and recent excess iodine intake.\n- RAIU may be low after exposure to iodinated contrast in the preceding 1–2 months or with ingestion of a diet unusually rich in iodine, such as seaweed soup or kelp.\n- When exposure to excess iodine is suspected (e.g. when the RAIU is lower than expected), but not well established from the history, assessment of urinary iodine concentration may be helpful.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 48,
+    "stem_md": "A 22-year-old university student presented to the thyroid clinic with symptoms of anxiety, weight loss, menstrual irregularities, and palpitations. She had a strong family history of thyroid dysfunction and autoimmune disease. On examination, she had tremors, tachycardia, bilateral proptosis, and a diffuse enlargement of the thyroid gland. A diagnosis of Graves' thyrotoxicosis was made and she was started on carbimazole therapy.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 35.5 pmol/L | 11.5–19.7 |\n| FT3 | 15.0 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Positive | |\n\n**Which one of the following factors is associated with a higher relapse rate in Graves' disease?**",
+    "image": null,
+    "options": {
+      "A": "Age <40 years",
+      "B": "Alcohol intake",
+      "C": "Female gender",
+      "D": "Higher anti TPO antibody titre",
+      "E": "Positive family history"
+    },
+    "correct": "A",
+    "explanation_md": "The factors which are associated with a higher relapse rate in Graves' disease include:\n\n- Younger age <40 years\n- Male gender\n- Smoking\n- Larger size of goitre\n- Orbitopathy\n- Higher serum FT3 and FT4 levels\n- Higher thyrotropin-binding inhibitor immunoglobulin (TBII) antibodies titre",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 49,
+    "stem_md": "A 33-year-old woman, who was 20 weeks pregnant, presented to the antenatal clinic with symptoms of palpitations, increased sweating, and panic episodes. She was diagnosed as having Graves' disease around the end of the first trimester of pregnancy and had been on incremental doses of carbimazole tablets (at the time of presenting to clinic, 40 mg once a day). On examination, she had a heart rate of 122 beats/minute, bilateral tremors, and a small goitre.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 30.6 pmol/L | 11.5–19.7 |\n| FT3 | 12.8 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TRAb | Strongly positive | |\n\n**Which one of the following is the most appropriate management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Elective surgery",
+      "B": "Increase carbimazole dose",
+      "C": "Propranolol",
+      "D": "Radioiodine ablation",
+      "E": "Switch to propylthiouracil"
+    },
+    "correct": "A",
+    "explanation_md": "Subtotal thyroidectomy may be indicated during pregnancy as a therapy for maternal Graves' disease if:\n\n- Patients develop a severe adverse reaction to anti-thyroid drug therapy\n- Persistently high doses of anti-thyroid drugs are required (>30 mg/day of carbimazole or >450 mg/day of propylthiouracil)\n- Patients are non-adherent to anti-thyroid drug therapy and have uncontrolled hyperthyroidism\n\nLate in the second trimester of pregnancy provides the optimal window to perform elective thyroidectomy if it is deemed necessary.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 50,
+    "stem_md": "A 36-year-old woman was referred to the endocrine clinic with features of palpitations and weight loss. She had a background history of Graves' disease, which had been treated with carbimazole therapy for 1 year, and she had been in disease remission for the previous 2 years. On examination, she had tremors, tachycardia, and increased sweating. In view of a relapse of her Graves' disease, she received counselling for radioiodine ablation (RAI) therapy.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 25.6 pmol/L | 11.5–19.7 |\n| FT3 | 9.4 pmol/L | 3.5–6.5 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n\n**Which one of the following is associated with an increase in radio resistance of the thyroid gland prior to RAI therapy?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Levothyroxine",
+      "C": "Lugol's iodine",
+      "D": "Methimazole",
+      "E": "Propylthiouracil"
+    },
+    "correct": "E",
+    "explanation_md": "Propylthiouracil (PTU) treatment has been linked with a radio-resistant effect, resulting in RAI treatment failure. It is believed that the radio resistance associated with PTU is due to the presence of a sulphydryl group, which is not present in methimazole and carbimazole. Treatment failure rates are higher in patients whose last PTU dose is within 1 week prior to ¹³¹I therapy. The duration of PTU therapy has also been linked with higher chances of RAI failure.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 51,
+    "stem_md": "A 62-year-old man complained of weight loss, anxiety, and palpitations during a follow-up visit in the endocrine clinic. He had a background history of Graves' disease which had been treated with a 12-month course of block and replacement therapy (carbimazole and thyroxine). He had been in disease remission for the previous 3 years (until this visit). He also suffered from Type 2 DM, ischaemic heart disease, and congestive cardiac failure. On examination, he had a heart rate of 90 beats/minute, bilateral tremors, and a small goitre. He had no clinical signs of Graves' orbitopathy.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–19.7 |\n| FT3 | 8.1 pmol/L | 3.5–6.5 |\n| TSH | 0.08 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management approach in his case?**",
+    "image": null,
+    "options": {
+      "A": "Elective surgery",
+      "B": "Lugol's iodine",
+      "C": "Propylthiouracil",
+      "D": "Propranolol",
+      "E": "Radioiodine ablation"
+    },
+    "correct": "E",
+    "explanation_md": "There is >50% relapse rate after anti-thyroid therapy in patients with Graves' disease (GD). Radioiodine ablation (RAI) therapy is considered as the preferred treatment modality in such patients (in the absence of contraindications, such as pregnancy and active severe Graves' orbitopathy). Long-term, low-dose carbimazole therapy has been deemed safe in patients with relapse of GD and can be used as an alternative to RAI, based on patient preference.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 52,
+    "stem_md": "A 35-year-old woman presented to her GP with symptoms of lethargy, palpitations, and anxiety. She had recently suffered from a flu-like illness which had lasted for about a week. On examination, she had tremors, tachycardia (a heart rate of 110 beats/minute), and increased sweating. There were no eye signs of Graves' orbitopathy and her systemic examination was unremarkable.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 21.0 pmol/L | 11.5–19.7 |\n| TSH | 0.15 mU/L | 0.35–5.5 |\n| CRP | 90 mg/L | <6 |\n| TSH receptor antibody | Negative | |\n\n**Which one of the following is the most appropriate management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Carbimazole and propranolol",
+      "C": "Propranolol",
+      "D": "Radioiodine ablation",
+      "E": "Subtotal thyroidectomy"
+    },
+    "correct": "C",
+    "explanation_md": "This woman has presented with features of a viral thyroiditis as evidenced by recent flu-like illness, symptoms and signs of hyperthyroidism, and raised inflammatory markers. The hyperthyroidism observed in patients with viral thyroiditis is usually transient and self-remitting. β-blockers are generally used for symptom control. Thionamide therapy is usually not required unless there are moderate–severe clinical features of hyperthyroidism.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 53,
+    "stem_md": "A 67-year-old man complained of ongoing symptoms of palpitations, increased sweating, and weight loss during a follow-up visit to the thyroid clinic. He had a background history of hyperthyroidism, secondary to a multi-nodular goitre, which had been treated with RAI therapy about 10 months before. He had a background history of hypertension and atrial fibrillation for which he was on amlodipine (5 mg once a day) and warfarin therapy.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 24.5 pmol/L | 11.5–19.7 |\n| FT3 | 8.2 pmol/L | 3.5–6.5 |\n| TSH | 0.03 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management approach in his case?**",
+    "image": null,
+    "options": {
+      "A": "Carbimazole",
+      "B": "Elective thyroidectomy",
+      "C": "Observe",
+      "D": "Propranolol",
+      "E": "Radioiodine ablation (second dose)"
+    },
+    "correct": "E",
+    "explanation_md": "If hyperthyroidism persists beyond 6 months following ¹³¹I therapy for toxic multinodular goitre or toxic adenoma, retreatment with radioiodine ablation (RAI) is preferred in older patients. A few patients who have features of mild–moderate hyperthyroidism post RAI therapy may require carbimazole therapy until the RAI is effective. Surgery may be required in severe or refractory cases of persistent hyperthyroidism due to toxic multinodular goitre or adenoma.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 54,
+    "stem_md": "A 25-year-old woman was incidentally detected to have a thyroid nodule measuring 0.8 cm on an ultrasound of the neck arranged by her GP. She had no previous history of radiation exposure and there was no family history of thyroid-related malignancy. On examination, she had no visible or palpable goitre, or cervical lymph nodes.\n\nTFT results:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 15.3 pmol/L | 11.5–19.7 |\n| TSH | 2.5 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most appropriate management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Manage in primary care",
+      "B": "Measure calcitonin",
+      "C": "Measure thyroglobulin",
+      "D": "Non-urgent referral for FNAC",
+      "E": "Urgent referral for FNAC"
+    },
+    "correct": "A",
+    "explanation_md": "Thyroid nodules are mostly benign and may be detected by palpation in 3–7% of patients, while small nodules may be detected by ultrasonography of the neck in up to 70% of the normal population.\n\n**Table 2.16** Referral criteria for management of thyroid lumps/nodules\n\n| Manage in primary care | Non-urgent referral | Urgent referral | Same-day referral |\n|---|---|---|---|\n| Thyroid lump or goitre, which remains unchanged in size (with no risk factors for thyroid cancer) | Abnormal TFT | Unexplained hoarseness of voice and/or presence of cervical lymph nodes | Presence of stridor |\n| Non-palpable thyroid nodules <1cm (incidentally detected) | Sudden onset of pain in thyroid lump | Thyroid nodule in a child | |\n| | Gradually enlarging (over months) | Rapidly enlarging (over weeks) painless thyroid mass | |",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 55,
+    "stem_md": "A 35-year-old woman was referred to the thyroid clinic from primary care after her partner had noticed a painless lump in her neck. She had a background history of Type 2 DM for which she was receiving metformin and dapagliflozin therapy. On examination, her BMI was 32 Kg/m². She had a 1.5-cm palpable firm thyroid nodule, with no cervical lymphadenopathy. Her TFT results were within the normal range.\n\n**Which of the following are considered to be risk factors for the development of thyroid cancer?**",
+    "image": null,
+    "options": {
+      "A": "Female gender",
+      "B": "Multiple endocrine neoplasia type 1",
+      "C": "Obesity",
+      "D": "Reidel's thyroiditis",
+      "E": "Type 2 diabetes mellitus"
+    },
+    "correct": "C",
+    "explanation_md": "According to the guidelines (2014) issued by the British Thyroid Association on the management of thyroid cancer, the following are considered to be risk factors for thyroid cancer:\n\n- History of neck irradiation in childhood\n- Endemic goitre\n- Hashimoto's thyroiditis (risk of lymphoma)\n- Family or personal history of thyroid adenoma\n- Cowden's syndrome\n- Familial adenomatous polyposis\n- Familial thyroid cancer\n- Obesity\n\nA thyroid nodule is more likely to be malignant if it is associated with any of the following features:\n\n- Age <20 years or >60 years\n- A firm, solitary, non-toxic nodule\n- Rapid growth\n- Hoarseness of voice\n- Palpable cervical lymph node\n- Micro-calcification on ultrasonography",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 56,
+    "stem_md": "A 26-year-old woman was referred to the thyroid clinic in view of an incidentally detected thyroid nodule which had been gradually increasing in size over the previous 6 weeks. She had a background history of Hashimoto's thyroiditis diagnosed 2 years before and was on thyroxine (75 µg once a day). On examination, she had a firm 1.8-cm right-sided thyroid nodule, together with enlarged cervical lymph nodes. Her TFT results were within the normal range and FNAC results confirmed a follicular carcinoma with vascular invasion.\n\n**Which of the following is a marker of poor prognosis in patients with differentiated thyroid cancer?**",
+    "image": null,
+    "options": {
+      "A": "Age group 20–40 years",
+      "B": "Female gender",
+      "C": "Hashimoto's thyroiditis",
+      "D": "Tumour size",
+      "E": "Well-differentiated tumour"
+    },
+    "correct": "D",
+    "explanation_md": "The following factors are linked with poor prognosis in a differentiated thyroid cancer:\n\n- Age <10 years or >40 years\n- Male gender\n- Cellular differentiation and vascular invasion on histology\n- Tumour size\n- Tumour extent (lymph node involvement/metastasis)",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 57,
+    "stem_md": "A 42-year-old woman was reviewed in the multidisciplinary thyroid cancer clinic with a rapidly enlarging neck swelling and hoarseness of the voice. She had a family history of thyroid dysfunction and adenoma. On examination, she had a 2.5-cm right-sided thyroid nodule with no palpable cervical lymph nodes. Her TFT results were within the normal range and FNAC confirmed the diagnosis of papillary thyroid cancer. She underwent an elective total thyroidectomy followed by a ¹³¹I ablation.\n\n**How soon after total thyroidectomy should Tg levels be measured?**",
+    "image": null,
+    "options": {
+      "A": "Immediately after the operation",
+      "B": "After 1 week",
+      "C": "After 6 weeks",
+      "D": "After 6 months",
+      "E": "After 1 year"
+    },
+    "correct": "C",
+    "explanation_md": "The majority of patients with papillary thyroid cancer >1 cm in diameter or with a high risk of follicular thyroid cancer should undergo a total or near-total thyroidectomy.\n\n- Serum Tg levels should be checked at least 6 weeks after surgery to avoid false positive test results.\n- An elective ¹³¹I ablation (radioiodine remnant ablation or RRA) should be arranged within 3–6 weeks of thyroidectomy.\n- Suppressive dose of thyroxine should be started (3 days after ¹³¹I ablation) with the aim of keeping TSH levels <0.1 mIU/L.\n- A whole-body scan and stimulated Tg measurement should be arranged after stopping thyroxine for at least 4 weeks after 9–12 months of ¹³¹I ablation.\n- Criteria for dynamic risk stratification help to reclassify thyroid carcinoma recurrence risk. Suppressed Tg <1 µg/L with no evidence of disease on neck ultrasound and negative cross-sectional or nuclear medicine imaging suggests a low risk of recurrence of thyroid carcinoma. In contrast, Tg >1 µg/L (or stimulated Tg >10 µg/L) or persistent/new disease on radiological/nuclear medicine imaging suggests a high risk of disease recurrence.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 58,
+    "stem_md": "A 25-year-old woman was incidentally detected to have a 0.9-cm thyroid nodule (indeterminate appearance or U3) on ultrasound of the neck. She had no history of radiation exposure and was not on any medications. She had a family history of thyroid carcinoma. On examination, there was no cervical lymphadenopathy. She had no neck lump and systemic examination was unremarkable. Her TFT results were within the normal range. FNAC confirmed the diagnosis of a well-differentiated papillary thyroid cancer with no vascular invasion. Further investigations confirmed the absence of any regional or distant metastasis of the tumour. She subsequently underwent a lobectomy with complete resection of the tumour.\n\n**Which one of the following is the most appropriate further management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "External beam radiotherapy",
+      "B": "¹³¹I ablation post-operatively",
+      "C": "Maintain TSH between 0.3–2 mU/L",
+      "D": "Measurement of stimulated Tg",
+      "E": "Suppress the TSH <0.1 mU/L"
+    },
+    "correct": "C",
+    "explanation_md": "Patients with low-risk follicular cancer or papillary cancer ≤1 cm may be treated with thyroid lobectomy.\n\n- ¹³¹I ablation (RRA) post-operatively is not needed for well-differentiated papillary or follicular carcinoma which are ≤1 cm in size and showing no angioinvasion.\n- Thyroglobulin (Tg) is secreted by normal as well as cancerous thyroid cells. In patients who have had a lobectomy (as compared to total thyroidectomy), measurement of Tg has limited utility.\n- The patients who do not require RRA (based on the criteria mentioned previously) usually do not require TSH suppression, although the TSH levels should be maintained at 0.3–2 mIU/L.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 59,
+    "stem_md": "A 22-year-old woman was referred to the endocrine clinic in view of a rapidly enlarging neck lump. She was otherwise well and not on any medication. She had a family history of adrenal disorder (mother was diagnosed to have phaeochromocytoma which needed resection). On examination, she had a 2.5-cm hard thyroid nodule without any palpable cervical lymph nodes. Further investigations showed elevated calcitonin levels and FNAC confirmed the diagnosis of medullary thyroid cancer. The 24-hour urinary metanephrine measurement was within the normal range.\n\n**Which one of the following is the most appropriate step in her further management?**",
+    "image": null,
+    "options": {
+      "A": "Chemotherapy",
+      "B": "External beam radiotherapy",
+      "C": "Somatostatin analogues",
+      "D": "Total thyroidectomy and lymph node dissection",
+      "E": "Total thyroidectomy followed by ¹³¹I ablation"
+    },
+    "correct": "D",
+    "explanation_md": "According to the British Thyroid Association (BTA) guidelines regarding management of medullary thyroid cancer (MTC):\n\n- The initial evaluation of suspected MTC patients should include ultrasound of the thyroid gland, FNAC, and plasma calcitonin measurement.\n- The patient should be offered genetic counselling and RET gene mutation analysis.\n- Screen for MEN 2A and 2B.\n- Screen for phaeochromocytomas and primary hyperparathyroidism.\n- Arrange for total thyroidectomy and level 6 lymph node dissection.\n- Prophylactic surgery should be considered in disease-free carriers of germ-line RET mutation. Surgery should be performed before the age of 5 years for MEN 2A patients and by the age of 1 year in MEN 2B patients.\n- Lifelong follow-up with monitoring of calcitonin levels.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 60,
+    "stem_md": "A 50-year-old woman was reviewed in the thyroid cancer clinic on a routine follow-up visit. She had undergone a total thyroidectomy followed by ¹³¹I ablation for a well-differentiated 2.5-cm follicular carcinoma (pT2N0M0), 3 years previously. During this clinic visit, her physical and systemic examination was normal.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 20.9 pmol/L | 11.5–19.7 |\n| TSH | 0.04 mU/L | 0.35–5.5 |\n| Tg | Detectable | |\n| Tg antibodies | Negative | |\n| RAI scan | Negative | |\n\n**Which one of the following is the most appropriate further management approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Decrease thyroxine dose",
+      "B": "Increase thyroxine dose",
+      "C": "PET scan",
+      "D": "Switch to liothyronine",
+      "E": "Ultrasound of the neck"
+    },
+    "correct": "E",
+    "explanation_md": "Tg is secreted by normal, as well as cancerous thyroid cells. Detectable Tg results may be seen in patients with thyroid remnant, residual or recurrent tumour, or in presence of endogenous Tg antibodies. The following points sum up the British Thyroid Association (BTA) guidelines for Tg measurement in patients with differentiated thyroid cancer.\n\n- To ensure continuity in monitoring, clinicians should use the same laboratory and Tg assay on a long-term basis.\n- TSH and Tg Ab should be measured simultaneously with serum Tg.\n- There is normally no need to measure serum Tg more frequently than 3-monthly during routine follow-up.\n- For patients in remission, measure Tg and TSH on an annual basis.\n- There is no need for TSH stimulation if the basal serum Tg is already detectable. If baseline Tg is normal, diagnostic sensitivity can be enhanced by measuring stimulated Tg (achieved by either withdrawing TSH therapy or preferably by using recombinant TSH injection).\n- Patients in whom the basal Tg remains persistently detectable (while on suppressive levothyroxine therapy) or rises with subsequent assessments, require further evaluation.\n- In the presence of rising Tg levels, there are three potential approaches: no action until the patient is symptomatic; empirical use of ¹³¹I therapy; or investigations to localize disease recurrence which include neck ultrasound, CT scan of lungs (if neck ultrasound is normal), and ⁹⁹ᵐTc bone scan (if neck ultrasound, as well as CT lungs, normal), in that order. A PET scan may be used if all the previously mentioned investigations are normal.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 61,
+    "stem_md": "A 72-year-old woman was referred to the endocrine clinic with symptoms of palpitations, restlessness, diarrhoea, and weight loss. She had a background history of ischaemic heart disease and hypertension. On examination, she had mild tremors in the hands, no eye signs of Graves' eye disease, and no visible/palpable goitre.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 22.5 pmol/L | 11.5–19.7 |\n| TSH | <0.01 mU/L | 0.35–5.5 |\n| TSH receptor antibody | Negative | |\n\nShe underwent an RAIU scan (see Fig. 2.2).\n\n{{image}}\n\n**Which one of the following is the most appropriate management approach in her case based on her clinical profile?**",
+    "image": "images/ch02/q061.png",
+    "options": {
+      "A": "Observation",
+      "B": "Propranolol",
+      "C": "Propylthiouracil",
+      "D": "Radioiodine ablation",
+      "E": "Thyroidectomy"
+    },
+    "correct": "D",
+    "explanation_md": "This woman has clinical and biochemical features of hyperthyroidism with increased uptake on thyroid uptake scan, consistent with a diagnosis of toxic nodular goitre. Radioiodine ablation therapy is the treatment of choice in this clinical scenario, considering her age (>65 years) and the presence of co-morbidities (ischaemic heart disease).",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 62,
+    "stem_md": "A 32-year-old woman was referred to the thyroid clinic with a 4-week history of flu-like symptoms, difficulty in swallowing, and pain in the neck region. On examination, she was noticed to have bilateral tremors and tenderness in the neck on palpation. Her heart rate was 84 beats/minute, regular.\n\nInvestigations:\n\n| Test | Result | Reference range |\n|---|---|---|\n| FT4 | 20.5 pmol/L | 11.5–19.7 |\n| FT3 | 5.5 pmol/L | 3.5–6.5 |\n| TSH | 0.12 mU/L | 0.35–5.5 |\n\nShe underwent an RAIU scan (¹²³I) (see Fig. 2.3).\n\n{{image}}\n\n**Which one of the following is the most appropriate management plan for her based on her clinical profile?**",
+    "image": "images/ch02/q062.png",
+    "options": {
+      "A": "Anti-inflammatory agents",
+      "B": "Carbimazole",
+      "C": "Elective thyroidectomy",
+      "D": "Prednisolone",
+      "E": "Radioiodine ablation"
+    },
+    "correct": "A",
+    "explanation_md": "The clinical profile of flu-like symptoms, neck pain, mild features of hyperthyroidism, and lack of uptake on RAIU scan is consistent with a diagnosis of subacute/de Quervains' thyroiditis. It is usually a self-limiting disease and may show a triphasic clinical course (hyperthyroidism, hypothyroidism, followed by a euthyroid state). The hyperthyroid state is believed to be due to destruction of thyroid follicles (due to inflammatory process) resulting in the release of preformed thyroid hormones into the circulation. Patients may need β-blockers such as propranolol for symptom relief, and anti-inflammatory agents. This stage may last for 6–8 weeks and is usually followed by a hypothyroid or euthyroid state. Anti-thyroid medications are usually not required.",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 63,
+    "stem_md": "A 36-year-old woman was referred to the thyroid clinic in view of a rapidly enlarging neck lump which she had noticed 4 weeks before. She was previously well and not on any regular medication. On examination, she had a palpable 1.5-cm thyroid nodule (firm in consistency). There was no cervical lymph node enlargement. She was referred for an urgent ultrasound of the thyroid gland.\n\n**Which one of the following ultrasound features is suggestive of a malignant nodule?**",
+    "image": null,
+    "options": {
+      "A": "Cystic nodule",
+      "B": "Eggshell-type calcification in periphery",
+      "C": "Isoechoic in relation to surrounding normal thyroid",
+      "D": "Spongiform appearance",
+      "E": "Taller than wider shape"
+    },
+    "correct": "E",
+    "explanation_md": "Ultrasound is a highly sensitive investigation to detect thyroid nodules. It can help in detecting thyroid carcinoma (especially papillary cancer). Ultrasound is typically the initial investigation of choice for patients presenting with a neck lump and can help identify the thyroid nodule suitable for FNAC.\n\n**Table 2.17** Ultrasound features indicative of benign and malignant nodule\n\n| Benign nodule | Malignant papillary and medullary nodule | Follicular lesions |\n|---|---|---|\n| Spongiform/honeycomb | Solid hypo-echoic nodule (may contain hyper-echoic foci, i.e. micro-calcification) | Hyper-echoic and homogenous with a well-defined halo (benign) |\n| Purely cystic | Irregular margin | Hypo-echogenicity and loss of associated halo (associated with carcinoma) |\n| Egg-shell calcification | Intra-nodular vascularity | |\n| Isoechoic (or mildly hyper-echoic) | Absence of an associated halo | |\n| Peripheral vascularity | 'Taller than wide' shape (i.e. AP diameter > TR diameter) | |\n\nAbbreviations: AP: anterior-posterior; TR: transverse",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 64,
+    "stem_md": "A 62-year-old man was referred to the thyroid clinic in view of a painless lump in his neck noticed 4 weeks before. He had not noticed any change in voice and his body weight had been stable. He had a background history of Type 2 DM (diet control) and hypertension. There was a family history of adenomatous polyposis. On examination, his BMI was 35 Kg/m². A 2.5-cm left-sided, firm thyroid nodule was palpable. The ultrasound of the thyroid nodule was reported as U3 (indeterminate). FNAC was reported as showing Thy2 cytology. He was referred for an urgent ultrasound of the thyroid gland.\n\n**Which one of the following is the most appropriate management step?**",
+    "image": null,
+    "options": {
+      "A": "Discharge from follow-up",
+      "B": "Complete thyroidectomy",
+      "C": "Hemithyroidectomy",
+      "D": "Repeat FNAC",
+      "E": "Repeat ultrasound"
+    },
+    "correct": "D",
+    "explanation_md": "Age >60 years, firmness of the nodule on palpation, and rapid growth are the clinical features in this man which increase the statistical probability of carcinoma in a thyroid nodule. In addition, obesity and a history of familial adenomatous polyposis are considered as risk factors for thyroid cancer. Although the nodule has Thy2 cytology, the index of suspicion of thyroid carcinoma remains high in view of the above mentioned clinical features and U3 (indeterminate) ultrasound features. Such patients should undergo repeat FNAC for confirmation.\n\n**Table 2.18** Radiological classification of thyroid nodules\n\n| U classification | Interpretation | Action |\n|---|---|---|\n| U1 | Normal | Discharge |\n| U2 | Benign | FNAC not required (unless clinical suspicion of malignancy) |\n| U3 | Indeterminate | FNAC |\n| U4 | Suspicious | FNAC |\n| U5 | Malignant | FNAC |\n\nAbbreviation: FNAC: fine-needle aspiration cytology",
+    "review": null
+  },
+  {
+    "chapter": 2,
+    "number": 65,
+    "stem_md": "A 63-year-old woman was referred to the endocrine clinic in view of incidentally detected focal Fluorodeoxyglucose (FDG) activity in the thyroid gland on PET-CT. She had undergone PET-CT as part of a diagnostic staging for pancreatic carcinoma. She had no past medical history of thyroid dysfunction and was not on any regular medication (apart from co-codamol tablets for pain relief). On examination, her pulse rate was 70 beats/minute. There were no tremors or eye signs of Graves' orbitopathy. There was no visible or palpable thyroid nodule. There was no cervical lymph node enlargement.\n\n**Which one of the following is the most appropriate management approach?**",
+    "image": null,
+    "options": {
+      "A": "Discharge from clinic",
+      "B": "Radioiodine ablation",
+      "C": "Repeat PET-CT",
+      "D": "Refer for surgery",
+      "E": "Thyroid ultrasound"
+    },
+    "correct": "E",
+    "explanation_md": "Nodules detected by PET-CT with focal FDG activity should be investigated with ultrasound and FNAC (unless it is metastatic disease with poor prognosis due to alternative malignancy). The risk of malignancy in such lesions is 25–50%. In contrast, diffuse uptake on FDG PET has been reported in 0.6–3.3% of the normal population.",
+    "review": null
+  }
+]
