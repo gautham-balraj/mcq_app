@@ -1,0 +1,802 @@
+[
+  {
+    "chapter": 3,
+    "number": 1,
+    "stem_md": "The four parathyroid glands play a key role in calcium homeostasis by secreting parathyroid hormone (PTH).\n\n**Which one of the following statements regarding parathyroid gland/PTH physiology is correct?**",
+    "image": null,
+    "options": {
+      "A": "1, 25-dihydoxy vitamin D is the main storage form of vitamin D",
+      "B": "Parathyroid glands develop from the fifth and sixth pharyngeal pouches",
+      "C": "PTH enhances the reabsorption of calcium in the proximal renal tubule",
+      "D": "PTH reduces the absorption of calcium from the bones",
+      "E": "PTH reduces the reabsorption of phosphate in the proximal renal tubule"
+    },
+    "correct": "E",
+    "explanation_md": "Development of the parathyroid glands occurs from the fifth to seventh week of gestation. The superior glands arise from the fourth branchial pouch and have a short line of embryological descent, whereas the inferior glands arise from the third branchial pouch (together with the thymus) and have a longer embryological descent, which explains increased variability in their anatomical position.\n\nPTH is a polypeptide hormone containing 84 amino acids. Other peptide hormones include GH, ACTH, prolactin, anti-diuretic hormone (ADH), leptin, insulin, and somatostatin.\n\nRenal absorption of calcium is enhanced by PTH at the ascending loop, loop of Henlé, and distal tubule. PTH reduces the reabsorption of phosphate at the proximal tubule via the sodium-phosphate co-transporter. 25-hydroxy vitamin D is the main storage form and the best measure of vitamin D status.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 2,
+    "stem_md": "A 26-year-old care-home worker was referred to the combined endocrine–obstetric antenatal clinic by her GP due to an incidental finding of low calcium in her routine blood tests while she was 32 weeks pregnant. There was no significant past medical history, and she was not on any regular medication.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Total calcium | 2.10 mmol/L | 2.2–2.6 |\n| Phosphate | 0.92 mmol/L | 0.8–1.5 |\n| PTH | 2.6 pmol/L | 1.6–7.2 |\n| Total protein | 54 g/L | 65–75 |\n| Albumin | 28 g/L | 35–40 |\n\n**Which one of the following statements regarding calcium homeostasis during pregnancy is correct?**",
+    "image": null,
+    "options": {
+      "A": "250 g of maternal calcium is required to support foetal skeletal development",
+      "B": "Calcium transport across the placenta is inhibited by PTH-related protein",
+      "C": "Free ionized calcium levels reduce during pregnancy",
+      "D": "PTH levels increase during pregnancy",
+      "E": "Total calcium concentration increases during pregnancy"
+    },
+    "correct": "D",
+    "explanation_md": "The net calcium requirement to sustain foetal skeletal development has been estimated to be about 30 g by term. Changes in maternal calcium regulation begin in the first trimester and include hyperplasia of the maternal parathyroid glands and an increase in PTH levels. Calcium transport across the placenta is facilitated by PTH-related protein. Although total serum calcium falls (due to mild hypoalbuminaemia and increased demand induced by foetal skeletal development), the ionized corrected calcium levels remain unchanged.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 3,
+    "stem_md": "A 65-year-old retired nurse was referred to the endocrine clinic by her primary care physician in view of incidentally detected hypercalcaemia. She had no significant past medical history and was not taking any regular medications. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.5 mg/dL | 5–9 |\n| Creatinine | 98 µmol/L | 60–115 |\n| Calcium | 2.8 mmol/L | 2.2–2.6 |\n| Phosphate | 0.74 mmol/L | 0.8–1.5 |\n| Alkaline phosphatase | 450 IU/L | 50–110 |\n\n**Which one of the following investigations is most likely to help establish the diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "1,25-OH vitamin D levels",
+      "B": "25-OH vitamin D levels",
+      "C": "Bone scan",
+      "D": "Myeloma screen",
+      "E": "PTH levels"
+    },
+    "correct": "E",
+    "explanation_md": "The most likely cause of hypercalcaemia in this woman is primary hyperparathyroidism (PHPT). It is believed to have a prevalence of 0.8–1%, with a significant number of patients remaining undiagnosed. It is more commonly detected in post-menopausal women. PHPT has three distinct clinical phenotypes: overt target organ damage; mild asymptomatic disease; and normocalcaemaic hyperparathyroidism. The underlying aetiology of PHPT is parathyroid adenoma (80–85%) followed by parathyroid hyperplasia (~10–14%). Measuring PTH level remains a key investigation in narrowing down the aetiology of hypercalcaemia.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 4,
+    "stem_md": "A 26-year-old soldier was referred to the endocrine clinic with an incidentally detected elevated calcium level of 2.7 mmol/L on a blood test carried out as part of a routine medical check-up. She was otherwise well in herself and not on any medications. Her mother and younger sister were also known to have mildly elevated calcium levels. Based on biochemistry results, a possible diagnosis of familial hypocalciuric hypercalcaemia (FHH) was considered and further genetic tests were arranged.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.2 mg/dL | 7–10 |\n| Creatinine | 75 µmol/L | 60–115 |\n| Corrected calcium | 2.71 mmol/L | 2.2–2.6 |\n| Phosphate | 0.96 mmol/L | 0.8–1.5 |\n| PTH | 5.5 pmol/L | 1.6–7.2 |\n| 25 OH vitamin D | 55 µg/L |  |\n| Calcium creatinine ratio | <0.01 |  |\n\n**Which one of the following is a correct statement regarding FHH?**",
+    "image": null,
+    "options": {
+      "A": "Associated with nephrolithiasis",
+      "B": "Autosomal recessive inheritance",
+      "C": "PTH levels are usually low",
+      "D": "Results from activating mutation of calcium-sensing receptor (CaSR)",
+      "E": "There is increased tubular calcium and magnesium reabsorption"
+    },
+    "correct": "E",
+    "explanation_md": "Familial hypocalciuric hypercalcaemia (FHH) is a benign condition characterized by mild hypercalcaemia and either high normal or slightly elevated PTH levels. It has three subtypes as summed up in Table 3.1.\n\n**Table 3.1** Subtypes of familial hypocalciuric hypercalcaemia (FHH)\n\n| Subtypes of FHH | Gene mutation |\n|---|---|\n| **Type 1** | *CaSR* |\n| **Type 2** | *GNA11* |\n| **Type 3** | *AP2S1* |\n\nFHH has an autosomal dominant inheritance with high penetrance. Urinary calcium creatinine (UCaCr) clearance ratio is usually <0.01 in this condition. The following factors may influence the UCaCr clearance ratio:\n\n- Ethnic origin (lower UCaCr clearance ratio in individuals of Afro-Caribbean origin)\n- Medications (loop diuretic, lithium)\n- eGFR\n- 25-hydroxy vitamin D levels\n\nMost patients do not have any symptoms/complications of hypercalcaemia due to the mild nature of it, although very rarely pancreatitis or chondrocalcinosis has been reported in FHH subtype 3.\n\nIt is important to differentiate this from primary hyperparathyroidism (PHPT) as parathyroidectomy is neither indicated nor curative in most cases of typical FHH.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 5,
+    "stem_md": "A 58-year-old solicitor was incidentally detected to have elevated calcium levels after routine blood tests as part of his annual medical check-up. He had had no medical problems in the past and was not taking any regular medications.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 8.5 mg/dL | 7–10 |\n| Creatinine | 62 µmol/L | 60–115 |\n| Corrected calcium | 2.64 mmol/L | 2.2–2.6 |\n| Phosphate | 1.28 mmol/L | 0.8–1.5 |\n| PTH | 6.8 pmol/L | 1.6–7.2 |\n| 25 OH vitamin D | 82.2 µg/L |  |\n| Calcium creatinine ratio | <0.01 |  |\n\n**Which one of the following is the most appropriate management plan in his case?**",
+    "image": null,
+    "options": {
+      "A": "Bisphosphonates",
+      "B": "Cinacalcet",
+      "C": "Conservative management",
+      "D": "Elective parathyroidectomy",
+      "E": "25-OH vitamin D replacement"
+    },
+    "correct": "C",
+    "explanation_md": "The diagnosis is likely to be familial hypocalciuric hypercalcaemia (FHH) in view of the mildly elevated calcium levels, normal PTH, and decreased calcium creatinine ratio, which is suggestive of reduced urinary calcium excretion. Patients with FHH subtype 3 have been shown to have higher renal tubular calcium absorption rates as compared to patients with FHH subtypes 1 and 2. The management of FHH is conservative as it is not associated with any end-organ damage in most of the patients.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 6,
+    "stem_md": "A 45-year-old woman of Afro-Caribbean origin presented to the medical assessment unit with symptoms of excessive thirst, nausea, increased frequency of micturition, and arthralgia after returning from a recent holiday in Egypt. She had a long-standing history of a dry cough, which showed no improvement despite stopping ramipril tablets which she was taking for blood pressure control. Her general physical and systemic examination was unremarkable.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 8.5 mg/dL | 5–10 |\n| Creatinine | 105 µmol/L | 60–115 |\n| Calcium | 2.78 mmol/L | 2.2–2.6 |\n| Phosphate | 1.22 mmol/L | 0.8–1.5 |\n| PTH | 0.2 pmol/L | 1.6–7.2 |\n| Fasting glucose | 4.5 mmol/L |  |\n\n**Considering her history and clinical profile, which one of the following is the probable diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "Multiple myeloma",
+      "B": "Nephrogenic diabetes insipidus",
+      "C": "Primary hyperparathyroidism",
+      "D": "Sarcoidosis",
+      "E": "Wegner’s granulomatosis"
+    },
+    "correct": "D",
+    "explanation_md": "Sarcoidosis is a multi-system inflammatory granulomatous disorder of unknown aetiology. It has a higher incidence (18–71 cases per 100,000 individuals) in the Afro-Caribbean ethnic group as compared with the Caucasian population. Most of the individuals present with symptoms of sarcoidosis in their third to sixth decade of life. Hypercalcaemia is seen in 5–10% patients with sarcoidosis. Diagnosis is based on clinical and radiological findings, with histopathological detection of non-caseating granulomas. Angiotensin-converting enzyme (ACE) and soluble interleukin 2 (IL2) receptor levels can be elevated although not diagnostic. Hypercalcaemia in sarcoidosis is secondary to excess extra-renal production of 1,25 (OH)2 vitamin D in the granulomata due to autonomous 1α hydroxylase activity. The biochemistry usually reveals reduced 25-OH vitamin D, normal or often elevated 1,25 (OH)2 vitamin D, and suppressed PTH. Treatment is with high-dose corticosteroids.\n\nThis patient has an unexplained dry cough, arthralgia, and hypercalcaemia, all of which point towards a multi-system disorder—that is, possible sarcoidosis in this case.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 7,
+    "stem_md": "A 54-year-old woman was referred to the endocrine clinic by her primary care physician with incidentally detected elevated serum calcium levels. She had noticed lethargy, arthralgia, and insomnia for over 6 months. She had a background medical history of hypertension, gout, and osteoporosis. Her medications included allopurinol, alendronic acid, amlodipine, and bendroflumethazide. She had no family history of hypercalcaemia or parathyroid-related disorders. On examination, blood pressure was 140/84 mm of Hg. Systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 11.2 mg/dL | 5–10 |\n| Creatinine | 104 µmol/L | 60–115 |\n| Adjusted calcium | 2.70 mmol/L | 2.2–2.6 |\n| Phosphate | 1.22 mmol/L | 0.8–1.5 |\n| PTH | 2.5 pmol/L | 1.5–7.5 |\n| TFT | Normal |  |\n\n**Which one of the following is the most appropriate next step in the management of her hypercalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Elective parathyroidectomy",
+      "B": "Start cinacalcet",
+      "C": "Stop allopurinol",
+      "D": "Stop bendroflumethazide",
+      "E": "Switch to zoledronate"
+    },
+    "correct": "D",
+    "explanation_md": "Thiazide diuretics reduce urinary excretion of calcium and may lead to mild hypercalcaemia. The serum calcium levels increase independent of PTH. The incidence of thiazide-induced hypercalcaemia increases with age. In a population-based study reported from Minnesota, the mean duration between initiation of thiazide diuretic therapy and detection of hypercalcaemia was 6–7 years. The majority of the patients who had persistent hypercalcaemia after stopping thiazides were found to have primary hyperparathyroidism.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 8,
+    "stem_md": "A 35-year-old man with a background history of manic-depressive psychosis (MDP) and Type 2 DM (T2DM) presented to his primary care physician with symptoms of polydipsia, polyuria, and abdominal pain. He was on lithium and metformin tablets for MDP and T2DM, respectively.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 8.5 mg/dL | 5–10 |\n| Creatinine | 96 µmol/L | 60–115 |\n| Adjusted calcium | 2.75 mmol/L | 2.2–2.6 |\n| Phosphate | 1.04 mmol/L | 0.8–1.5 |\n| PTH | 8.8 pmol/L | 1.5–7.5 |\n| HbA1c | 49 mmol/mol |  |\n\n**Which one of the following is a correct statement with regards to the impact of lithium on calcium homeostasis?**",
+    "image": null,
+    "options": {
+      "A": "Decreased serum magnesium levels",
+      "B": "Decreased serum total and ionized calcium levels",
+      "C": "Increased parathyroid gland sensitivity to calcium",
+      "D": "Increased urinary calcium excretion",
+      "E": "PTH-dependent hypercalcaemia"
+    },
+    "correct": "E",
+    "explanation_md": "Lithium decreases urinary calcium, as well as magnesium excretion, thus causing mild hypercalcaemia and mild hypermagnesaemia. In a proportion of patients, lithium therapy is also associated with a shift of the set-point for the calcium-PTH curve to the right, leading to hypercalcaemia, hypocalciuria, and hyperparathyroidism. This pattern of shift is similar to that observed in individuals with familial hypocalciuric hypercalcaemia (FHH), although the site of action of lithium appears to be the calcium-sensing receptors (CaSR) at the intracellular level.\n\nLithium affects PTH secretion and, as a result, leads to PTH-dependent hypercalcaemia. In contrast, Thiazides and vitamin D induced hypercalcaemia is PTH-independent.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 9,
+    "stem_md": "A 72-year-old retired matron was admitted to the medical assessment unit with weight loss and elevated calcium. She had a background history of hypertension and gout. She was on allopurinol, bendroflumethiazide, and ramipril tablets. On examination, her blood pressure was 136/82 mm of Hg. General physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Hb | 9.6 g/L | 12.0–14.5 |\n| Mean corpuscular volume | 85 | 80–98 |\n| Urea | 13.4 mg/dL | 5–10 |\n| Creatinine | 142 µmol/L | 60–115 |\n| Adjusted calcium | 3.05 mmol/L | 2.2–2.6 |\n| PTH | <0.5 pmol/L | 1.5–7.5 |\n| Total protein | 92 g/L |  |\n| Albumin | 26 g/L | 35–40 |\n\n**Which one of the following is the most likely cause of her hypercalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Drug-induced hypercalcaemia",
+      "B": "Familial hypocalciuric hypercalcaemia",
+      "C": "Multiple myeloma",
+      "D": "Primary hyperparathyroidism",
+      "E": "Secondary hyperparathyroidism"
+    },
+    "correct": "C",
+    "explanation_md": "The hypercalcaemia associated with bendroflumethiazide is usually mild. In this clinical scenario, investigation results are not consistent with either primary (serum calcium high or high normal, and raised PTH levels) or secondary hyperparathyroidism (serum calcium normal or low, and raised PTH levels). The age and presenting symptoms of the patient, together with biochemistry showing suppressed PTH levels, normocytic anaemia, reversal of the albumin–globulin ratio, severe hypercalcaemia, and renal dysfunction suggest a possible underlying diagnosis of multiple myeloma.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 10,
+    "stem_md": "A 72-year-old man was referred to the medical assessment unit with a history of progressive fatigue, malaise, and weight loss. He was a chronic smoker with a background history of chronic obstructive airway disease for which he was on home nebulizers and oxygen therapy. On examination, he was cachectic and had a palpable hard left supraclavicular lymph node.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 15.5 mg/dL | 5–10 |\n| Creatinine | 232 µmol/L | 60–115 |\n| Adjusted calcium | 3.32 mmol/L | 2.2–2.6 |\n| PTH | <0.1 pmol/L | 1.5–7.5 |\n| Albumin | 22 g/L | 35–40 |\n\n**Which one of the following is a correct statement regarding hypercalcaemia seen in patients with malignancy?**",
+    "image": null,
+    "options": {
+      "A": "Increased bone resorption may contribute to hypercalcaemia",
+      "B": "Lymphoma is associated with reduced calcitriol levels",
+      "C": "Osteolytic metastases are seen in the majority of patients",
+      "D": "PTH contributes to humoral hypercalcaemia",
+      "E": "Serum PTH concentrations are typically high or high normal"
+    },
+    "correct": "A",
+    "explanation_md": "Hypercalcaemia is one of the commonest metabolic disturbances associated with malignancy. The most common malignancies associated with hypercalcaemia include breast, lung, and haematological (e.g. multiple myeloma, leukaemia, and non-Hodgkin’s lymphoma). Hypercalcaemia of malignancy is either due to increased mobilization of calcium from the bones or inadequate calcium clearance from the renal tract. The former is either due to direct bone destruction caused by the tumour (seen in approximately 20% of patients with hypercalcaemia) or due to the circulating factors (seen in approximately 75% of patients), such as parathyroid hormone related protein (PTHrP) or increased cytokine production. Patients with underlying lymphoma have elevated calcium levels due to the increased production of calcitriol (1,25 (OH)2 vitamin D) by tumour cells. Management includes hydration and bisphosphonates to reduce bone resorption. In refractory patients, denosumab (monoclonal antibody against the receptor activator of nuclear factor kappa B ligand) can be used, although the prognosis remains poor.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 11,
+    "stem_md": "A 92-year-old woman was found collapsed on the floor by her care worker after an overnight mechanical fall. She had a background history of hypertension, dyslipidaemia, and temporal arteritis. She was on amlodipine, ramipril, atorvastatin, and prednisolone therapy.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 152 mmol/L | 135–145 |\n| K | 6.1 mmol/L | 3.5–5.5 |\n| Urea | 25.5 mg/dL | 5–10 |\n| Creatinine | 355 µmol/L | 60–115 |\n| Adjusted calcium | 2.85 mmol/L | 2.2–2.6 |\n| Creatine kinase | Raised |  |\n\n**Which one of the following metabolic changes is seen in the early phases of rhabdomyolysis?**",
+    "image": null,
+    "options": {
+      "A": "Hypercalcaemia",
+      "B": "Hyperuricaemia",
+      "C": "Hypokalaemia",
+      "D": "Hypophosphataemia",
+      "E": "Metabolic alkalosis"
+    },
+    "correct": "B",
+    "explanation_md": "Hypocalcaemia occurs in the early phase of rhabdomyolysis because of an influx of calcium into the damaged myocytes and its binding to phosphatidylinositol. Calcium infusion should be avoided as there is a subsequent efflux of calcium from damaged myocytes, along with slow clearance (if acute kidney injury develops), predisposing to development of hypercalcaemia (at a later stage). Myocyte damage leads to hyperkalaemia, hyperphosphataemia, and metabolic acidosis. Rhabdomyolysis can result in acute kidney injury, compartment syndrome, and disseminated intravascular coagulation.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 12,
+    "stem_md": "An 18-year-old university student developed traumatic paraplegia secondary to a road traffic accident about 6 months previously, requiring prolonged immobilization and a period of rehabilitation. She was undergoing regular physiotherapy and was on a gradual road to recovery, although her mobility was limited to a few steps. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.5 mg/dL | 7–20 |\n| Creatinine | 65 µmol/L | 60–115 |\n| Corrected calcium | 2.80 mmol/L | 2.2–2.6 |\n| Phosphate | 0.85 mmol/L | 0.8–1.5 |\n| PTH | 0.8 pmol/L | 1.6–7.2 |\n| Total protein | 54 g/L | 65–75 |\n| 24-hour urinary calcium | 430 mg | 100–300 |\n| N telopeptide | 230 nmol BCE/L | 6–19 |\n\n**Which one of the following is the most probable underlying aetiology for her hypercalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Immobilization",
+      "B": "Malignancy",
+      "C": "Multiple myeloma",
+      "D": "Primary hyperparathyroidism",
+      "E": "Sarcoidosis"
+    },
+    "correct": "A",
+    "explanation_md": "Prolonged immobilization may result in hypercalcaemia, hypercalciuria, and osteoporosis. The parathyroid 1,25-dihydroxy vitamin D axis is suppressed in patients with immobilization-induced hypercalcaemia. N telopeptide (Tx) is a marker of bone resorption and raised levels suggest increased osteoclastic activity. Diagnosis of immobilization-induced hypercalcaemia should involve exclusion of other common causes of hypercalcaemia (e.g. malignancy). Treatment involves hydration, loop diuretics, and zoledronic acid (if required).",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 13,
+    "stem_md": "A 52-year-old man presented to the medical assessment unit with a 4-week history of polyuria, polydipsia, and left-sided abdominal pain. He had been previously well and was not on any medications. On examination, he was apyrexial and had blood pressure of 130/80 mm of Hg. A 1.5-cm neck lump of a firm consistency was palpable. There was no lymphadenopathy. On examination, he had left renal angle tenderness. There was no guarding or rigidity. Bowel sounds were normal. Urine output was 2800 mL over 24 hours.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 12.2 mg/dL | 7–20 |\n| Creatinine | 110 µmol/L | 60–115 |\n| Calcium | 3.92 mmol/L | 2.2–2.6 |\n| Phosphate | 0.45 mmol/L | 0.8–1.5 |\n| PTH | 92 pmol/L | 1.6–7.2 |\n| Venous blood glucose | 6.0 mmol/L |  |\n\n**Which one of the following is the most likely cause of his clinical and biochemical profile?**",
+    "image": null,
+    "options": {
+      "A": "Metastatic carcinoma",
+      "B": "Nephrogenic DM",
+      "C": "Parathyroid carcinoma",
+      "D": "Secondary hyperparathyroidism",
+      "E": "Tertiary hyperparathyroidism"
+    },
+    "correct": "C",
+    "explanation_md": "The clinical presentation (symptomatic hypercalcaemia and palpable neck lump) in the presence of significantly elevated serum calcium and PTH levels suggests the possibility of an underlying diagnosis of parathyroid carcinoma in this man.\n\nParathyroid carcinoma is a rare cause of elevated PTH and calcium, accounting for <1% of patients with hyperparathyroidism. The clinical characteristics of parathyroid carcinoma include:\n\n- Mean age 44–54 years\n- Palpable neck mass\n- Mean serum calcium concentration 3.7–4.0 mmol/L\n- Very high PTH levels (5–10 times the upper limit of normal)\n- Renal disease and bone disease (in 30–70%)\n- Association with hyperparathyroidism—jaw tumour syndrome",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 14,
+    "stem_md": "A 44-year-old man was diagnosed with primary hyperparathyroidism (PHPT), based on the biochemistry results (elevated calcium, low phosphate, and raised PTH levels). His parathyroid ultrasound images were as shown in Fig. 3.1.\n\n{{image}}\n\n**According to the summary statement from the Fourth International Workshop on the Management of Asymptomatic Primary Hyperparathyroidism, which one of the following is considered a valid indication for consideration for elective parathyroidectomy?**",
+    "image": "images/ch03/q014.png",
+    "options": {
+      "A": "24-hour urinary calcium >400 mg/d",
+      "B": "Age >50 years",
+      "C": "Creatinine clearance >45 mL/min/m²",
+      "D": "Serum calcium >2.75 mmol/L",
+      "E": "Z score ≤1.5 at lumber spine"
+    },
+    "correct": "A",
+    "explanation_md": "Indications for surgery in asymptomatic primary hyperparathyroidism as per the Fourth International Workshop (2014) are:\n\n- Serum calcium >2.85 mmol/L\n- Age <50 years\n- Creatinine clearance <60 mL/min; 24-hour urinary calcium>400 mg/d\n- Presence of nephrolithiasis or nephrocalcinosis\n- T score <–2.5 at lumber spine, total hip, femoral neck or distal 1/3 radius\n- Vertebral fracture",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 15,
+    "stem_md": "A 32-year-old woman, with a background history of recently diagnosed PHPT, was admitted to the surgical assessment unit with acute left-sided upper abdominal and back pain. On systemic examination, she had tenderness in the left renal angle. Ultrasound of the abdomen confirmed a 17-week foetus, together with a 4-mm left renal angle calculus. On further history taking, she mentioned that although the pregnancy was unplanned, she had decided to continue with it.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.1 mg/dL | 7–20 |\n| Creatinine | 76 µmol/L | 60–115 |\n| Adjusted calcium | 3.19 mmol/L | 2.2–2.6 |\n| Phosphate | 0.78 mmol/L | 0.8–1.5 |\n| PTH | 19.7 pmol/L | 1.6–7.2 |\n| Urine dipstick | + for ß-HCG and ++ for blood |  |\n\n**Which one of the following is the most appropriate management approach for PHPT in her clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "Conservative management",
+      "B": "Elective parathyroidectomy in the post-partum period",
+      "C": "Elective parathyroidectomy in the second trimester",
+      "D": "Medical management with cinacalcet",
+      "E": "Medical management with zoledronic acid"
+    },
+    "correct": "C",
+    "explanation_md": "Severe hypercalcaemia during pregnancy may carry significant maternal and foetal risks. Maternal presentation may include hyperemesis, nephrolithiasis, recurrent urinary tract infections, and pancreatitis. Neonatal complications may include hypocalcaemia and tetany (secondary to foetal PTH suppression), preterm delivery, low birthweight, and foetal loss. Surgery during the second trimester is the preferred treatment for symptomatic patients; however, observation may be appropriate in patients with asymptomatic, mild hypercalcaemia.\n\nBisphosphonates cross the placenta and can impact foetal skeletal development. As a result, these are contraindicated in pregnancy. Similarly, evidence related to the safety of cinacalcet in pregnancy is not available, with the possibility that it could adversely impact foetal development. Calcitonin does not cross the placenta, although its benefits are believed to last only for a short duration.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 16,
+    "stem_md": "A 65-year-old retired schoolteacher was reviewed in the endocrine clinic due to elevated PTH levels. He had a background history of Type 2 DM and hypertension. Over the years, he had developed diabetic retinopathy, requiring laser therapy and nephropathy.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 32.1 g/dL | 7–20 |\n| Creatinine | 226 µmol/L | 60–115 |\n| Adjusted calcium | 2.19 mmol/L | 2.2–2.6 |\n| Phosphate | 1.78 mmol/L | 0.8–1.5 |\n| PTH | 12.7 pmol/L | 1.6–7.2 |\n\n**Which one of the following factors contributes to the development of secondary hyperparathyroidism (HPT) in chronic kidney disease (CKD)?**",
+    "image": null,
+    "options": {
+      "A": "Increased calcitriol levels",
+      "B": "Increased urinary calcium retention",
+      "C": "Increased urinary phosphate retention",
+      "D": "Reduced FGF23 levels",
+      "E": "Reduced PTH secretion"
+    },
+    "correct": "C",
+    "explanation_md": "Progressive renal dysfunction results in hyperphosphataemia (due to reduced excretion of phosphate) and reduced calcitriol levels (due to reduced enzyme 1α-hydroxylation which mediates conversion of 25-hydroxy vitamin D to its activated form 1,25 hydroxy vitamin D or calcitriol). This ultimately results in hypocalcaemia and increased PTH secretion, leading to secondary hyperparathyroidism (SHPT). Abnormalities of the vitamin D receptor and calcium-sensing receptor (CaSR) are also associated with the pathogenesis of SHPT.\n\nFibroblast growth factor 23 (FGF23) is an osteocyte derived hormone which suppresses phosphate absorption and renal 1α hydroxylase expression. FGF23 levels are observed to increase in renal failure.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 17,
+    "stem_md": "A 33-year-old teacher underwent an elective parathyroidectomy for PHPT. Her post-operative stay in the hospital was uneventful and she was discharged home on day 3. On day 5 post-operatively, she noticed tingling around her face, with spasms in the hands, and was re-admitted to the hospital. As a result, she was started on oral calcium supplements. On day 7 post-operatively, symptoms recurred and a further fall in calcium level was noticed. She was started on IV calcium gluconate and alfacalcidol.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Corrected calcium level | 2.02 mmol/L | 2.2–2.6 |\n| Serum phosphate | 0.6 mmol/L | 0.8–1.5 |\n| Corrected calcium level | 1.89 mmol/L | 2.2–2.6 |\n| Serum phosphate | 0.46 mmol/L | 0.8–1.5 |\n\n**Which one of the following is the most likely aetiology for her persistent hypocalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Hungry bone syndrome",
+      "B": "Hypoalbuminaemia",
+      "C": "Iatrogenic hypoparathyroidism (post-surgery)",
+      "D": "Malabsorption (coeliac disease)",
+      "E": "Vitamin D deficiency"
+    },
+    "correct": "A",
+    "explanation_md": "The refractory hypocalcaemia and hypophosphataemia during the post-operative period in this woman is most likely due to an increased uptake of calcium and phosphate in the bones, otherwise labelled as hungry bone syndrome.\n\nA rapid decline in PTH levels after elective parathyroidectomy can lead to an imbalance between osteoblast-mediated bone formation and osteoclast-mediated bone resorption, resulting in a marked net increase in bone uptake of calcium, phosphate, and magnesium.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 18,
+    "stem_md": "A 32-year-old woman developed paraesthesia and carpo-pedal spasms during the post-operative period of an elective parathyroidectomy for PHPT. Based on her clinical characteristics and biochemistry results, a provisional diagnosis of hungry bone syndrome was made, and she was started on alfacalcidol therapy.\n\n**Which one of the following factors is believed to predict development of hungry bone syndrome in patients undergoing elective parathyroidectomy?**",
+    "image": null,
+    "options": {
+      "A": "Pre-operative lower 25 OH vitamin D level",
+      "B": "Pre-operative higher calcium level",
+      "C": "Post-operative lower 1,25 (OH)2 vitamin D level",
+      "D": "Post-operative lower calcium level",
+      "E": "Post-operative higher PTH level"
+    },
+    "correct": "A",
+    "explanation_md": "The factors which are deemed to be independent predictors of the development of hungry bone syndrome include:\n\n- Higher pre-operative PTH and bone-specific alkaline phosphatase (ALP) levels\n- Lower pre-operative 25 OH vitamin D levels\n- Heavier weight of resected parathyroid gland",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 19,
+    "stem_md": "A 65-year-old South Asian woman with a background history of Type 2 DM, hypertension, osteoporosis, and dyslipidaemia presented to her GP with symptoms of lethargy, malaise, and generalized body aches.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.0 mg/dL | 7–12 |\n| Creatinine | 66 µmol/L | 60–115 |\n| Calcium | 2.28 mmol/L | 2.2–2.6 |\n| Phosphate | 0.94 mmol/L | 0.8–1.5 |\n| PTH | 10.2 pmol/L | 1.6–7.2 |\n\n**Which one of the following investigations would be helpful to establish the underlying diagnosis in her case?**",
+    "image": null,
+    "options": {
+      "A": "Estimated glomerular filtration rate (eGFR)",
+      "B": "1, 25 (OH)2 vitamin D levels",
+      "C": "PTH-related peptide",
+      "D": "Sestamibi scan",
+      "E": "25-OH vitamin D levels"
+    },
+    "correct": "E",
+    "explanation_md": "This woman has elevated PTH in the presence of normal calcium levels, suggestive of secondary hyperparathyroidism (SHPT). Her kidney function is normal, ruling out renal impairment as a driving factor for elevated PTH levels. Vitamin D deficiency is one of the commonest reasons for SHPT. A level of 25 OH vitamin D <25 nmol/L/L has been linked to development of SHPT. 25 OH vitamin D is the main storage form and the best measure of vitamin D status.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 20,
+    "stem_md": "An 86-year-old woman with a background history of ischaemic heart disease, congestive cardiac failure, and severe osteoporosis (previous fragility fractures), was incidentally detected to have PHPT, based on the following blood test results.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.8 mg/dL | 7–12 |\n| Creatinine | 92 µmol/L | 60–115 |\n| Calcium | 2.89 mmol/L | 2.2–2.6 |\n| Phosphate | 0.66 mmol/L | 0.8–1.5 |\n| PTH | 14.4 pmol/L | 1.6–7.2 |\n\nIn view of her multiple co-morbidities, she was deemed as not being a suitable candidate for elective parathyroidectomy and a decision was made to treat her medically with cinacalcet tablets.\n\n**Which one of the following best describes the mechanism of action of cinacalcet?**",
+    "image": null,
+    "options": {
+      "A": "Decreases calcium reabsorption via the gastrointestinal tract",
+      "B": "Increases calcium excretion by acting at the distal renal tubules",
+      "C": "Increases calcium excretion by acting at the loop of Henlé",
+      "D": "Increases sensitivity of calcium-sensing receptors on the parathyroid gland",
+      "E": "Stimulates the parathyroid gland"
+    },
+    "correct": "D",
+    "explanation_md": "Cinacalcet is a positive allosteric modulator of the calcium-sensing receptor (CaSR). It increases the sensitivity of CaSR on the parathyroid glands, leading to reduced PTH secretion and serum calcium levels. It is used in patients with primary hyperparathyroidism who are not eligible for surgery and/or who are not keen for surgical treatment. Cinacalcet use is associated with normalization of serum calcium in 90% of patients, although the PTH levels normalize only in 10% of patients. There is a lack of data on the long-term impact of cinacalcet use on fracture risk and urinary calcium excretion.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 21,
+    "stem_md": "A 32-year-old man was referred to the endocrine clinic with a history of a recent fragility fracture. He had been previously well and was not on any medications. On examination, his BMI was 24 kg/m². He had sparse facial and body hair, apart from bilateral gynaecomastia.\n\n**Which one of the following investigations would be useful to establish the underlying cause of his fragility fracture?**",
+    "image": null,
+    "options": {
+      "A": "Calcitonin level",
+      "B": "Calcium and PTH levels",
+      "C": "hCG and oestrogen levels",
+      "D": "IGF1 and IGFBP levels",
+      "E": "Prolactin, testosterone, and gonadotrophin levels"
+    },
+    "correct": "E",
+    "explanation_md": "It is important to rule out secondary causes of osteoporosis in men presenting with a history of fragility fractures. This 32-year-old man presented with a history of fragility fracture at a relatively young age and had clinical features suggestive of hypogonadism. Measurement of prolactin, testosterone, and gonadotrophin levels would be a useful next step. See Table 3.2.\n\n**Table 3.2** List of conditions resulting in osteoporosis\n\n| Endocrine | Gastrointestinal | Genetic | Rheumatological | Haematological | Medications |\n|---|---|---|---|---|---|\n| Acromegaly | Anorexia nervosa | Turner’s | Ankylosing spondylitis | Leukaemia | Antipsychotics |\n| Cushing’s syndrome | Coeliac disease | Haemochromatosis | Rheumatoid arthritis | Lymphoma | Retrovirals |\n| Hypogonadism | Inflammatory bowel disease | Klinefelter’s syndrome | Systemic lupus erythematosus | Metastatic disease | Heparin |\n| Hyperparathyroidism | Malabsorption syndromes |  |  |  | Lithium |\n| Prolactinoma | Primary biliary cirrhosis |  |  |  | Steroids |\n| Thyrotoxicosis |  |  |  |  |  |\n| Type 1 diabetes |  |  |  |  |  |",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 22,
+    "stem_md": "A 66-year-old woman was referred to the endocrine clinic in view of elevated PTH levels. She had a background history of end-stage renal failure due to diabetic nephropathy and was undergoing weekly haemodialysis therapy.\n\nBlood results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 27.8 mg/dL | 7–12 |\n| Creatinine | 453 µmol/L | 60–115 |\n| Calcium | 2.25 mmol/L | 2.2–2.6 |\n| Phosphate | 1.52 mmol/L | 0.8–1.5 |\n| PTH | 35.5 pmol/L | 1.6–7.2 |\n\n**According to NICE guidelines, which one of the following statements is correct regarding cinacalcet use in patients with refractory secondary hyperparathyroidism (SHPT) due to end-stage renal failure (if elective parathyroidectomy is contraindicated)?**",
+    "image": null,
+    "options": {
+      "A": "Refractory SHPT with PTH >25 pmol/L and high adjusted calcium",
+      "B": "Refractory SHPT with PTH >25 pmol/L and low adjusted calcium",
+      "C": "Refractory SHPT with PTH >85 pmol/L and high adjusted calcium",
+      "D": "Refractory SHPT with PTH >85 pmol/L and low adjusted calcium",
+      "E": "Refractory SHPT with PTH >100 pmol/L and low adjusted calcium"
+    },
+    "correct": "C",
+    "explanation_md": "Cinacalcet is recommended for the treatment of refractory SHPT in patients with end-stage renal disease if:\n\n- There are ‘very uncontrolled’ plasma levels of intact PTH (defined as >85 pmol/L) refractory to standard therapy, along with a normal or high adjusted serum calcium level.\n- Surgical parathyroidectomy is contraindicated because the risks of surgery outweigh the benefits.\n\nResponse to cinacalcet treatment should be monitored regularly and treatment should be continued only if a reduction in the plasma levels of intact PTH of 30% or more is seen within 4 months, including dose escalation as appropriate.\n\nEtelcalcetide is a novel calcimimetic which has been approved for treatment of SHPT in adults with chronic kidney disease on haemodialysis if treatment with a calcimimetic is indicated but cinacalcet is deemed unsuitable for use.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 23,
+    "stem_md": "A 75-year-old male with a background history of Type 2 DM for 30 years, chronic kidney disease stage 5, and ischaemic heart disease was under regular review by the diabetic and renal physicians. He was on thrice-weekly maintenance haemodialysis. In view of his progressive SHPT, he was started on cinacalcet therapy.\n\n**Which of the following statements related to cinacalcet use in SHPT is correct?**",
+    "image": null,
+    "options": {
+      "A": "Associated with a decrease in FGF23 level",
+      "B": "Associated with an increase in calcium-phosphorus product",
+      "C": "Associated with a non-significant reduction in serum calcium levels",
+      "D": "Associated with a reduction in all-cause and cardiovascular mortality",
+      "E": "Associated with unchanged PTH levels"
+    },
+    "correct": "A",
+    "explanation_md": "Use of calcimimetic agents such as cinacalcet in secondary hyperparathyroidism (SHPT) is associated with a reduction in serum calcium, calcium phosphorus products, PTH, and fibroblast growth factor 23 (FGF23) levels. However, use of these agents has not been shown to be associated with any significant reduction in the risk of death or major cardiovascular events in patients with moderate to severe SHPT undergoing haemodialysis.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 24,
+    "stem_md": "A 75-year-old woman with severe osteoporosis was referred to the endocrine clinic for consideration of denosumab therapy, as she had been intolerant to bisphosphonates in the past. She had no history of fragility fractures, and was on regular calcium and vitamin D supplements.\n\n**According to the NICE guidelines, what are the clinical risk factors, independent of bone mineral density (BMD), which should be considered for the use of denosumab in primary prevention of osteoporotic fragility fracture in post-menopausal women (who are intolerant to bisphosphonate therapy)?**",
+    "image": null,
+    "options": {
+      "A": "Alcohol (≥3 units/day), diabetes, secondary hyperparathyroidism",
+      "B": "Alcohol (≥3 units/day), parental h/o hip fracture, rheumatoid arthritis",
+      "C": "Diabetes, hypothyroidism, secondary hyperparathyroidism",
+      "D": "Diabetes, rheumatoid arthritis, smoking",
+      "E": "Hyperthyroidism, parental h/o hip fracture, smoking"
+    },
+    "correct": "B",
+    "explanation_md": "Denosumab is only recommended as the treatment option for the primary prevention of osteoporotic fragility fractures in post-menopausal women at increased risk of fractures:\n\n- If they are intolerant to bisphosphonate therapy or it is contraindicated\n- In those who have a combination of T score, age, and number of independent clinical risk factors for fracture as indicated in Table 3.3.\n\n**Table 3.3** T scores (SD) at (or below) which denosumab therapy is recommended (for primary prevention) when bisphosphonates are not suitable or are contraindicated\n\n| Age (in years) | No. of risk factors: 0 | No. of risk factors: 1 | No. of risk factors: 2 |\n|---|---|---|---|\n| 65–69 | Not recommended | –4.5 | –4.0 |\n| 70–74 | –4.5 | –4.0 | –3.5 |\n| 75 or more | –4.0 | –4.0 | –3.0 |\n\nBone mineral density (BMD) has a low sensitivity to assess fracture risk, although it is highly specific. The concurrent evaluation of clinical risk factors (CRFs), along with BMD, can improve the predictive value of fracture risk.\n\nIndependent CRFs for fracture include a parental history of hip fracture, an alcohol intake of four or more units per day, and rheumatoid arthritis. See Table 3.4.\n\n**Table 3.4** Clinical risk factors to evaluate fracture probability\n\n| Clinical risk factor | Comments |\n|---|---|\n| **Age and gender** | Increased fracture risk in postmenopausal women; age contributes to fracture risk independent of BMD |\n| **Low BMI** | Increased hip fracture risk (BMD-dependent) |\n| **Parental history of hip fracture** | Increased fracture risk independent of BMD |\n| **Previous fragility fracture** | Especially hip, wrist, and vertebral region; independent of BMD |\n| **Current smoking and alcohol intake** | Smoking risk factor dependent upon BMD; alcohol intake (≥3 units/day)—dose-dependent increase in fracture risk |\n| **Steroid therapy** | 5 mg or more of prednisolone (or equivalent) for >3 months (independent of BMD) |\n| **Secondary causes of osteoporosis** (Secondary osteoporosis-related increased fracture risk is believed to be mediated by low BMD except in rheumatoid arthritis and DM) | Rheumatoid arthritis, premature menopause, hypogonadism, primary hyperparathyroidism, inflammatory bowel disease, hyperthyroidism, diabetes |",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 25,
+    "stem_md": "A 72-year-old woman with a previous history of fragility fractures and severe osteoporosis was being considered for denosumab therapy as she could not tolerate bisphosphonates.\n\n**Which one of the following correctly describes the mechanism of action of denosumab?**",
+    "image": null,
+    "options": {
+      "A": "It binds to RANK ligand and prevents osteoclast formation",
+      "B": "It binds to RANK ligand and stimulates osteocytes",
+      "C": "It binds to RANK ligand and stimulates osteoblast formation",
+      "D": "It binds to the hepatic receptors; stimulates secretion of growth factors",
+      "E": "It stimulates osteoblasts and inhibits osteoclasts directly"
+    },
+    "correct": "A",
+    "explanation_md": "Denosumab binds to the cytokine receptor activator of nuclear factor kappa (RANK) ligand, preventing it from binding to its receptor, RANK. It also prevents the maturation of osteoclast precursors and promotes apoptosis of mature and multinucleated osteoclasts, thus leading to reduced bone resorption.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 26,
+    "stem_md": "A 56-year-old post-menopausal woman was referred to the endocrine clinic for further management of her severe osteoporosis. She had been previously on bisphosphonate therapy, although this was stopped as she developed intolerable gastrointestinal side effects. She was known to have hypertension and dyslipidaemia, and had recently sustained a fragility fracture. She had a 25-year history of smoking and did not drink alcohol. Her recent bone density scan showed T scores of –2.5 to –3.0 at the hip and lumbar spine respectively.\n\n**Which one of the following is a correct statement regarding raloxifene use in clinical practice?**",
+    "image": null,
+    "options": {
+      "A": "Associated with an increased risk of breast carcinoma",
+      "B": "Associated with an increased risk of hypocalcaemia",
+      "C": "Associated with an increased risk of venous thromboembolism",
+      "D": "Used for primary prevention of osteoporotic fragility fractures",
+      "E": "Used only in women >65 years of age with severe osteoporosis"
+    },
+    "correct": "C",
+    "explanation_md": "Raloxifene is not recommended as a treatment option in postmenopausal women for primary prevention of osteoporotic fractures. There is no evidence of increased breast carcinoma risk with raloxifene use, although it is associated with an increased risk of venous thromboembolism.\n\nRaloxifene is recommended as an alternative treatment option for the secondary prevention of osteoporotic fragility fractures in postmenopausal women only if:\n\n- They are unable to comply with the special instructions for the administration of alendronate and either risedronate or etidronate; **or** have a contraindication to or are intolerant of alendronate and either risedronate or etidronate.\n- They have a combination of T score, age, and number of independent clinical risk factors for fracture (parental history of hip fracture, alcohol intake of four or more units per day, and rheumatoid arthritis) as indicated in Table 3.5.\n\n**Table 3.5** T scores (SD) at (or below) which raloxifene therapy is recommended when bisphosphonates are not suitable or are contraindicated\n\n| Age (in years) | No. of independent risk factors: 0 | No. of independent risk factors: 1 | No. of independent risk factors: 2 |\n|---|---|---|---|\n| 50–54 | Not recommended | –3.5 | –3.5 |\n| 55–59 | –4.0 | –3.5 | –3.5 |\n| 60–64 | –4.0 | –3.5 | –3.5 |\n| 65–69 | –4.0 | –3.5 | –3.0 |\n| 70–74 | –3.0 | –3.0 | –2.5 |\n| 75+ | –3.0 | –2.5 | –2.5 |",
+    "review": "Table 3.5 has a spanning 'No. of independent risk factors' header; flattened into column headers. Table source/permission note omitted as a citation."
+  },
+  {
+    "chapter": 3,
+    "number": 27,
+    "stem_md": "A 67-year-old woman was referred to the endocrine clinic for management of her osteoporosis. She had a history of fragility fractures 5 years previously and had been on alendronic acid (70 mg/week) since then, with good compliance. She had had another non-traumatic fracture 3 months previously at the third lumber spine. On examination, she had no features of Cushing’s disease and was clinically euthyroid. Her thyroid function test, bone profile, renal function, and vitamin D level were within the normal range. A bone density scan showed a T score of –3.7 and –4.2 at the hip and lumber spine respectively.\n\n**Which one of the following is the most appropriate next step in her management?**",
+    "image": null,
+    "options": {
+      "A": "Increase dose of alendronate",
+      "B": "Switch to calcitriol",
+      "C": "Switch to raloxifene",
+      "D": "Switch to risedronate",
+      "E": "Switch to teriparatide"
+    },
+    "correct": "E",
+    "explanation_md": "Teriparatide is recommended as an alternative treatment option for the secondary prevention of osteoporotic fragility fractures in postmenopausal women who:\n\n- Are unable to tolerate alendronate and either risedronate or etidronate; **or** have a contraindication to alendronate and either risedronate or etidronate; **or** have a contraindication to or are intolerant of strontium ranelate; **or** have had an unsatisfactory response to treatment with alendronate, risedronate, or etidronate.\n- Are aged 65 years or older with:\n  - a T score of –4.0 SD or below\n  - a T score of –3.5 SD or below plus more than two fractures\n  - Are aged 55–64 years with a T score of –4 SD or below, plus more than two fractures\n\nSee Table 3.6.\n\n**Table 3.6** Clinical considerations for the pharmacological interventions used for osteoporosis\n\n| Therapy | Mode of action | Average dose (Treatment of osteoporosis in postmenopausal women) | Practice points | Contraindication |\n|---|---|---|---|---|\n| **Bisphosphonate** **Oral** (alendronate, risedronate, ibandronate) **Intravenous** (zoledronate, ibandronate) | Analogues of inorganic pyrophosphate | Alendronate (70 mg/week) Risedronate (35 mg/week) Ibandronate (3 mg IV/3-monthly) Zoledronate (5 mg IV/yearly) | First-line agents in most women and men with osteoporosis | Hypocalcaemia Hypersensitivity eGFR <30 ml/min/m² Oesophageal stricture or achlasia |\n| **Calcitriol** | 1,25 dihdroxy Vitamin D | 0.25 µg twice a day | Reduces vertebral fracture risk; non-vertebral fracture risk reduction not known | Hypercalcaemia Metastatic calcification |\n| **Denosumab** | Monoclonal antibody against RANK ligand | 60 mg SC/6-monthly | Approved for use in severe osteoporosis; men with prostate carcinoma undergoing hormone ablation | Hypocalcaemia Hypersensitivity |\n| **HRT** | Oestrogen +/- progesterone | Conjugated oestrogen (0.625 mg) +/- medroxyprogesterone (2.5 mg) once a day | Mostly used in younger postmenopausal women having menopausal symptoms | Previous thromboembolism Endometrial or ovarian carcinoma |\n| **Raloxifene** | Selective oestrogen receptor modulator | 60 mg once a day | Reduces vertebral fracture risk | Pregnancy History of thromboembolism Unexplained uterine bleeding Hepatic impairment Severe renal impairment |\n| **Teriparatide** | Recombinant PTH | 20 µg/d for 24 months | Anabolic effect most marked on cancellous bones | Hypercalcaemia Pregnancy Severe renal impairment Bone metastasis |\n\n**Abbreviations:** VF: vertebral fracture; SC: subcutaneous; IV: intravenous",
+    "review": "Table 3.6 is printed rotated in the source and its text extraction is truncated; reconstructed from the page image — manual verification recommended. Table source/permission note omitted as a citation."
+  },
+  {
+    "chapter": 3,
+    "number": 28,
+    "stem_md": "A 62-year-old man was referred to the osteoporosis clinic for advice on further management. He was known to have severe chronic obstructive airway disease and had been on long-term oral prednisolone (10 mg/day), apart from nebulizers and home oxygen therapy. His bone profile, thyroid function test, renal function, 25-hydroxy vitamin D levels, and serum testosterone levels were within the normal range. A dual-energy X-ray absorptiometry (DXA) scan showed a T score of –1.7 at the neck of the femur.\n\n**Which one of the following is the most appropriate management approach based on his clinical characteristics?**",
+    "image": null,
+    "options": {
+      "A": "Alendronate",
+      "B": "Calcium and 25-hydorxy vitamin D supplement",
+      "C": "Denosumab",
+      "D": "No treatment",
+      "E": "Raloxifene"
+    },
+    "correct": "A",
+    "explanation_md": "The risk of fragility fractures and bone loss is dependent upon the dose and duration of glucocorticoid therapy. The FRAX risk assessment tool assumes an average prednisolone dose to be 2.5–7.5 mg/day. As a result, fracture risk might be underestimated in individuals on higher equivalent doses of steroids. Oral glucocorticoid use for 3 months or more in a patient <65 years of age warrants assessment of bone density by dual-energy X-ray absorptiometry (DXA) scan (at hip +/– spine) if there is no previous history of fragility fractures. A T score of –1.5 or less on DXA scan is an indication to treat the patient with bisphosphonates beside the use of general measures such as regular exercise, tapering of steroid dose (if possible), and avoiding alcohol and tobacco use. Calcium and vitamin D therapy is used as an adjunct.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 29,
+    "stem_md": "A 56-year-old woman was seen in the osteoporosis clinic for further advice and management. She had a background history of breast cancer, which was treated with mastectomy, followed by aromatase inhibitor anastrozole. Her investigations, including full blood count, bone profile, 25-hydroxy vitamin D levels, thyroid function test, and renal function tests were within the normal range. A bone scan showed T scores of –2.6 at the femur neck.\n\n**Which one of the following is the most appropriate approach in treating this patient?**",
+    "image": null,
+    "options": {
+      "A": "Bisphosphonates",
+      "B": "Calcium and vitamin D supplements",
+      "C": "Denosumab",
+      "D": "No medication",
+      "E": "Raloxifene"
+    },
+    "correct": "A",
+    "explanation_md": "Women with breast cancer who have received chemotherapy and are aged <75 years or without major risk factors, are categorized into three groups based on baseline bone mineral density (BMD) assessment:\n\n- High-risk group (a baseline T score of <–2 at the lumbar spine or either hip): bisphosphonate therapy at osteoporosis doses in addition to lifestyle advice, and calcium and vitamin D supplementation.\n- Medium-risk group (a T score between –1 and –2): lifestyle advice plus calcium (1 g/day) and vitamin D (400–800 IU) supplementation are recommended, unless dietary intake of calcium exceeds 1 g/day and serum 25-hydroxy vitamin D is known to be >20 µg/L.\n- Low-risk group (T score >–1): the risk of developing osteoporosis over a 5-year treatment period is very low. Advice on lifestyle (diet, weight-bearing exercise, reduced alcohol consumption, and cessation of smoking) is sufficient, and no specific intervention or follow-up assessment of BMD is required.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 30,
+    "stem_md": "A 36-year-old nurse was reviewed in the endocrine clinic due to recurrent hypercalcaemia. She had a background history of PHPT for which she had underwent a successful elective right inferior parathyroidectomy 5 years before. Her serum calcium levels had normalized post-operatively and had remained normal till 3 months prior to her current clinic visit. She was currently on omeprazole tablets for chronic gastritis and was not taking any other medication.\n\nBiochemistry results:\n| Test | Result | Reference range |\n|---|---|---|\n| Corrected calcium | 2.85 mmol/L | 2.2–2.6 |\n| Phosphate | 0.65 mmol/L | 0.8–1.5 |\n| PTH | 18.6 pmol/L | 1.6–7.2 |\n\n**Which one of the following investigations can be useful in establishing the underlying aetiology for her recurrent hypercalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Amylase",
+      "B": "Bone scan",
+      "C": "CT of the abdomen and thorax",
+      "D": "Fasting gut hormone profile",
+      "E": "Sestamibi scan"
+    },
+    "correct": "D",
+    "explanation_md": "MEN-1 is a rare hereditary endocrine syndrome (estimated incidence is 1 in 40,000) characterized primarily by tumours of the parathyroid glands (95% of cases), endocrine gastro-enteropancreatic tract (30–80% of cases), and anterior pituitary. It is inherited in the autosomal dominant manner. A diagnosis of MEN-1 syndrome should be considered in the following clinical scenarios:\n\n- Recurrent primary hyperparathyroidism, despite previous parathyroid surgery\n- Parathyroid hyperplasia\n- Young patients with primary hyperparathyroidism\n- Family history of primary hyperparathyroidism",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 31,
+    "stem_md": "A 46-year-old man was referred to the medical clinic with slowly progressive swelling and deformities of the hands. He had a background medical history of Type 1 DM which was diagnosed when he was 12 years old. He had been on haemodialysis for the last 4 years for diabetic nephropathy-induced end-stage renal failure. On examination, the digits of his hands were swollen and deformed, with no features of acute inflammation or infection.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 52.5 mg/dL | 7–20 |\n| Creatinine | 474 µmol/L | 60–115 |\n| Corrected calcium | 3.36 mmol/L | 2.2–2.6 |\n| Phosphate | 0.58 mmol/L | 0.8–1.5 |\n| PTH | 36.8 pmol/L | 1.6–7.2 |\n\nHe underwent X-ray of the hands (see Fig. 3.2).\n\n{{image}}\n\n**Which one of the following is the most appropriate approach to manage his hyperparathyroidism?**",
+    "image": "images/ch03/q031.png",
+    "options": {
+      "A": "Alendronate (weekly)",
+      "B": "Cinacalcet",
+      "C": "Denosumab",
+      "D": "Elective parathyroidectomy",
+      "E": "Steroids"
+    },
+    "correct": "D",
+    "explanation_md": "This man has tertiary hyperparathyroidism as evidenced by elevated calcium and PTH levels, in the presence of end-stage renal disease, together with soft-tissue calcification on hand X-ray. Elective parathyroidectomy remains the treatment of choice in patients with tertiary hyperparathyroidism. The European Society of Endocrine Surgeons (ESES) established a consensus report regarding the surgical management of HPT in end stage renal disease (ESRD) patients, stating that elective parathyroidectomy is indicated when medical treatment fails to correct metabolic parameters (PTH >85 pmol/L, hypercalcaemia, and hyperphosphataemia).",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 32,
+    "stem_md": "A 55-year-old woman was referred to the endocrine clinic with a long-standing history of nausea, arthralgia, and malaise. She was known to have Type 2 diabetes and end-stage renal failure. She was on long-term haemodialysis therapy.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 140 mmol/L | 135–145 |\n| K | 5.1 mmol/L | 3.5–5.5 |\n| Urea | 60.8 mg/dL | 7–20 |\n| Creatinine | 501 µmol/L | 60–115 |\n| Corrected calcium | 3.45 mmol/L | 2.2–2.6 |\n| Phosphate | 1.06 mmol/L | 0.8–1.5 |\n| PTH | 35.5 pmol/L | 1.6–7.2 |\n\n**Which one of the following is a characteristic finding, occasionally seen on clinical examination in patients with tertiary hyperparathyroidism and calciphylaxis?**",
+    "image": null,
+    "options": {
+      "A": "Band keratopathy",
+      "B": "Corneal ulcer",
+      "C": "Dermal plaques",
+      "D": "Tendon calcification",
+      "E": "Xanthelasma"
+    },
+    "correct": "A",
+    "explanation_md": "Band keratopathy is occasionally seen in patients with metastatic calcification, especially in the context of tertiary hyperparathyroidism, as in this patient. It involves calcium precipitation as a horizontal band across the central cornea. It is associated with reduced visual acuity and eye pain.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 33,
+    "stem_md": "A 46-year-old woman was referred to the endocrine clinic with incidentally detected high serum calcium levels while she underwent routine annual blood tests. She denied any weight loss, arthralgia, or renal colic-related symptoms. She had a background history of a prolactin-secreting tumour for which she was on cabergoline therapy. Her general physical and systemic examination was unremarkable.\n\nBiochemistry results:\n| Test | Result | Reference range |\n|---|---|---|\n| Corrected calcium | 2.92 mmol/L | 2.2–2.6 |\n| Phosphate | 0.88 mmol/L | 0.8–1.5 |\n| PTH | 17.5 pmol/L | 1.6–7.2 |\n| Calcium creatinine ratio | <0.01 |  |\n\n**Which of the following genetic mutations is associated with her underlying clinical disorder?**",
+    "image": null,
+    "options": {
+      "A": "*CASR*",
+      "B": "*CDC73*",
+      "C": "*CDKN1B*",
+      "D": "*GNAS1*",
+      "E": "*RET*"
+    },
+    "correct": "C",
+    "explanation_md": "The presence of primary hyperparathyroidism along with prolactinoma suggests the possibility of an underlying diagnosis of MEN-1 or MEN-4 syndrome. MEN-4 syndrome is characterized by a relatively later age (age > 45 years) for onset of primary HPT and a milder clinical presentation. It is associated with mutation of the *CDKN1B* gene. See Table 3.7.\n\n**Table 3.7** Genetics and clinical characteristics of MEN syndromes\n\n| Syndrome | Gene | PHPT | Pituitary Pancreas | Phaeochromocytoma MTC |\n|---|---|---|---|---|\n| **MEN-1** | ***MEN-1* gene** (encodes menin) CDK genes | Present in 100% by age 50 years; mean age of onset 20–25 years | NFPA Prolactinoma Acromegaly NFPNET Gastrinoma Insulinoma | Nil |\n| **MEN-2A** | ***RET* Proto-oncogene** (EC cadherin domain) | Present in 20–30%; mean age of onset >30 years | Nil | Phaeochromocytoma present in 40–50% MTC seen in 100% |\n| **MEN-2A** | ***RET* Proto-oncogene** (IC tyrosine kinase domain) | Present in 20–30% | Nil | Phaeochromocytoma present in 40–50% MTC more aggressive |\n| **MEN-4** | ***CDKN1B*** (encodes p27) | Present in 100%, although mean age of onset >45 years | Similar to MEN-1 | Nil |\n\n**Abbreviations:** EC: extra-cellular; GH: growth hormone; IC: intra-cellular; MTC: medullary thyroid cancer; NFPNET: non-functioning pancreatic neuroendocrine tumour; PNET: pancreatic neuroendocrine tumour",
+    "review": "Table 3.7 labels both RET rows as 'MEN-2A' in the source (second row likely MEN-2B); preserved as printed. Gene names in options are italic in the source and rendered with Markdown italics."
+  },
+  {
+    "chapter": 3,
+    "number": 34,
+    "stem_md": "A 36-year-old schoolteacher was reviewed in the endocrine clinic due to recurrent hypercalcaemia. She had had a right inferior parathyroidectomy 6 months previously for a benign solitary parathyroid adenoma. She was on omeprazole 40 mg/day for possible gastro-oesophageal reflux disease diagnosed by her primary care physician.\n\nBiochemistry results:\n| Test | Result | Reference range |\n|---|---|---|\n| Corrected calcium | 2.96 mmol/L | 2.2–2.6 |\n| Phosphate | 0.89 mmol/L | 0.8–1.5 |\n| PTH | 19.5 pmol/L | 1.6–7.2 |\n\n**Which one of the following is the commonest gastro-enteropancreatic tumour seen in multiple endocrine neoplasia (MEN)-1 syndrome?**",
+    "image": null,
+    "options": {
+      "A": "Gastrinoma",
+      "B": "Glucagonoma",
+      "C": "Insulinoma",
+      "D": "Somatostatinoma",
+      "E": "VIPoma"
+    },
+    "correct": "A",
+    "explanation_md": "Primary HPT remains the presenting clinical manifestation in patients with MEN-1 syndrome, with almost 100% penetrance by age 50 years. These patients may develop primary HPT at a younger age and may have recurrence of the disease. Parathyroid hyperplasia of one or more of the PTH glands is the classic histopathological feature seen in patients with MEN-1 syndrome\n\nVarious tumours seen in MEN-1 syndrome and their estimated penetrance by the age of 40 years are shown in Table 3.8.\n\n**Table 3.8** Prevalence of various endocrine neoplasia in MEN-1 syndrome\n\n| Parathyroid adenoma | 90% |\n|---|---|\n| Enteropancreatic tumours | 60–70% overall |\n| • Gastrinoma | 30–40% |\n| • Insulinoma | 10% |\n| • Others (glucaganoma, vipoma, somatostatinoma) | 2% |\n| Anterior pituitary tumours | 10–20% overall |\n| • Prolactinoma (PRL) | 20% |\n| • GH | 5% |\n| • Non-functioning | 5% |\n| • GH + PRL | 5% |\n| • ACTH/TSH | Rare |",
+    "review": "Table 3.8 has no header row in the source; the first data row (Parathyroid adenoma | 90%) is used as the Markdown header row."
+  },
+  {
+    "chapter": 3,
+    "number": 35,
+    "stem_md": "A 23-year-old office clerk was referred to the thyroid clinic with a lump in the neck, which moved with swallowing. On examination, a 2-cm nodule was palpable on the right side of the thyroid with regional lymphadenopathy. Thyroid FNAC was suggestive of a diagnosis of medullary thyroid cancer.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 2.86 mmol/L | 2.2–2.6 |\n| Phosphate | 0.82 mmol/L | 0.8–1.5 |\n| PTH | 11.6 pmol/L | 1.6–7.2 |\n\n**Which one of the following is the most likely underlying diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "Cowden’s syndrome",
+      "B": "McCune–Albright syndrome",
+      "C": "Schmidt’s syndrome",
+      "D": "Sipple’s syndrome (MEN-2a)",
+      "E": "Wermer syndrome (MEN-1)"
+    },
+    "correct": "D",
+    "explanation_md": "Sipple’s syndrome or MEN-2A is characterized by medullary thyroid cancer (>90%), pheochromocytoma (40–50%), primary parathyroid hyperplasia (10–20%), and, very rarely, cutaneous lichen amyloidosis. It is associated with a germline rearranged during transfection (RET) mutation. Men and women are affected in equal proportions due to autosomal dominant inheritance patterns.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 36,
+    "stem_md": "A 19-year-old university student was referred to the thyroid clinic due to a recently noticed neck lump. On examination, a 2-cm thyroid nodule was palpable, with evidence of cervical lymphadenopathy and mucosal neuromas on the tongue. FNAC confirmed the diagnosis of medullary thyroid carcinoma (MTC). A clinical suspicion of MEN-2B was raised based on her clinical profile.\n\n**Which one of the following is a correct statement with regards to MEN-2B syndrome?**",
+    "image": null,
+    "options": {
+      "A": "Diffuse intestinal ganglioneuromatosis may be seen in children",
+      "B": "MTC in MEN-2B is less aggressive than in MEN-2A",
+      "C": "Pheochromocytoma present in >90% of patients",
+      "D": "Primary hyperparathyroidism present in >50% of patients",
+      "E": "Prophylactic thyroidectomy offered at the age of 10 years"
+    },
+    "correct": "A",
+    "explanation_md": "MEN2-B syndrome is associated with medullary thyroid carcinoma (MTC) in 100% of cases. Prophylactic thyroidectomy should be offered to the affected kindred before the age of 1 year in view of the aggressive course of MTC. Pheochromocytoma is present in over 50% of the patients, although primary hyperparathyroidism is uncommon in these patients. Diffuse ganglioneuromatosis may be seen in children, resulting in impaired intestinal motility and development of pseudo-obstruction. There is a strong correlation between genotype and phenotype in MEN with regards to MTC (see Table 3.9).\n\n**Table 3.9** Genotype in medullary thyroid cancer (MTC) and timing of surgery\n\n| Level of malignancy | RET genotype/mutation in codon number | Timing of surgery |\n|---|---|---|\n| Highest risk | 883, 918, 804 | <1 year of age |\n| High | 634 | 2–4 years |\n| Moderate | 609, 611, 618, 620, 630, 804 | <6 years |\n| Low | 533, 649, 666, 768, 790, 791, 804•, 891, 912 | <10 years |",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 37,
+    "stem_md": "A 16-year-old student presented to the medical admission unit with spasms of the hands along with twitching around the mouth. She was on oral calcium, vitamin D, and iron tablets, although her compliance with medications was suboptimal. On examination, she had a BMI of 15 kg/m². Her general physical and systemic examination was unremarkable except for pallor and dental caries. She had a prolonged QT interval on ECG.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 1.84 mmol/L | 2.2–2.6 |\n| Phosphate | 0.77 mmol/L | 0.8–1.5 |\n| PTH | 8.8 pmol/L | 1.6–7.2 |\n| 25-OH vitamin D | 12 nmol/L | >50 |\n\n**Which one of the following is the most appropriate treatment approach in her case?**",
+    "image": null,
+    "options": {
+      "A": "Calcitriol",
+      "B": "Cholecalciferol",
+      "C": "Intravenous calcium",
+      "D": "Oral phosphate supplementation",
+      "E": "Recombinant PTH"
+    },
+    "correct": "C",
+    "explanation_md": "This young girl possibly suffers from anorexia nervosa in view of her very low BMI and clinical profile. There is evidence of vitamin D deficiency from the blood tests, which has possibly resulted in hypocalcaemia and secondary hyperparathyroidism (SHPT). She also has evidence of prolonged QT interval on the ECG; hence, the need for urgent correction of calcium, which is better done by intravenous route.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 38,
+    "stem_md": "A 78-year-old man was admitted to the acute medical admission unit with a 2-day history of feeling generally unwell, nausea, and repeated bouts of vomiting. He had been complaining of low back pain for the previous 6 months for which he had taken analgesics. He had a background history of renal cell carcinoma, which had required left nephrectomy 3 years before. On examination, he was clinically dehydrated and systemic examination showed a 2-cm hepatomegaly.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 22.5 mg/dL | 7–12 |\n| Creatinine | 148 µmol/L | 60–115 |\n| Calcium | 3.75 mmol/L | 2.2–2.6 |\n\n**Which one of the following is the most appropriate step for the immediate management of his acute hypercalcaemia?**",
+    "image": null,
+    "options": {
+      "A": "Cinacalcet",
+      "B": "Dexamethasone",
+      "C": "Intravenous fluids",
+      "D": "Intravenous pamidronate",
+      "E": "Oral alendronate"
+    },
+    "correct": "C",
+    "explanation_md": "This gentleman has non-specific symptoms, such as nausea and vomiting, which are probably due to severe hypercalcaemia. He is clinically dehydrated, and needs immediate rehydration with intravenous fluids, with careful monitoring of renal function and electrolytes. Bisphosphonates such as pamidronate (in a dose of 15–60 mg given slowly intravenously) or zoledronate should only be given once the patient is well hydrated. Denosumab has also been used in some patients with refractory hypercalcaemia due to malignancy. The likely cause of his severe hypercalcaemia is humoral hypercalcaemia (parathyroid hormone-related peptide-mediated) +/- osteolytic metastasis.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 39,
+    "stem_md": "A 26-year-old woman presented to the medical assessment unit with cramps in her arms and legs. She had been previously well and was not on any medications. Her systemic examination was unremarkable and her blood pressure was 112/76 mmHg.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 135 mmol/L | 135–45 |\n| K | 2.9 mmol/L | 3.5–5.5 |\n| Adjusted calcium | 2.30 mmol/L | 2.2–2.6 |\n| Phosphate | 0.92 mmol/L | 0.8–1.5 |\n| Magnesium | 0.5 mmol/L | 0.7–1 |\n| Bicarbonate | 30 mEq/L | 22–5 |\n| Urine chloride excretion | Normal |  |\n| Plasma renin activity (PRA) | High |  |\n\n**Which one of the following is the most likely diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Apparent mineralocorticoid excess",
+      "B": "Bartter’s syndrome",
+      "C": "Gitleman’s syndrome",
+      "D": "Liddle’s syndrome",
+      "E": "Renal tubular acidosis type 2"
+    },
+    "correct": "C",
+    "explanation_md": "Gitelman syndrome is an autosomal recessive renal tubulopathy characterized by hypokalaemia, hypomagnesaemia, metabolic alkalosis, and hypocalciuria. The patients may have low or normal blood pressure, with plasma renin levels being high. It is caused by inactivating mutations in the gene (*SLC12A3*) coding for the thiazide-sensitive Na/Cl co-transporter in the distal tubule. It is not usually diagnosed until late childhood or early adulthood. Clinical manifestations include arm and leg cramps (due to low K⁺ and low Mg²⁺), severe fatigue, polyuria/nocturia (due to salt and water loss), chondrocalcinosis (due to chronic hypomagnesaemia), and, occasionally, growth retardation. The diagnosis is mainly of exclusion. Treatment is largely supportive with a potassium-sparing diuretic, and with potassium chloride and magnesium supplementation. Surreptitious vomiting or diuretic abuse can mimic this. However, there was no suggestion of this in the patient’s history or physical examination. Moreover, her urinary chloride would be expected to be low in surreptitious vomiting/diuretic abuse in view of chronic hypochloraemia and hypovolaemia.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 40,
+    "stem_md": "A 66-year-old man presented to the clinic with a worsening of his lower back and right leg pain. There was no history of trauma or weight loss. On examination, he was mildly tender in the thoracolumbar region and had features of sensorineural hearing loss. His neurological system examination was normal. His right leg X-ray showed sclerotic changes as well as tibial deformity.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 2.36 mmol/L | 2.2–2.6 |\n| Phosphate | 0.99 mmol/L | 0.8–1.5 |\n| PTH | 4.4 pmol/L | 1.6–7.2 |\n| Alkaline phosphatase | 450 IU/L | 50–110 |\n\n**Which one of the following is the most likely diagnosis based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Chondrosarcoma",
+      "B": "Giant cell tumour of the bone",
+      "C": "Paget’s disease",
+      "D": "Renal osteodystrophy",
+      "E": "X-linked hypophosphataemia"
+    },
+    "correct": "C",
+    "explanation_md": "This patient presented with bone pain and hearing loss. The only abnormality in his bloods was raised alkaline phosphatase. His X-ray of the right leg showed typical changes (sclerotic and deformed bones) associated with Paget’s disease. Other radiological changes that may be seen include lytic, as well as sclerotic changes on a skull X-ray, and densely sclerotic vertebral bodies.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 41,
+    "stem_md": "A 75-year-old man presented to clinic with a deformity of his tibia. He had no history of any recent trauma or injury. His bloods test results showed raised alkaline phosphatase with normal calcium and phosphate levels. His skull and spinal X-rays confirmed the diagnosis of Paget’s disease.\n\n**Which one of the following is the most appropriate treatment for this condition?**",
+    "image": null,
+    "options": {
+      "A": "Intravenous pamidronate",
+      "B": "Intravenous zoledronate",
+      "C": "Oral calcium carbonate",
+      "D": "Oral risedronate",
+      "E": "Recombinant PTH analogue"
+    },
+    "correct": "B",
+    "explanation_md": "The prevalence of Paget’s disease is about 2% over the age of 55 years in the UK. Only 10% of these patients are symptomatic. The indications for treating Paget’s disease include the presence of symptoms (pain), deformity, complications (such as deafness, spinal cord compression), and hypercalcaemia. Bisphosphonates form the mainstay of the treatment. The bisphosphonates licensed for the treatment in Paget’s disease include pamidronate, risedronate, etidronate, and zoledronate. Of these, zoledronate has the longest action and often only a single dose is required for treatment purposes.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 42,
+    "stem_md": "An 18-year-old student presented to the medical admissions unit with twitching of the facial muscles and generalized muscle cramps. He had been on calcitriol supplementation since childhood. On physical examination, he was of short stature, with a raised BMI of 32 kg/m². He also had dental hypoplasia and small metacarpals.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 1.96 mmol/L | 2.2–2.6 |\n| Phosphate | 1.99 mmol/L | 0.8–1.5 |\n| PTH | 24.4 pmol/L | 1.6–7.2 |\n| Creatinine | 82 µmol/L | 60–115 |\n| 25-OH vitamin D | 74 nmol/L | >50 |\n\n**Which one of the following is the most likely diagnosis based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Albright’s hereditary osteodystrophy",
+      "B": "Primary hyperparathyroidism",
+      "C": "Pseudo pseudo-hypoparathyroidism",
+      "D": "Secondary hyperparathyroidism",
+      "E": "Tertiary hyperparathyroidism"
+    },
+    "correct": "A",
+    "explanation_md": "Pseudohypoparathyroidism (PHP) (also known as Albright’s hereditary osteodystrophy) is a heterogeneous group of disorders characterized by hypocalcaemia, hyperphosphataemia, and increased PTH levels due to the insensitivity to the PTH (see Table 3.10). The molecular defects in the gene (*GNAS1*) encoding the alpha-subunit of the stimulatory G protein contribute to at least three different forms of the disease: PHP type 1a, PHP type 1b, and pseudo-pseudohypoparathyroidism (pseudo-PHP).\n\n**Table 3.10** Characteristics of various types of pseudohypoparathyroidism\n\n| Condition | Appearance | Calcium | Phosphorus | PTH | Genetic imprinting |\n|---|---|---|---|---|---|\n| PHP 1A | Skeletal defects | Low | High | High | From mother |\n| PHP 1B | Normal | Low | High | High | From mother |\n| Pseudo-PHP | Skeletal defects | Normal | Normal | Normal | From father |",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 43,
+    "stem_md": "A 32-year-old woman presented to the medical admission unit with a 3-day history of productive cough, fever, and bilious vomiting. She was known to have autoimmune hypothyroidism for which she was taking 75 µg/day of levothyroxine. She had a family history of pernicious anaemia and Type 1 DM. On examination, she was febrile, tachycardic (pulse rate: 121 beats/min), and hypotensive (blood pressure: 86/48 mmHg). She had right basal crepitations. Chest X-ray showed right basal atelectasis. Her capillary blood sugar was noted to be 3.1 mmol/L. She was given intravenous fluids and broad-spectrum antibiotics.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 130 mmol/L | 135–45 |\n| K | 5.7 mmol/L | 3.5–5.5 |\n| Urea | 22.5 mg/dL | 7–20 |\n| Creatinine | 129 µmol/L | 60–115 |\n| Adjusted calcium | 2.80 mmol/L | 2.2–2.6 |\n| Phosphate | 1.09 mmol/L | 0.8–1.5 |\n| TSH | 12.8 mU/L | 0.35–5.5 |\n| FT4 | 11.5 pmol/L | 11.5–22.7 |\n\n**Which one of the following is the most appropriate next step in her management, pending the other blood results?**",
+    "image": null,
+    "options": {
+      "A": "Bisphosphonates",
+      "B": "Cinacalcet",
+      "C": "Denosumab",
+      "D": "Glucocorticoids",
+      "E": "Increase levothyroxine dose"
+    },
+    "correct": "D",
+    "explanation_md": "This patient, with a strong personal and family history of autoimmune diseases, presented with features of chest sepsis along with classical signs of adrenal insufficiency. Raised TSH in the presence of normal FT4 levels is suggestive of suboptimal compliance with thyroxine therapy. Dehydration can induce dissociation of calcium from albumin contributing to mild hypercalcaemia. The priority here is to give her intravenous glucocorticoids as soon as possible, along with fluids. (If possible, a blood sample should be sent for random cortisol levels before steroid therapy is started).",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 44,
+    "stem_md": "An 18-year-old girl of Iranian origin presented to the acute medical unit with spasms in the hands and legs. She was known to have oral candidiasis, for which she was on fluconazole. She had had menarche at the age of 14, although the menstrual cycle was irregular, and she had had secondary amenorrhoea for the previous 18 months.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 1.96 mmol/L | 2.2–2.6 |\n| Phosphate | 1.69 mmol/L | 0.8–1.5 |\n| PTH | 0.2 pmol/L | 1.6–7.2 |\n| FSH | 56 IU/L | 5–15 |\n| LH | 35 IU/L | 5–15 |\n| Oestrogen | <100 IU/L |  |\n\n**Based on her clinical profile, which one of the following is the most likely diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "Albright’s syndrome",
+      "B": "Autoimmune polyglandular syndrome type 1",
+      "C": "Di-George syndrome",
+      "D": "Sipple’s syndrome",
+      "E": "Wermer syndrome"
+    },
+    "correct": "B",
+    "explanation_md": "Autoimmune polyglandular syndrome type I (APS1), also referred to as autoimmune polyendocrinopathy–candidiasis–ectodermal dystrophy (APCED) syndrome, is a rare autosomal recessive disorder due to *AIRE* gene mutation. Females are more commonly affected than males. It is most common among Finns, Sardinians, and Iranian Jews. Clinical manifestations include hypoparathyroidism (~90%), mucocutaneous candidiasis (75%), adrenal insufficiency (60%), and primary hypogonadism (45%). Other manifestations include hypothyroidism, malabsorption syndromes, pernicious anaemia, and alopecia.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 45,
+    "stem_md": "A 15-year-old boy was referred to the clinic with marked weakness and gait abnormality. He had a history of delayed milestones and teeth eruption. There was no history of weight loss, diarrhoea, or eating disorder. On examination, he had alopecia. He had mild deformity of the knees and bowing of the legs. He had evidence of proximal myopathy. He also had dental caries and enamel hypoplasia.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Adjusted calcium | 1.86 mmol/L | 2.2–2.6 |\n| Phosphate | 0.42 mmol/L | 0.8–1.5 |\n| PTH | 15.5 pmol/L | 1.6–7.2 |\n| 25-OH vitamin D | 65 nmol/L | >50 |\n| 1,25-OH Vitamin D | High |  |\n| Alkaline phosphatase | 422 IU/L | 50–110 |\n\n**Which one of the following is the most likely diagnosis based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Pseudohypoparathyroidism",
+      "B": "Pseudo-pseudohypoparathyroidism",
+      "C": "Vitamin D dependent rickets Type 1",
+      "D": "Vitamin D dependent rickets Type 2",
+      "E": "X-linked hypophosphataemia"
+    },
+    "correct": "D",
+    "explanation_md": "Vitamin D-deficiency rickets (VDDR) type 2 is a rare hereditary autosomal recessive disorder resulting from inactivating mutations in the *VDR* gene which encodes the vitamin D receptor. Clinical characteristics include growth retardation, short stature, bony defects, bowing of legs, muscle weakness, and alopecia. 25, OH vitamin D levels are normal, although 1,25 OH vitamin D levels are high. See Table 3.11.\n\n**Table 3.11** Genetic, biochemical, and clinical characteristics of various disorders associated with hypophosphataemia and osteomalacia\n\n| Condition | Defect | Calcium | 1, 25 OH vitamin D | PTH | Clinical characteristics and management |\n|---|---|---|---|---|---|\n| **VDDR Type 1** | 1 α hydroxylase deficiency | Low | Low | High | Rickets, myopathy, enamel hypoplasia **Rx:** alfacalcidiol/calcitriol |\n| **VDDR Type 2** | Vitamin D receptor mutation | Low | High | High | Osteomalacia; may have alopecia **Rx**: high-dose calcitriol |\n| **X-linked hypophosphatemia (vitamin D resistant rickets)** | *PHEX* mutation | Normal | Low | High | Rickets and osteomalacia Short stature No myopathy **Rx: p**hosphate+ alfacalcidiol or calcitriol (to suppress PTH) |\n\n**Abbreviation:** VDDR: vitamin D dependent rickets",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 46,
+    "stem_md": "A 40-year-old man was referred to the endocrine clinic in view of high serum calcium levels which were detected on routine blood tests as part of an annual review. He complained of generalized aches and pains, although there was no history of arthralgia, renal colic, or weight loss. He had a past medical history of a maxillary tumour (ossifying fibroma). He was not on any regular medications. He had a family history of high calcium and parathyroid disorder. His general physical and systemic examination was unremarkable.\n\nBiochemistry results:\n| Test | Result | Reference range |\n|---|---|---|\n| Corrected calcium | 2.85 mmol/L | 2.2–2.6 |\n| Phosphate | 0.63mmol/L | 0.8–1.5 |\n| PTH | 15.4 pmol/L | 1.6–7.2 |\n| Calcium creatinine ratio | <0.01 |  |\n\n**Which of the following genetic mutation is associated with his underlying clinical disorder?**",
+    "image": null,
+    "options": {
+      "A": "*CASR*",
+      "B": "*CDC73*",
+      "C": "*CDKN1B*",
+      "D": "*GNAS1*",
+      "E": "*RET*"
+    },
+    "correct": "B",
+    "explanation_md": "Hyperparathyroidism jaw tumour (HPT-JT) syndrome is characterized by development of primary HPT in adolescents and young adults due to *CDC73* mutation. The patients may develop ossifying tumours of the maxilla and mandible. There may be associated renal cysts in 10–20% of patients and uterine tumours, such as fibroids, have been described in around 40% of women with HPT-JT syndrome. There is an increased risk (15–20%) of development of parathyroid cancer in patients with HPT-JT syndrome. The classical clinical presentation of parathyroid cancer remains a neck lump and an aggressive parathyroid disease (significant increase in serum calcium and PTH levels).\n\nCDC73 mutations are associated with development of familial HPT, HPT-JT syndrome, and parathyroid cancer (see Table 3.12).\n\n**Table 3.12** Spectrum of disorders associated with CDC73 mutations\n\n| Condition | Onset | Clinical characteristics | Carrier Surveillance |\n|---|---|---|---|\n| **FIHPT** | Age <45 years | More severe hypercalcaemia as compared to sporadic HPT | Annual Ca/PTH/25 OH Vitamin D |\n| **HPT-JT syndrome** | Late adolescence | Ossifying fibromas jaw Renal cysts Uterine tumours | Dental panoramic X-rays every 5 years (from age 10) Renal ultrasound every 5 years |\n| **Parathyroid cancer** | Age <50 years | Palpable neck lump Severe hypercalcaemia | Annual |\n\n**Abbreviations:** Ca: serum calcium; FIHPT: familial isolated hyperparathyroidism; HPT-JT: hyperparathyroid jaw tumour; PTH: parathyroid hormone\n\nPrimary HPT is mostly sporadic in origin, although 5–10% of patients with primary hyperparathyroidism have a familial or syndromic disease. Awareness of clinical characteristics of various syndromes associated with hypercalcaemia is helpful to reach the correct underlying diagnosis in clinical practice. See Table 3.13.\n\n**Table 3.13** Hypercalcaemia in the presence of following clinical characteristics should raise suspicion of MEN and HPT-JT syndromes\n\n| Diagnosis | Syndrome | Clinical characteristics |\n|---|---|---|\n| **Gastrinoma** | MEN-1 & 4 | Recurrent gastritis, peptic ulcer disease, chronic diarrhoea |\n| **Insulinoma** | MEN-1 & 4 | Episodes of (usually early morning) light headedness, sweating, shakiness; relief of symptoms with glucose |\n| **Prolactinoma** | MEN-1 & 4 | Galactorrhoea, menstrual irregularity or secondary amenorrhoea |\n| **Acromegaly** | MEN-1 & 4 | Arthralgia, sweating, headache, increase in ring or shoe size, dental malocclusion |\n| **Phaeochromocytoma** | MEN-2 | Paroxysmal or sustained blood pressure (BP), episodic palpitation, sweating, orthostatic giddiness, anxiety |\n| **Medullary thyroid carcinoma** | MEN-2 | Neck lump, enlarged lymph nodes |\n| **Jaw tumour** | HPT-JT | Ossifying mandible or maxilla tumour |\n| **Uterine/renal tumour** | HPT-JT | Uterine fibroid, renal cysts |",
+    "review": "Gene names in options are italic in the source and rendered with Markdown italics."
+  },
+  {
+    "chapter": 3,
+    "number": 47,
+    "stem_md": "A 78-year-old woman was referred to the endocrine clinic in view of her high serum calcium levels. She had a background history of chronic obstructive airway disease for which she was on home oxygen and nebulizers. She complained of ongoing fatigue and arthralgia. On examination, she was frail and had poor mobility.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 14.4 mg/dL | 7–12 |\n| Creatinine | 125 µmol/L | 60–115 |\n| calcium | 2.95 mmol/L | 2.2–2.6 |\n| Phosphate | 0.58 mmol/L | 0.8–1.5 |\n| PTH | 28.5 pmol/L | 1.6–7.2 |\n| 25 hydroxy vitamin D | 52 nmol/L |  |\n| Urinary calcium | 35 mmol/24 hour |  |\n| Bone mineral density | T score of –1.3 | lumber spine and neck of femur |\n\n**Which of the following is the most appropriate management approach if she is deemed unsuitable for elective parathyroidectomy?**",
+    "image": null,
+    "options": {
+      "A": "25 hydroxy vitamin D",
+      "B": "Bisphosphonates",
+      "C": "Calcitriol",
+      "D": "Cinacalcet",
+      "E": "Prednisolone"
+    },
+    "correct": "D",
+    "explanation_md": "According to the NICE guidelines, cinacalcet can be used in patients with primary hyperparathyroidism (PHPT) who are deemed unfit for surgery if:\n\n- Calcium levels are >2.85 mmol/L in the presence of hypercalcaemia-related symptoms\n- Calcium levels are >2.90 mmol/L in asymptomatic PHPT patients\n\nPatients should be vitamin D replete (levels >50 nmol/L) prior to initiation of cinacalcet therapy.",
+    "review": "Bone mineral density row's third column '(lumber spine and neck of femur)' is a site qualifier, not a reference range; placed in the reference-range column as printed."
+  },
+  {
+    "chapter": 3,
+    "number": 48,
+    "stem_md": "A 19-year-old girl was admitted to the medical assessment unit with a history of an episode of witnessed tonic-clonic seizure. She had no history of trauma, substance abuse, or alcohol intake. She had been previously well and was not on any medications. On examination, she was apyrexial and her blood pressure was 110/72 mm of Hg. She displayed features of post-ictal confusion. There were no signs of meningism. Systemic examination was unremarkable.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 8.5 mg/dL | 7–12 |\n| Creatinine | 78 µmol/L | 60–115 |\n| Calcium | 1.92 mmol/L | 2.2–2.6 |\n| Phosphate | 1.64 mmol/L | 0.8–1.5 |\n| PTH | 0.6 pmol/L | 1.6–7.2 |\n| 25 hydroxy vitamin D | 65 nmol/L |  |\n| Mg | 0.9 mmol/L | 0.7-1.5 |\n| CT head | Basal ganglion calcification |  |\n\n**Which one of the following is the most likely diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Albrights osteodystrophy",
+      "B": "Primary hypoparathyroidism",
+      "C": "Pseudohypoparathyroidism",
+      "D": "Secondary hypoparathyroidism",
+      "E": "Vitamin D dependent resistant rickets"
+    },
+    "correct": "B",
+    "explanation_md": "This 19-year-old girl has low serum calcium and PTH levels, along with high phosphate levels, consistent with a diagnosis of primary hypoparathyroidism. The symptoms of chronic hypoparathyroidism include fatigue, muscle cramps, choreoathetoid movements (due to basal ganglion calcification), cataracts, and abnormal dentition. See Table 3.14.\n\n**Table 3.14** Various aetiologies (and the underlying mechanisms) which can lead to hypocalcaemia\n\n| Hypoparathyroidism | Reduced calcium release from bones | Increased calcium binding |\n|---|---|---|\n| Autoimmune | Vitamin D deficiency | Metabolic alkalosis (binding to albumin) |\n| Congenital | Vitamin D resistance | Post blood transfusion (binding to citric acid) |\n| Post-surgical | Iatrogenic (e.g. cisplatin) | Acute pancreatitis (binding to phosphate) |\n| Impaired PTH secretion (e.g. secondary to low Mg) | Hungry bone syndrome |  |\n| Resistance to PTH action | Osteoblastic metastasis |  |\n\nNote: isolated hypoparathyroidism may be due to *PTH*, *GNAS*, *CASR*, or *GCM2* mutation. Hypoparathyroidism might be part of a syndrome complex such as autoimmune polyendocrine syndrome type 1 (AIRE), DiGeorge syndrome, or Kearns–Sayre syndrome.",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 49,
+    "stem_md": "A 52-year-old man was referred to the endocrine clinic in view of recurrent cramps and low serum calcium levels. He had a background history of total thyroidectomy along with lymph node dissection a few years before. He was on calcitriol and calcium replacement therapy. There was no history suggestive of malabsorption. His compliance with the medications was good. On examination, Chovstek and Trousseau signs were positive.\n\nBlood test results:\n| Test | Result | Reference range |\n|---|---|---|\n| Urea | 7.9 mg/dL | 7–12 |\n| Creatinine | 90 µmol/L | 60–115 |\n| Calcium | 1.84 mmol/L | 2.2–2.6 |\n| Phosphate | 1.75 mmol/L | 0.8–1.5 |\n| PTH | 0.1 pmol/L | 1.6–7.2 |\n| 25 hydroxy vitamin D | 55 nmol/L |  |\n| Mg | 1.1 mmol/L |  |\n\n**Which one of the following is a correct statement regarding management of patients with chronic hypoparathyroidism?**",
+    "image": null,
+    "options": {
+      "A": "Activated vitamin D analogues plus calcium as the first-line therapy",
+      "B": "Aim for serum calcium levels in mid–high normal range",
+      "C": "Calcium-phosphate product should be >4.4 mmol²/l²",
+      "D": "Cholecalciferol has no role in management",
+      "E": "Recombinant PTH can be used if calcium requirement is 2 g/day"
+    },
+    "correct": "A",
+    "explanation_md": "According to the European Society of Endocrinology clinical guidelines for management of chronic hypoparathyroidism in adults:\n\n- Maintain serum calcium levels in lower part or slightly lower than normal range with patients being free of signs and symptoms of hypocalcaemia.\n- Calcium phosphate product should be <4.4 mmol²/l².\n- Activated vitamin D analogue (calcitriol) along with calcium supplement remains the first-line therapy for symptomatic patients with chronic hypoparathyroidism.\n- Cholecalciferol can be used if activated vitamin D analogues are not available.\n- Routine use of recombinant PTH is not recommended.\n\nSee Table 3.15 and Box 3.1.\n\n**Table 3.15** Vitamin D metabolites used in the management of chronic hypoparathyroidism\n\n| Vitamin D analogue | Dose | Time to onset of action |\n|---|---|---|\n| **Calcitriol** | 0.25–2 µg once or twice daily | 1–2 days |\n| **Alfacalcidiol** | 0.5–4 µg once daily | 1–2 days |\n| **Cholecalciferol** | 25,000–200,000 IU/day | 10–14 days |\n\n**Box 3.1** Indications for considering the use of recombinant PTH in hypoparathyroidism\n\n- Inadequate control of serum calcium levels\n- Daily calcium dose >2.5 g or calcitriol dose >1.5 µg or alfacalcidiol dose >3 µg\n- Hypercalciuria, renal stones, nephrocalcinosis\n- Calcium-phosphate product >4.4 mmol²/l²\n- Gastrointestinal disorder leading to malabsorption\n- Reduced quality of life",
+    "review": null
+  },
+  {
+    "chapter": 3,
+    "number": 50,
+    "stem_md": "A 17-year-old girl was reviewed in the paediatric endocrine transition clinic. She complained of generalized weakness and bony pains. She had a background history of delay in developmental milestones and bony deformities. There was no history suggestive of malabsorption or eating disorder. She was not on any medications. Her mother and grandmother were also known to have bony deformities. On examination, her blood pressure was 124/82 mm of Hg. She had short stature and bony deformities. There was no evidence of proximal myopathy or easy bruisability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Serum corrected calcium | 2.25 mmol/L | 2.2–2.6 |\n| Serum phosphate | 0.28 mol/L | 0.8–1.5 |\n| Serum PTH | 6.5 pmol/L | 1.6–7.2 |\n| 25 OH vitamin D | 52 nmol/L |  |\n| eGFR | Normal range |  |\n| FGF23 | Raised |  |\n\n**Which one of the following medications has been approved by the FDA for treatment of her underlying disorder?**",
+    "image": null,
+    "options": {
+      "A": "Burosumab",
+      "B": "Cinacalcet",
+      "C": "Denosumab",
+      "D": "Recombinant PTH",
+      "E": "Teriparatide"
+    },
+    "correct": "A",
+    "explanation_md": "X-linked hypophosphataemia (XLH) (also known as vitamin D resistant rickets) is a rare genetic disorder characterized by hypophosphataemia, reduced 1, 25 (OH)2 levels, and bone mineralization defects. The clinical features are variable, with the disease features being more severe in males. XLH is caused by a mutation in the *PHEX* gene which is involved in renal phosphate transport. The *PHEX* gene is hypothesized in playing an indirect role in inactivation of FGF (fibroblast growth factor) 23. *PHEX* gene mutation leads to an increased level of circulating FGF23 resulting in renal phosphate losses. Patients are more prone to develop nephrocalcinosis, apart from developing bony deformities associated with rickets and osteomalacia.\n\nThe management of these patients involves a combined therapy including phosphate (1-4 ug/day) along with calcitriol (1-3 µg/day). Burosumab, which is a monoclonal antibody to FGF23, has been approved by the FDA (Food and Drug Administration) for use in patients with XLH, although it has not been approved by NICE (National Institute for Health and Care Excellence) for use in the UK. See Table 3.16 and Fig. 3.3.\n\n**Table 3.16** Causes of hypophosphatemia\n\n| Reduced absorption | Increased renal losses | Cellular shift |\n|---|---|---|\n| Malabsorption | Hyperparathyroidism | Septicaemia |\n| Malnutrition | Renal tubular defects | Insulin therapy |\n| Refeeding syndromes | X-linked hypophosphataemia | Catecholamines |\n| Antacids | Oncogenic osteomalacia | Hyperventilation |\n| Starvation | Iatrogenic (diuretics/steroids) |  |\n\n**Fig. 3.3** Approach to patients with low phosphate levels\n\n- **Measure PTH**\n  - **Normal or High**\n    - **Urinary Phosphate low**\n      - Diet poor in Phosphate\n      - Malabsorption\n      - Extra-renal losses\n    - **Urinary Phosphate high**\n      - Low or Normal FGF23 as in Fanconi Syndrome\n      - High FGF23 as in X linked hypophosphatemic rickets\n  - **High**\n    - Vitamin D deficiency\n    - Calcium deficiency\n    - Hyperparathyroidism",
+    "review": null
+  }
+]

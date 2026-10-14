@@ -1,0 +1,834 @@
+[
+  {
+    "chapter": 4,
+    "number": 1,
+    "stem_md": "The adrenal gland is made up of two distinct layers—the cortex and the medulla. The adrenal cortex is further subdivided into three different layers:\n\n- Zona glomerulosa\n- Zona fasciculata\n- Zona reticularis\n\n**Which of the following associations between the layer of adrenal gland and hormone secretion is incorrect?**",
+    "image": null,
+    "options": {
+      "A": "Medulla—catecholamines",
+      "B": "Zona fasciculata—glucocorticoids and aldosterone",
+      "C": "Zona glomerulosa—aldosterone",
+      "D": "Zona reticularis—androstenedione",
+      "E": "Zona reticularis—dihydroepiandrostenedione and glucocorticoids"
+    },
+    "correct": "B",
+    "explanation_md": "The adrenal glands weigh around 4–5 g and are located retroperitoneally near the upper pole of the kidneys.\n\nThe zona glomerulosa secretes aldosterone, the zona fasciculata is involved primarily in glucocorticoid synthesis, and the zona reticularis is the site of androgen (dihydroepiandrostenedione, androstenedione) and, to a smaller extent, glucocorticoid synthesis.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 2,
+    "stem_md": "The secretion of hormones from the adrenal gland is regulated by various hormones, extracellular fluid volume status, electrolyte levels, and cytokines.\n\n**Which of the following factors/hormones do not play a part in the regulation of synthesis and secretion of mineralocorticoids (aldosterone) from zona glomerulosa?**",
+    "image": null,
+    "options": {
+      "A": "ACTH",
+      "B": "Adrenaline",
+      "C": "Angiotensin 2",
+      "D": "Atrial natriuretic peptide",
+      "E": "Potassium"
+    },
+    "correct": "B",
+    "explanation_md": "The secretion of mineralocorticoids from the zona glomerulosa is regulated primarily by angiotensin 2, serum potassium levels, and ACTH. Atrial natriuretic peptide and dopamine can also influence the secretion of mineralocorticoids.\n\nACTH plays a key part in regulation of glucocorticoid secretion from the zona fasciculata. Cytokines such as interleukin-1, interleukin-6, and TNFα, along with catecholamines, also have a minor role in the regulation of glucocorticoid secretion by the zona fasciculata.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 3,
+    "stem_md": "Adrenal gland development starts at about week 6 of embryological development, with the cortex developing from mesoderm of the posterior abdominal wall, while the inner medulla is derived from neuroectoderm.\n\n**Which one of the following statements regarding adrenal gland physiology and development is correct?**",
+    "image": null,
+    "options": {
+      "A": "Cholesterol is an essential substrate for catecholamine synthesis",
+      "B": "Conversion of pregnenolone to progesterone is driven by ACTH",
+      "C": "Plasma lipoproteins are a major source of cholesterol to adrenals",
+      "D": "The foetal adrenal glands are smaller than the adult glands",
+      "E": "Zona glomerulosa contains 17α-hydroxylase enzyme"
+    },
+    "correct": "C",
+    "explanation_md": "At about 4 months’ gestation, the adrenal glands are about four times the size of the kidneys, although there is significant regression of the adrenal cortex at birth. The zona fasciculata starts to develop from the age of 4–5 years in children.\n\nPlasma lipoproteins are the major source of cholesterol to the adrenal glands. The conversion of cholesterol to pregnenolone is the major site of action of ACTH. The zona glomerulosa is deficient in 17α-hydroxylase and, as a result, it cannot produce cortisol or androgens.\n\nThe zona reticularis continues to develop until the age of 20–25 years, with adrenal androgens playing a role in the development of pubic and axillary hair. This layer undergoes regression after the reproductive phase of life. The adrenal androgens do not play any significant role in adult males, although in adult females they are the main source of androgens. Excess adrenal androgen production in women may result in menstrual irregularities, acne, and features of hirsutism. The adrenal androgens are secreted in increasing amounts at the age of 6–7 years in girls and 7–8 years in boys. The axillary and pubic hair regions are the most sensitive androgen-dependent areas.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 4,
+    "stem_md": "The hypothalamic–pituitary–adrenal axis plays a key part in maintaining homeostasis, metabolism, and energy consumption. There is increased production of cortisol when faced with stressors which, in turn, leads to the regulation of multiple functions essential for maintaining homeostasis and cellular integrity.\n\n**Which one of the following physiological changes is attributed to stress-related activation of the hypothalamic–pituitary–adrenal axis leading to enhanced cortisol production?**",
+    "image": null,
+    "options": {
+      "A": "Decreased free T4 levels",
+      "B": "Decreased glycogenolysis",
+      "C": "Decreased GnRH",
+      "D": "Increased appetite",
+      "E": "Increased GH levels"
+    },
+    "correct": "C",
+    "explanation_md": "The stress-mediated response to increased cortisol production (due to activation of the hypothalamic–pituitary–adrenal (HPA) axis) includes CRH-induced anorexia, GnRH, and GH suppression. The stress-induced increased levels of endogenous glucocorticoids result in increased glycogenolysis, hepatic gluconeogenesis, and increased LDL cholesterol levels.\n\nTSH secretion, as well as peripheral conversion of FT4 to biologically active FT3, is reduced, although the FT4 levels remain within the normal limit.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 5,
+    "stem_md": "Adrenal steroid hormones are derived from cholesterol, with plasma lipoproteins acting as the main source for it. The conversion of cholesterol to pregnenolone is one of the key steps in adrenal steroid hormone synthesis.\n\n**Which one of the following enzymes mediates the conversion of cholesterol to pregnenolone in adrenal mitochondria?**",
+    "image": null,
+    "options": {
+      "A": "17α-hydroxylase",
+      "B": "11β-hydroxylase",
+      "C": "3 β-hydroxyl steroid dehydrogenase (3 β-HSD)",
+      "D": "21-hydroxylase",
+      "E": "P450 side chain cleavage enzyme (P450 scc)"
+    },
+    "correct": "E",
+    "explanation_md": "The free cholesterol transfer from the outer to inner mitochondrial membrane is facilitated by steroid acute regulatory protein (see Fig. 4.2). This is followed by side chain cleavage of cholesterol, mediated by P450 scc enzyme, leading to the formation of pregnenolone. The conversion of pregnenolone to 17-hyroxy pregnenolone is regulated by 17α-hydroxylase enzyme. 3β-hydroxyl steroid dehydrogenase enzyme mediates conversion of 17α-pregnenolone to 17α-progesterone. 21-hydroxylase mediates conversion of 17α-progesterone to 11-deoxycortisol, while 11β-hydroxylase leads to conversion of 11-deoxycortisol to cortisol.\n\n**Fig. 4.2** Schematic diagram of adrenal steroid hormone synthesis\n\n- **Free cholesterol**\n  - ↓ Steroid acute regulatory (STAR) protein\n  - **Transfer to inner membrane of mitochondria**\n    - ↓ P450 star chain cleavage enzyme (P450 scc)\n    - **Pregnenolone**\n      - → 17α-OH enzyme → **17 hydroxy Pregnenolone** → 17, 20 lyase → **DHEA**\n      - ↓ 3βHSD → **Progesterone**\n- **17 hydroxy Pregnenolone** ↓ 3β-HSD → **17 hydroxy Progesterone**\n- **DHEA** ↓ 3β-HSD → **Androstenedione**\n- **Progesterone**\n  - → 17α-OH enzyme → **17 hydroxy Progesterone** → **Androstenedione**\n  - ↓ Aldosterone synthase → **Aldosterone**\n- **17 hydroxy Progesterone** ↓ 21β-OH → **11 deoxycortisol** ↓ 17β OH → **Cortisol**",
+    "review": "Flowchart (Fig. 4.2) in the explanation has been converted to a nested Markdown list; verify against the source figure. Enzyme labels (e.g. '21β-OH', '17β OH', 'P450 star chain cleavage') are preserved as printed in the figure."
+  },
+  {
+    "chapter": 4,
+    "number": 6,
+    "stem_md": "Conversion of 17-hydroxy progesterone to 11 deoxycortisol is the penultimate step in the synthesis of adrenal glucocorticoids.\n\n**Which one of the following enzymes mediates conversion of 17-hydroxy progesterone to 11 deoxycortisol?**",
+    "image": null,
+    "options": {
+      "A": "17 α-hydroxylase",
+      "B": "11 β-hydroxylase",
+      "C": "3 β-hydroxyl steroid dehydrogenase (3 β-HSD)",
+      "D": "21-hydroxylase",
+      "E": "P450 side chain cleavage enzyme (P450 scc)"
+    },
+    "correct": "D",
+    "explanation_md": "Enzyme 21-hydroxylase mediates the conversion of 17-hydroxy progesterone to 11-deoxycortisol. The autoimmune adrenal insufficiency is characterized by elevated auto-antibodies to 21-hydroxylase enzyme, leading to reduced/absent cortisol synthesis in adrenals.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 7,
+    "stem_md": "The catecholamines (adrenaline and noradrenaline) are synthesized from tyrosine, which is either derived from food or synthesized from phenylalanine in the liver.\n\n**Which one of the following enzymes catalyses the rate-limiting step in catecholamine synthesis?**",
+    "image": null,
+    "options": {
+      "A": "Catechol-O-methyl transferase",
+      "B": "Dopa decarboxylase",
+      "C": "Dopamine β-hyroxylase",
+      "D": "Monoamine oxidase",
+      "E": "Tyrosine kinase"
+    },
+    "correct": "E",
+    "explanation_md": "Tyrosine kinase catalyses the rate-limiting step in catecholamine synthesis (conversion of tyrosine to dopa). Dopamine to noradrenaline conversion is mediated by the enzyme dopamine β-hyroxylase. Monoamine oxidase regulates the catecholamine content of the neurons by inactivating the excess intracellular noradrenaline.\n\nThe adrenal medulla is the primary source (>95%) of epinephrine in the bloodstream, in contrast to the circulating norepinephrine, which is predominantly derived from sympathetic nerve endings.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 8,
+    "stem_md": "Conversion of noradrenaline to adrenaline is mediated by 4-phenyethanolamine-N-methyltransferase (PNMT) enzyme. PNMT is present in the adrenal medulla, lungs, red blood cells, pancreas, and kidneys.\n\n**Which one of the following correctly describes the catecholamine content of the adrenal medulla?**",
+    "image": null,
+    "options": {
+      "A": "Adrenaline <1% and noradrenaline 99%",
+      "B": "Adrenaline 20% and noradrenaline 80%",
+      "C": "Adrenaline 50% and noradrenaline 50%",
+      "D": "Adrenaline 80% and noradrenaline 20%",
+      "E": "Adrenaline 99% and noradrenaline <1%"
+    },
+    "correct": "D",
+    "explanation_md": "The normal human adrenal medulla has about 80% adrenaline and 20% noradrenaline. The conversion of noradrenaline to adrenaline is mediated by phenylethanolamine-N-methyltransferase (PNMT) enzyme, which is induced by the high concentration of cortisol present in the adrenal medulla (due to venous blood flow from the adjacent adrenal medulla). Non-adrenal tissues contribute only minimally to circulating adrenaline. In contrast to the normal adrenal medulla, phaeochromocytoma cells, and especially the extra-adrenal paragangliomas (PGLs), usually contain more noradrenaline compared with adrenaline.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 9,
+    "stem_md": "Aldosterone and 11-deoxycorticosterone (DOC) exert their salt-retaining action by binding to the mineralocorticoid receptors (MRs).\n\n**In which of the following organs/tissues are the MRs not present?**",
+    "image": null,
+    "options": {
+      "A": "Adipose tissue",
+      "B": "Colon",
+      "C": "Heart",
+      "D": "Kidneys",
+      "E": "Liver"
+    },
+    "correct": "E",
+    "explanation_md": "The mineralocorticoid receptors (MR) are present in adipose tissue, colon, kidneys, cardiomyocytes, sweat glands, vascular endothelium, and pituitary gland. Aldosterone, cortisol, corticosterone, and deoxycorticosterone (DOC) have an equal affinity to bind to MR, although aldosterone is quantitatively a more important mineralocorticoid hormone as 30–50% of it circulates in an unbound form compared with DOC, which is 95–99% protein-bound.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 10,
+    "stem_md": "Cortisol binds to the mineralocorticoid receptor with the same affinity as aldosterone, and circulates in its free form at a much higher concentration as compared with the latter.\n\n**Which one of the following enzymes plays a key role in the conversion of cortisol to inactive cortisone at the tissue level?**",
+    "image": null,
+    "options": {
+      "A": "17α-hydroxylase",
+      "B": "3 β-hydroxy steroid dehydrogenase (3 β-HSD)",
+      "C": "11 β-hydroxy steroid dehydrogenase 2 (11 β-HSD2)",
+      "D": "21-hydroxylase",
+      "E": "P450 scc"
+    },
+    "correct": "C",
+    "explanation_md": "The conversion of cortisol to inactive cortisone at the tissue level is mediated by enzyme 11β-hydroxy steroid dehydrogenase type 2 (11β-HSD2), which protects the mineralocorticoid receptor (MR) from excessive cortisol binding. Glycyrrhizic acid (the active ingredient of liquorice) inhibits 11β-HSD2, leading to increased free cortisol being available to bind to the MR, resulting in hypertension and hypokalaemia. Another enzyme, 11β-HSD type 1 (11β-HSD1), present in skin and the liver, mediates the conversion of cortisone to cortisol.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 11,
+    "stem_md": "A 33-year-old woman was referred to the endocrine clinic due to uncontrolled blood pressure despite being on three anti-hypertensive medications. She had a family history of high blood pressure and stroke.\n\n**Which one of the following gene mutations is associated with the development of primary aldosteronism (PA)?**",
+    "image": null,
+    "options": {
+      "A": "CYP11B1",
+      "B": "DAX1",
+      "C": "KCNJ5",
+      "D": "PRKAR1A",
+      "E": "StAR"
+    },
+    "correct": "C",
+    "explanation_md": "Somatic mutations have been diagnosed in around 87–91% of patients with aldosterone-producing adenoma (APA). Glomerular specific K channel gene (*KCNJ5*) has been linked with the development of primary aldosteronism and is relatively more common in women (56–63%). See Table 4.1.\n\n**Table 4.1** Genetics and clinical characteristics of aldosterone-producing adenoma subtypes\n\n| Gene | Encodes | Clinical characteristics |\n|---|---|---|\n| ***KCNJ5*** | Kir 3.4 potassium channel | Female preponderance Younger patients |\n| ***ATP1A1*** | Sodium/potassium ATPase | Male preponderance Severe disease Relatively smaller adenomas. |\n| ***ATP2B3*** | Calcium-ATPase | — |\n| ***CACNAID*** | Voltage-dependant C-type calcium channel | May be undetectable on CT of adrenals |\n\nFamilial hyperaldosteronism is further subdivided into three categories (see Table 4.2).\n\n**Table 4.2** Genetics and clinical characteristics of familial hyperaldosteronism subtypes\n\n| Subtype | Gene | Molecular mechanism | Clinical characteristics |\n|---|---|---|---|\n| **FH1** | *CYP11B1* and *CYP11B2* | Chimeric gene duplication due to crossing over between promotor sequence of CYP11B1 which encodes for 11β-hydroxylase and coding sequence of CYP11B2 which encodes aldosterone synthase | Mineralocorticoid production under influence of ACTH Haemorrhagic stroke at a young age Increased 18-hydroxy cortisol and 18-oxocortisol Treatment: glucocorticoids |\n| **FH2** | Unclear | Based on linkage studies, an association has been shown with chromosome region 7p22 | Autosomal dominant |\n| **FH3** | *KCNJ5* | Germline mutation in *KCNJ5* leading to increased sodium conductance and cell depolarization which triggers calcium entry and aldosterone production | Refractory hypertension Patients may need adrenalectomy |\n\n*CYP11B1* gene mutation is associated with the development of the atypical variant of congenital adrenal hyperplasia (CAH). *DAX1* mutation is associated with the development of X-linked congenital adrenal hypoplasia. Steroidogenic acute regulatory protein (*StAR*) gene mutation has been linked with the development of congenital lipoid adrenal hyperplasia. A mutation in *PRKAR1A* gene has been associated with the development of primary pigmented nodular adrenocortical disease (PPNAD).",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 12,
+    "stem_md": "A 35-year-old man complained of bilateral headache and visual blurring over the previous 3 months. His blood pressure (BP) was noticed to be elevated (systolic BP of 160–180 mm of Hg, diastolic BP of 90–110 mm of Hg) on more than one occasion in primary care. He was initiated on anti-hypertensive medications (bendroflumethazide and amlodipine), although his BP remained high despite up-titration of the dose of medications. On review in the endocrine clinic, his general physical and systemic examination was unremarkable, although his BP was 164/94 mm of Hg.\n\nThe baseline investigation results—including full blood count, bone profile, and liver and renal function—were normal, although his serum potassium levels were low (3.1 mmol/L). Based on the clinical presentation, a diagnosis of secondary hypertension due to primary aldosteronism was considered.\n\n**Which one of the following is a recommended criterion to screen for primary aldosteronism?**",
+    "image": null,
+    "options": {
+      "A": "Adrenal incidentaloma (in a normotensive patient)",
+      "B": "Diuretic-induced hypokalaemia",
+      "C": "Family history of cerebrovascular disease",
+      "D": "Hypertension in pregnancy",
+      "E": "Hypertension not controlled by one anti-hypertensive"
+    },
+    "correct": "B",
+    "explanation_md": "The recommended criteria for screening for primary aldosteronism (PA) in patients with hypertension include:\n\n1. Diuretic-induced or spontaneous hypokalaemia\n2. Resistant hypertension (BP >140/90 mm of Hg despite three or more anti-hypertensive medications)\n3. Sustained hypertension (systolic >150 mmHg, diastolic >90 mmHg).\n4. Controlled hypertension (on four or more anti-hypertensive medications)\n5. Adrenal incidentaloma (with hypertension)\n6. Family history: early-onset hypertension, cerebrovascular accident at a young age\n7. Hypertension and sleep apneoa\n8. First-degree hypertensive relatives",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 13,
+    "stem_md": "A 44-year-old man presented with resistant and uncontrolled hypertension despite being on three different anti-hypertensive agents. He had a strong family history of stroke and ischaemic heart disease. A diagnosis of primary aldosteronism (PA) was considered and a plasma aldosterone-to-renin ratio (ARR) was arranged as an initial screening test.\n\n**Which one of the following medications is associated with false positive plasma serum ARR test results?**",
+    "image": null,
+    "options": {
+      "A": "Amlodipine",
+      "B": "β-blockers",
+      "C": "Doxazosin",
+      "D": "Hydralazine",
+      "E": "Lisinopril"
+    },
+    "correct": "B",
+    "explanation_md": "Isolated measurement of serum aldosterone or potassium is not a sensitive test for screening for primary aldosteronism (PA). Plasma renin levels interpreted in isolation are, again, not specific for diagnosis of PA. Measurement of the aldosterone renin ratio (ARR) is the most reliable measure for screening patients with suspected PA. See Table 4.3.\n\n**Table 4.3** Effect of various medications on serum aldosterone to renin ratio\n\n| False positive | False negative | No impact on results |\n|---|---|---|\n| β blockers | ACE inhibitors | Doxazosin |\n| Clonidine | Angiotensin receptor blockers | Hydralazine |\n| Hormone replacement therapy | Bendroflumethazide | Terazosin |\n| Methyldopa | Calcium channel blockers | Verapamil |\n| NSAIDs | Eplerenone |  |\n| Oral contraceptive pills | Spironolactone |  |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 14,
+    "stem_md": "A 55-year-old man with severe and resistant hypertension underwent further biochemical evaluation to rule out potentially treatable secondary causes for his high blood pressure.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Random ambulant aldosterone | 55 pmol/L | 100–850 |\n| Plasma renin activity (PRA) | 0.1 pmol/mL/h | 0.5–3.5 |\n\n**Which one of the following conditions can potentially explain these blood test results?**",
+    "image": null,
+    "options": {
+      "A": "Apparent mineralocorticoid excess",
+      "B": "Congenital adrenal hyperplasia",
+      "C": "Conn’s syndrome",
+      "D": "Cushing’s syndrome",
+      "E": "Renovascular hypertension"
+    },
+    "correct": "D",
+    "explanation_md": "Aldosterone levels vary with age, time of the day, salt intake, and renal function. The measurement of serum aldosterone should be done as an ambulatory test (8–10 a.m.) with the patient having an unrestricted salt intake (caution required in patients with uncontrolled hypertension). Hypokalaemia needs to be corrected prior to the test.\n\nThe serum aldosterone to plasma renin activity ratio result may provide clues to an alternate aetiology for elevated hypertension, as shown in Table 4.4.\n\n**Table 4.4** Aldosterone and plasma renin activity in various conditions causing secondary hypertension\n\n| Condition | Aldosterone | Plasma renin activity |\n|---|---|---|\n| Primary hyperaldosteronism | High | Low |\n| Renovascular hypertension | High | High |\n| Cushing’s syndrome | Low | Low |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 15,
+    "stem_md": "A 32-year-old man was referred to the endocrine clinic in view of his uncontrolled and resistant hypertension, despite being on three anti-hypertensive agents (doxazosin, hydralazine, and verapamil). He had a strong family history of essential hypertension.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 135 mmol/L | 135–45 |\n| K | 3.2 mmol/L | 3.5–5.5 |\n| Urea | 8.5 mg/dL | 5–9 |\n| Creatinine | 90 µmol/L | 60–115 L |\n\n**Which one of the following is the most appropriate next step in his case, prior to arranging serum ARR?**",
+    "image": null,
+    "options": {
+      "A": "Correct hypokalaemia",
+      "B": "Salt restriction",
+      "C": "Stop doxazosin",
+      "D": "Stop hydralazine",
+      "E": "Stop verapamil"
+    },
+    "correct": "A",
+    "explanation_md": "The following steps are suggested for measurement of ARR:\n\n- Correct hypokalaemia and allow liberal salt intake.\n- Verapamil, α adrenergic blockers, and hydralazine (minimal effect on ARR) need not be stopped prior to ARR.\n- Withhold aldosterone antagonists and potassium-wasting diuretics for 4 weeks.\n- If the results of ARR are equivocal (despite stopping aldosterone antagonists and potassium-sparing diuretics), withdraw medications such as β blockers, methyldopa, non-steroidal anti-inflammatory agents (NSAIDs), ACE inhibitors, and calcium channel blockers (dihydropyridine group, e.g. amlodipine) for at least 2 weeks.\n\nThe following factors need to be considered prior to interpretation of ARR results:\n\n- **Age**: renin levels can be lowered more than aldosterone with age, leading to a false positive ARR.\n- **Oral contraceptive pills (OCP)** or **hormone replacement therapy (HRT)** can lower the direct renin concentration (no effect on plasma renin activity).\n- **Renal failure** can lead to a false positive ARR.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 16,
+    "stem_md": "A 36-year-old man presented to the medical assessment unit with gradual-onset headache and high blood pressure. He had no previous history of any significant medical disease. On examination, his blood pressure was 190/110 mmHg, with no evidence of papilloedema.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 145 mmol/L | 135–45 |\n| K | 4.6 mmol/L | 3.5–5.5 |\n| Urea | 8.0 mg/dL | 5–9 |\n| Creatinine | 84 µmol/L | 60–115 |\n| Random ambulant aldosterone | 1645 pmol/L | 100–850 |\n| PRA | 0.1 pmol/mL/h | 0.5–3.5 |\n| CT of the abdomen | 1.5-cm left adrenal mass |  |\n\n**Which one of the following is the most appropriate next step in his further management?**",
+    "image": null,
+    "options": {
+      "A": "Adrenal venous sampling",
+      "B": "Dexamethasone suppression test",
+      "C": "Laparoscopic left adrenalectomy",
+      "D": "Start spironolactone",
+      "E": "Ultrasound-guided biopsy"
+    },
+    "correct": "A",
+    "explanation_md": "Adrenal CT has several limitations including an inability to detect small aldosterone-producing adenomas (APAs) or these lesions getting incorrectly labelled as bilateral idiopathic hyperaldosteronism (IHA). The apparent adrenal nodules on CT may actually represent an area of hyperplasia. Incidentally detected adrenal lesions are also indistinguishable from APAs on CT. In view of these limitations of radiological imaging studies, it is recommended that adrenal venous sampling (AVS) should be arranged for patients with a possible APA, if surgery is deemed practical. See Fig. 4.3.\n\n**Fig. 4.3** Flow chart depicting the possible chronology of investigations for a suspected patient with primary hyperaldosteronism\n\n- **High risk group**\n  - **Check ARR**\n    - High →\n      - **Confirmatory test**\n        - **CT adrenals**\n          - Adenoma\n          - Bilateral hyperplasia\n          - → **Adrenal venous sampling** (If surgery is practical and desired)\n\nARR = aldosterone to renin ratio\n\nAccording to The Endocrine Society guidelines, younger patients (<age 35 years) with spontaneous hypokalaemia, marked aldosterone excess, and unilateral adrenal lesions with radiological features consistent with a cortical adenoma on adrenal CT scan may not need AVS before proceeding to unilateral adrenalectomy.",
+    "review": "Flowchart (Fig. 4.3) in the explanation has been converted to a nested Markdown list; verify against the source figure. In the source, the arrow to adrenal venous sampling is drawn below both CT outcomes without a clear origin."
+  },
+  {
+    "chapter": 4,
+    "number": 17,
+    "stem_md": "A 17-year-old boy was referred to the endocrine clinic with persistently elevated blood pressure on more than two separate measurements (on different days). He also complained of fatigue and muscle pain. On examination, his blood pressure was 180/104 mmHg, with no phenotypic features of Cushing’s syndrome.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 140 mmol/L | 135–45 |\n| K | 2.6 mmol/L | 3.5–5.5 |\n| Mg | 1.1 mmol/L | 0.7–1.2 |\n| Urea | 6.8 mg/dL | 5–9 |\n| Creatinine | 65 µmol/L | 60–115 |\n| Random ambulant aldosterone | 84 pmol/L | 100–850 |\n| PRA | 0.2 pmol/mL/h | 0.5–3.5 |\n| Deoxycorticosterone (DOC) | Low |  |\n\n**Which one of the following is the probable diagnosis based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "17 α hydroxylase deficiency",
+      "B": "Bartter syndrome",
+      "C": "Conn’s syndrome",
+      "D": "Gitelman syndrome",
+      "E": "Liddle’s syndrome"
+    },
+    "correct": "E",
+    "explanation_md": "Liddle’s syndrome is an autosomal dominant condition due to gain of function mutation in the *SCNN1A*, *SCNN1B*, or *SCNN1G* gene (representing epithelial sodium channels) leading to enhanced Na reabsorption from distal renal tubules. Patients may present at an early age with high blood pressure, hypokalaemia, metabolic alkalosis in the presence of suppressed serum aldosterone, plasma renin activity, and low/unmeasurable deoxycorticosterone (DOC) levels. The treatment includes a low-salt diet, with potassium-sparing diuretics such as amiloride and triamterene. See Tables 4.5 and 4.6, and Fig. 4.4.\n\n**Table 4.5** Clinical and biochemical characteristics of various conditions leading to hypokalaemia\n\n| Condition | Characteristic features | Blood pressure | Potassium | Aldosterone | Renin |\n|---|---|---|---|---|---|\n| Conn’s syndrome | Uncontrolled and resistant hypertension | High | Low/normal | High | Low |\n| 17α-hydroxylase deficiency | Lack of synthesis of androgens Increased DOC and 18-OH corticosterone | High | Low/normal | Low | Low |\n| 11β-hydroxylase deficiency | Increased plasma androgens, 11 deoxycortisol, urinary 17-ketosteroids | High | Low/normal | Low | Low |\n| Apparent cortisol excess | 11β-HSD2 deficiency, low DOC | High | Low/normal | Low | Low |\n| Liddle’s syndrome | Enhanced renal tubular Na reabsorption | High | Low/normal | Low | Low |\n| Bartter’s syndrome | Renal tubular defect | Normal | Low | High | High |\n| Gitelman’s syndrome | Low Mg/low calcium renal tubular defect (mutation in the *SCL12A3* gene) | Normal | Low | High | High |\n\n**Table 4.6** Renal tubular transport disorders associated with hypokalaemia\n\n| Condition | Clinical features | Biochemistry | Mechanism | Management |\n|---|---|---|---|---|\n| **Bartter’s syndrome** | BP: normal Early onset Seizures Tetany | Low K Salt-wasting Hypercalciuria Raised renin and aldosterone | Na-K-2Cl co-transporter (ascending loop of Henle) loss of function | **K** replacement PG synthesis inhibitors **(indomethacin)** |\n| **Gitelman’s syndrome** | BP: normal Older age of presentation | Low Mg, K, and Ca Hypocalciuria Raised renin and aldosterone | Na-Cl transporter (DCT) loss of function *SCL12A3* gene | **K** and Mg replacement K-sparing diuretics |\n| **Liddle’s syndrome** | Hypertensive | Low K Suppressed renin and aldosterone | Constitutive activation of Na channel (distal nephron) | Amiloride (not spironolactone) |\n\n**Abbreviations:** BP: blood pressure; Ca: serum calcium; DCT: distal convoluted tubule; K: potassium; Mg: magnesium; PG: prostaglandin\n\n**Fig. 4.4** Algorithm for approach to hypokalaemia (non-gastrointestinal causes)\n\nAlgorithm for approach: Low K (non-Gastrointestinal causes)\n\n- **Blood pressure**\n  - **Normal**\n    - Bartter’s: Mg normal; hypercalciuria\n    - Gitelman’s: Mg low; Hypocalciuria\n  - **Hypertension**\n    - **Raised ARR**\n      - Conn’s\n      - GRA: High 18 oxocortisol\n    - **Suppressed renin & aldosterone**\n      - Cushing’s; AME: Urinary tetracortisol; cortisone; Liquorice\n      - CAH variants: DOC raised\n        - A. 17α hydroxylase; delayed puberty\n        - B. 11β hydroxylase; Virilisation, ambiguous genitalia\n\n**Abbreviations:** AME: apparent mineralocorticoid excess; ARR: aldosterone to renin ratio; CAH: congenital adrenal hyperplasia; GRA: glucocorticoid remedial aldosteronism",
+    "review": "Flowchart (Fig. 4.4) in the explanation has been converted to a nested Markdown list; verify against the source figure."
+  },
+  {
+    "chapter": 4,
+    "number": 18,
+    "stem_md": "A 65-year-old woman was referred to the endocrine clinic in view of high blood pressure and low serum potassium levels. She had a background history of severe oesophageal ulcers for which she was on omeprazole and carbenoxolone therapy. On examination, her blood pressure was 190/110 mmHg.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 136 mmol/L | 135–45 |\n| K | 2.8 mmol/L | 3.5–5.5 |\n| Venous HCO3 | 32 mEq/L | 19–25 |\n| Random ambulant aldosterone | 65 pmol/L | 100–850 |\n| PRA | 0.3 pmol/mL/h | 0.5–3.5 |\n| DOC | Low |  |\n\n**Which one of the following is the probable diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "11 β-hydroxylase deficiency",
+      "B": "Bartter syndrome",
+      "C": "Conn’s syndrome",
+      "D": "Gitelman syndrome",
+      "E": "Pseudohyperaldosteronism"
+    },
+    "correct": "E",
+    "explanation_md": "Pseudohyperaldosteronism is characterized by clinical features (hypertension, hypokalaemia, and metabolic alkalosis) consistent with excessive mineralocorticoid secretion in the presence of low or suppressed aldosterone/deoxycorticosterone (DOC) levels. It may be seen in the presence of 11β-hydroxysteroid dehydrogenase type 2 (11 β-HSD2) enzyme deficiency (due to a genetic mutation), which mediates the conversion of cortisol to inactive cortisone at the tissue level. Ingestion of liquorice or carbenoxolone (a synthetic derivative of glycyrrhetinic acid) can inhibit 11 β-HSD2 enzyme, leading to excessive availability of cortisol to bind to mineralocorticoid receptors (MRs), inducing features of pseudohyperaldosteronism. The diagnosis can be confirmed by measurement of the urinary tetrahydrocortisol to tetrahydrocortisone ratio (increased urinary tetrahydrocortisol to tetrahydrocortisone ratio).",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 19,
+    "stem_md": "A 16-year-old girl was referred to the endocrine clinic with features of primary amenorrhoea and delayed puberty. On examination, she had blood pressure of 170/108 mmHg, together with a lack of development of secondary sexual characteristics.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 142 mmol/L | 135–45 |\n| K | 2.7 mmol/L | 3.5–5.5 |\n| Venous HCO3 | 30 mEq/L | 19–25 |\n| Random ambulant aldosterone | 84 pmol/L | 100–850 |\n| PRA | 0.1 pmol/mL/h | 0.5–3.5 |\n\n**Based on her clinical profile, which one of the following is the most likely enzyme defect?**",
+    "image": null,
+    "options": {
+      "A": "3 β-hydroxysteroid dehydrogenase",
+      "B": "11 β-hydroxysteroid dehydrogenase",
+      "C": "11 β hydroxylase",
+      "D": "17 α hydroxylase",
+      "E": "21-hydroxylase"
+    },
+    "correct": "D",
+    "explanation_md": "Mutation of *CYP17A1* leads to 17 α-hydroxylase deficiency which disrupts steroidogenesis in the adrenals as well as the gonads. It is characterized by primary amenorrhoea and sexual infantilism in individuals with the XX karyotype (due to absence of androgens as well as oestrogen). On the other hand, individuals with the XY karyotype have female external genitalia, without hair growth, and a lack of Mullerian structures.\n\nIndividuals with 17 α-hydroxylase deficiency have high blood pressure due to raised corticosterone levels. Biochemical abnormalities include hypokalaemia and low aldosterone, as well as low plasma renin activity levels. Treatment is with glucocorticoids to suppress ACTH secretion, while female patients may, in addition, require oestrogen replacement therapy.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 20,
+    "stem_md": "A 19-year-old student was incidentally detected to have elevated blood pressure on routine check-up. She had a strong family history of hypertension and haemorrhagic stroke at a young age. On examination, she had blood pressure of 160/96 mmHg, with no phenotypic features of Cushing’s syndrome.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 136 mmol/L | 135–45 |\n| K | 3.0 mmol/L | 3.5–5.5 |\n| Venous HCO3 | 34 mEq/L | 19–25 |\n| Random ambulant aldosterone | 1450 pmol/L | 100–850 |\n| PRA | < 0.1 pmol/mL/h | 0.5–3.5 |\n| CT of adrenals | Normal adrenal glands |  |\n\n**Which one of the following approaches/therapies is the most appropriate for the management of her underlying condition?**",
+    "image": null,
+    "options": {
+      "A": "Amiloride",
+      "B": "Bilateral adrenalectomy",
+      "C": "Glucocorticoids",
+      "D": "Mitotane",
+      "E": "Spironolactone"
+    },
+    "correct": "C",
+    "explanation_md": "Familial hyperaldosteronism Type 1, also known as glucocorticoid remedial hyperaldosteronism (GRA), is an autosomal dominant disorder characterized by the presence of a chimeric gene, which leads to fusion of the regulatory region of 11β-hydroxylase gene to the coding sequence of aldosterone synthase. As a result, patients have an ACTH-induced increased synthesis of aldosterone, 18-hydroxycortisol, and 18-oxocortisol, and may present with features of mineralocorticoid excess (hypertension, hypokalaemia, and metabolic alkalosis). A family history of primary aldosteronism and/or haemorrhagic strokes at a young age should prompt a clinician to explore the possible diagnosis of GRA. Treatment is with a low dose of dexamethasone to suppress ACTH activity. Genetic analysis is usually required to confirm the diagnosis.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 21,
+    "stem_md": "A 76-year-old man presented with features of rapidly deteriorating glycaemic control and resistant hypertension. On examination, he had facial plethora, proximal myopathy, and easy bruisability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary free cortisol | 3875 nmol/24 h | <280 |\n| Low-dose dexamethasone suppression test: |  |  |\n| Cortisol | 625 nmol/L | <50 |\n\nCT of the abdomen showed a 4.2-cm adrenal mass (see Fig. 4.1). A follow-up scan confirmed liver metastasis. Adrenal biopsy confirmed the diagnosis of adrenocortical tumour.\n\n{{image}}\n\n**Which one of the following medications is the preferred treatment option for the management of an inoperable adrenocortical carcinoma?**",
+    "image": "images/ch04/q021.png",
+    "options": {
+      "A": "Dexamethasone",
+      "B": "Ketoconazole",
+      "C": "Metyrapone",
+      "D": "Mitotane",
+      "E": "Octreotide"
+    },
+    "correct": "D",
+    "explanation_md": "Mitotane is the preferred medication used for the management of inoperable adrenocortical carcinoma. It is an adrenolytic drug that inhibits several enzymes involved in steroid/mineralocorticoid synthesis, including side chain cleavage, 11β-hydroxylase, and 3β-hydroxy steroid hydrogenase (3β-HSD). It controls the cortisol hypersecretion-related symptoms in 70–75% of patients, although it is associated with the development of frequent and serious side effects, including nausea, vomiting, hypogonadism, thyroid dysfunction, neurotoxicity, and adrenocortical suppression, which warrant glucocorticoid replacement and close monitoring. Blood levels of mitotane need to be monitored and kept above 14 mg/L.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 22,
+    "stem_md": "A 73-year-old man was incidentally detected to have a 3.8-cm right adrenal mass on non-contrast CT of the abdomen done to assess his dyspepsia-related symptoms.\n\n**Which of the following radiological features is in keeping with a diagnosis of a likely benign adrenal lesion?**",
+    "image": null,
+    "options": {
+      "A": "10 HU density on non-contrast CT",
+      "B": "Contrast wash out <50%",
+      "C": "Low lipid content",
+      "D": "Non-homogeneous borders",
+      "E": "Size 2–4 cm"
+    },
+    "correct": "E",
+    "explanation_md": "The following radiological features are in keeping with a benign adrenal lesion:\n\n- <10 Hounsfield units (HU) on non-contrast CT (e.g. myelolipomas <–30 HU)\n- Contrast wash-out >50% in 15 minutes\n- High lipid content\n- Homogeneous borders\n- Size <4 cm",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 23,
+    "stem_md": "A 50-year-old man was incidentally detected to have a 2.5-cm left adrenal homogeneous mass with well-defined borders on CT of the abdomen, which was done to evaluate his symptom of dyspepsia. On examination, he had a BMI of 32 kg/m² and blood pressure of 134/70 mmHg. The rest of his general physical and systemic examination was unremarkable.\n\n**Which one of the following is the most appropriate next step for his further management?**",
+    "image": null,
+    "options": {
+      "A": "Adrenal biopsy",
+      "B": "Dexamethasone suppression test (overnight) and urinary metanephrine",
+      "C": "Measure 17 OH progesterone",
+      "D": "Serum aldosterone renin ratio",
+      "E": "Surgical referral"
+    },
+    "correct": "B",
+    "explanation_md": "The prevalence of adrenal incidentaloma has been reported to be about 8–9% and 2–6%, based on various autopsy and radiological series, respectively. There has been a significant increase in the detection of adrenal incidentalomas with the advent of newer and more sophisticated radiological investigations. All patients with adrenal incidentaloma should undergo clinical and biochemical evaluation to assess the functional status of the lesion. The incidence of subclinical Cushing’s disease and phaeochromocytoma (PH) in adrenal lesions has been reported as being between 3% and 5%, based on data from various retrospective studies. All patients should have urinary/serum metanephrine measurement to exclude PH. Overnight dexamethasone suppression test (ODST) is the preferred screening test to rule out Cushing’s disease. Primary aldosteronism needs to be excluded only if the patient has hypertension.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 24,
+    "stem_md": "A 42-year-old woman was incidentally detected to have a 2-cm left adrenal gland mass while she underwent CT of the abdomen to investigate the cause of her pelvic pain and menstrual irregularities.\n\n**Which one of the following is the most common cause of an incidentally-detected adrenal mass?**",
+    "image": null,
+    "options": {
+      "A": "Adrenal metastasis",
+      "B": "Adrenocortical carcinoma",
+      "C": "Conn’s syndrome",
+      "D": "Non-functional adenoma",
+      "E": "Subclinical Cushing’s disease"
+    },
+    "correct": "D",
+    "explanation_md": "Table 4.7 shows a list of various functional or non-functional lesions presenting as adrenal incidentalomas.\n\n**Table 4.7** Causes of adrenal incidental masses\n\n| Non-functional (85–90%) | Functional (10–15%) |\n|---|---|\n| Adenoma | Aldosterone-secreting |\n| Carcinoma | Catecholamine-secreting |\n| Cyst | Cortisol-secreting |\n| Haemorrhage |  |\n| Myelolipoma |  |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 25,
+    "stem_md": "A 45-year-old woman was incidentally detected to have a 1.8-cm left adrenal gland mass while she underwent CT of the abdomen to rule out acute appendicitis. She had no significant past history of any medical disease. On examination, her blood pressure was 110/70 mmHg and pulse rate was 90 beats/minute, with no clinical stigmata of Cushing’s disease.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary normetadrenaline | 1.5 µmol/24 h | <4.00 |\n| Urinary metadrenaline | 0.3 µmol/24 h | <2.00 |\n| 9 a.m. cortisol | <50 nmol/L | after 1 mg overnight dexamethasone |\n| CT adrenals | 1.8-cm left adrenal homogenous lipid-rich lesion |  |\n\n**Which one of the following is the most appropriate next step in her further management (according to European Society of Endocrinology guidelines published in 2016)?**",
+    "image": null,
+    "options": {
+      "A": "Discharge from the clinic",
+      "B": "MRI of the adrenals",
+      "C": "Repeat CT of the abdomen and biochemistry in 6–12 months",
+      "D": "Repeat only CT of the abdomen in 6–12 months",
+      "E": "Repeat only biochemistry in 6–12 months"
+    },
+    "correct": "A",
+    "explanation_md": "According to the European Society of Endocrinology guidelines (2016), an incidental adrenal lesion measuring <4 cm, with clear benign features on imaging, does not require further follow-up imaging. In contrast, according to Endocrine Society (USA) guidelines (2010), adrenal masses which appear benign on radiology should be reimaged at 1 year.",
+    "review": "'(after 1 mg overnight dexamethasone)' is a test condition, not a reference range; placed in the reference-range column as printed."
+  },
+  {
+    "chapter": 4,
+    "number": 26,
+    "stem_md": "A 55-year-old man was incidentally detected to have a 5.5-cm adrenal lesion on CT of the abdomen done to evaluate symptoms of abdominal pain and weight loss. He had no past history of any significant medical disorder.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary normetadrenaline | 0.8 µmol/24 h | <4.00 |\n| Urinary metadrenaline | 0.6 µmol/24 h | <2.00 |\n| 9 a.m. cortisol | <50 nmol/L | after 1 mg overnight dexamethasone |\n\n**Which one of the following is the most appropriate step in his further management?**",
+    "image": null,
+    "options": {
+      "A": "Biopsy",
+      "B": "Discharge from clinic",
+      "C": "Laparoscopic FNAC",
+      "D": "Surgical referral",
+      "E": "Whole body CT scan"
+    },
+    "correct": "D",
+    "explanation_md": "The size of an adrenal lesion correlates with the increased risk of developing malignancy. Adrenal masses measuring 4–6 cm or >6 cm have, respectively, a 6% and 25% likelihood of being malignant. The following features are associated with an increased risk of malignancy in an incidentally detected adrenal lesion:\n\n- Size >4 cm\n- Irregular and non-homogeneous margins\n- Non-contrast CT density >10 HU\n- Wash-out of contrast (after 15 minutes) <40%",
+    "review": "'(after 1 mg overnight dexamethasone)' is a test condition, not a reference range; placed in the reference-range column as printed."
+  },
+  {
+    "chapter": 4,
+    "number": 27,
+    "stem_md": "A 45-year-old man was incidentally noticed to have a 4.5-cm right adrenal mass with irregular borders and a density of >10 HU on non-contrast CT of the abdomen. On contrast-enhanced CT of the abdomen, there was <20% contrast wash out at 15 minutes. In view of the suspicious radiological features of the mass, the patient was referred to the endocrine surgical team for consideration for an elective adrenalectomy.\n\n**Which one of the following investigations should be arranged prior to an elective adrenalectomy for this patient?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary fractionated metanephrines",
+      "B": "Aldosterone renin ratio",
+      "C": "Laparoscopic fine-needle aspiration cytology",
+      "D": "MIBG scan",
+      "E": "PET scan"
+    },
+    "correct": "A",
+    "explanation_md": "About 5% of the patients with adrenal incidentalomas have been reported to have phaeochromocytoma (PH) as an underlying diagnosis. The radiological appearance of a PH may include a large tumour, areas of haemorrhage, and necrosis with irregular borders, which may mimic an adrenal carcinoma. As a result, all patients with suspicious radiological features of an adrenal carcinoma should have 24-hour fractionated urinary metanephrine and/or serum metanephrine measurement to exclude the diagnosis of PH.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 28,
+    "stem_md": "A 32-year-old woman was incidentally detected to have bilateral adrenal masses on CT of the abdomen and pelvis which was undertaken to evaluate the cause of intermittent abdominal pain she had been experiencing for a few months. She had a history of menstrual irregularity and was taking oral contraceptive pills. On examination, her blood pressure was 100/60 mmHg, with no clinical stigmata of Cushing’s disease. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary normetadrenaline | 0.29 µmol/24 h | <4.00 |\n| Urinary metadrenaline | 0.36 µmol/24 h | <2.00 |\n| 9 a.m. cortisol | <50 nmol/L | after 1 mg overnight dexamethasone |\n| CT adrenals | Bilateral homogenous adrenal mass measuring 2.2 cm |  |\n\n**Which one of the following is the most appropriate next step in her management?**",
+    "image": null,
+    "options": {
+      "A": "Check ACTH levels",
+      "B": "Discharge from clinic",
+      "C": "Measure 17 OH progesterone",
+      "D": "Measure aldosterone renin ratio",
+      "E": "MRI of the pituitary"
+    },
+    "correct": "C",
+    "explanation_md": "Patients with bilateral adrenal lesions should have 17 OH progesterone levels measured (in addition to ODST, serum/urine metanephrine levels) to exclude the possibility of late-onset congenital adrenal hyperplasia. The aldosterone renin ratio needs to be measured only in patients with hypertension.",
+    "review": "'(after 1 mg overnight dexamethasone)' is a test condition, not a reference range; placed in the reference-range column."
+  },
+  {
+    "chapter": 4,
+    "number": 29,
+    "stem_md": "A 22-year-old woman presented with recurrent episodes of palpitations, headache, and increased sweating. There were no obvious precipitating factors for these episodes, which could last for 30–40 minutes. On examination, she had elevated blood pressure of 160/94 mmHg, with the rest of the general physical and systemic examination being unremarkable. Based on her clinical presentation, a diagnosis of phaeochromocytoma (PH) was considered.\n\n**Which one of the following tests is the most sensitive for diagnosis of PH?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary adrenaline and noradrenaline",
+      "B": "24-hour urinary fractionated metanephrines",
+      "C": "24-hour urinary dopamine",
+      "D": "Serum adrenaline and noradrenaline",
+      "E": "Serum metanephrines"
+    },
+    "correct": "E",
+    "explanation_md": "According to the World Health Organization (WHO) definition (2017), PHs are tumours originating from chromaffin cells of the adrenal medulla, while tumours derived from the extra-adrenal neural crest are termed as paragangliomas (PGLs). PHs and PGLs are histologically indistinguishable. The PGLs are, in turn, divided into sympathetic or parasympathetic, based on the anatomic site of origin. Phaeochromocytomas and sympathetic PGLs are characterized by increased secretion of adrenaline and noradrenaline. The catecholamine release from these tumours may occur intermittently or at a low rate, which may lead to a false negative result on urinary measurement of these hormones.\n\nThe catecholamines are metabolized to metadrenaline and normetadrenaline (also known as metanephrines) in chromaffin cells. The conversion to metanephrines occurs within the tumour, independent of catecholamine release. Therefore, metanephrine measurement is more sensitive, as well as more specific, than catecholamine measurement for the diagnosis of PH and PGL, although it is yet to be used widely due to limited availability and high costs.\n\nThe sensitivity and specificity of biochemical tests used for the diagnosis of PH and PGL is shown in Table 4.8.\n\n**Table 4.8** Sensitivity and specificity of biochemical tests used for diagnosis of phaeochromocytoma and paraganglioma\n\n| Test | Sensitivity (%) | Specificity (%) |\n|---|---|---|\n| 24-hour urinary adrenaline and noradrenaline | 85 | 88 |\n| 24-hour urinary metanephrines | 97 | 70 |\n| Serum adrenaline and noradrenaline | 84 | 80 |\n| Serum metanephrines | 99 | 89 |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 30,
+    "stem_md": "A 42-year-old woman presented to the accident and emergency department with sudden onset anxiety, palpitations, and headache. On examination, she had blood pressure of 200/120 mmHg, although the fundus examination did not show any papilloedema. On the basis of clinical presentation and biochemistry results, a diagnosis of phaeochromocytoma or paraganglioma (PGL) was considered.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Urinary normetadrenaline | 12.8 µmol/24 h | <4.00 |\n| Urinary metadrenaline | 16.0 µmol/24 h | <2.00 |\n\n**Which one of the following investigations is the most appropriate for initial localization of the tumour?**",
+    "image": null,
+    "options": {
+      "A": "CT of the abdomen",
+      "B": "MIBG scan",
+      "C": "Octreotide scan",
+      "D": "PET scanning",
+      "E": "Technetium scan"
+    },
+    "correct": "A",
+    "explanation_md": "In patients with suspected PH or PGL, urinary metanephrine/catecholamines should be measured as a part of initial screening. CT of the abdomen remains the initial modality of choice to localize the tumour if biochemistry results are suggestive of the diagnosis of PH or extra-adrenal sympathetic PGL (which are mostly intra-abdominal). If abdominal imaging is negative, MRI of the skull base, neck, chest base, and pelvis should be considered.\n\nFunctional imaging should be considered for patients with suspected PH or PGL, if the initial CT fails to localize the tumour, or to assess for any possible metastasis (e.g. in patients with Von Hippel–Lindau (VHL) syndrome or SDHB mutation). The functional imaging used for PH and PGL includes ¹²³I-labelled metaiodobenzylguanidine (MIBG) or positron-emission tomography (PET)–CT with ⁶⁸Ga-labelled 1,4,7,10-tetraazacyclododecane–1,4,7,10-tetraacetic acid–octreotate (DOTATATE). See Table 4.9.\n\n**Table 4.9** Approach to phaeochromocytoma and paraganglioma based on clinical scenario\n\n| Clinical scenario | Initial investigations | Role of functional imaging (e.g. MIBG, FDG-PET CT, Ga-DOTATE-PET-CT) |\n|---|---|---|\n| Headache, palpitations, sweating Resistant or paroxysmal hypertension | Measure metanephrines and, if elevated, arrange for CT (or MRI) of the abdomen | Consider for metastatic or occult tumour |\n| Incidental adrenal mass (>10 HU attenuation on CT) | Measure metanephrines and, if elevated, arrange contrast-enhanced CT/MRI of the abdomen | Consider for tumour >10 cm in size or extra-adrenal |\n| Head and neck paraganglioma (HNPGL) | Metanephrines usually normal; consider MRI of the skull base and neck | Usually not needed for parasympathetic HNPGL due to SDHC or SDHAF2 mutation |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 31,
+    "stem_md": "A 48-year-old woman was referred to the endocrine clinic with episodes of palpitations lasting a few minutes. There was no obvious trigger to these episodes and there was no history of associated chest pain. She had noticed flushing of the face for the previous few months. She had also experienced occasional episodes of headache associated with visual blurring. She was known to have high blood pressure for which she was on amlodipine and thiazide diuretic therapy. She had a family history of multiple endocrine neoplasia type 1, although her serum calcium and PTH levels, as checked 6 months before, were within the normal range. On examination, her blood pressure was 140/84 mmHg of Hg. Systemic examination was unremarkable.\n\n**Which one of the following is a criteria for screening for phaeochromocytoma/paraganglioma?**",
+    "image": null,
+    "options": {
+      "A": "Family history of MEN-1 syndrome",
+      "B": "Flushing episodes",
+      "C": "Headache with visual blurring",
+      "D": "Orthostatic hypertension",
+      "E": "Paroxysmal hypertension"
+    },
+    "correct": "E",
+    "explanation_md": "Patients with PH may have paroxysmal or persistent hypertension, although blood pressure at the time of diagnosis may be normal in about 10%. The following characteristics should prompt screening for a possible underlying diagnosis of PH or PGL:\n\n- A family history of MEN-2 syndrome, VHL syndrome, or *SDHB* or *SDHB* mutation\n- Detection of an incidental adrenal lesion\n- Orthostatic hypotension (in the absence of medication)\n- Refractory or paroxysmal hypertension",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 32,
+    "stem_md": "A 66-year-old woman presented to the medical assessment unit with sudden onset of headache, increased sweating, and palpitations. She had a background medical history of diabetes, hypertension, and osteoarthritis. On examination, she had blood pressure of 140/86 mmHg. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary adrenaline | 1.2 µmol | 0–1 |\n| 24-hour urinary metadrenaline | 1.4 µmol | <2.00 |\n| 24-hour urinary noradrenaline | 0.4 µmol | 0–0.2 |\n| 24-hour urinary normetadrenaline | 3.5 µmol | <4.00 |\n\n**Which one of the following medications is associated with false positive urinary catecholamine results (measured with high-pressure liquid chromatography—HPLC)?**",
+    "image": null,
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Amlodipine",
+      "C": "Dapagliflozin",
+      "D": "Diltiazem",
+      "E": "GLP-1 analogues"
+    },
+    "correct": "A",
+    "explanation_md": "A false positive 24-hour urinary catecholamine measurement, as measured with HPLC, may be due to the factors shown in Tables 4.10 and 4.11.\n\n**Table 4.10** Factors associated with false positive 24-hour catecholamine results\n\n| Medications | Dietary factors | Pathologies |\n|---|---|---|\n| Acetaminophen | Caffeinated drinks | Acute cerebrovascular accident |\n| Amphetamine | Nicotine | Acute heart failure |\n| Cocaine | Bananas | Eclampsia |\n| β-blockers | Pepper | Myocardial infarction |\n| Ephedrine, pseudoephederine |  | Neuroendocrine tumours |\n| Tricyclic antidepressants |  |  |\n| Levadopa, methyldopa |  |  |\n\n**Table 4.11** Categorization of paragangliomas based on biochemical profile\n\n| Phenotype | Biochemistry | Gene mutation | Tumour location | Clinical features |\n|---|---|---|---|---|\n| **True silent** | Normal | SDHx | Head and neck | Carotid body, glomus tumours: pressure effect, cranial nerve palsy |\n| **Noradrenergic** | NA/NMA | Pseudohypoxia group: e.g. VHL and SDHx | Extra-adrenal | Sustained HTN |\n| **Adrenergic** | A/MA +/- NA/NMA | Kinase signalling pathway e.g. RET (MEN-2) | Adrenal | Paroxysmal HTN |\n| **Dopaminergic** | DA, 3-MT | SDHB | Head and neck | Asymptomatic or abdominal pain, vomiting, diarrhoea |\n\n**Abbreviations:** 3-MT: 3-methoxytyramine; A: adrenaline; DA: dopamine; HTN: hypertension; MA: metadrenaline; NA: noradrenaline; NMA: normetadrenaline\n\nAcetaminophen, codeine, metoclopramide, levadopa, labetolol, and peppers may lead to confounding peaks on HPLC chromatography. Liquid chromatography tandem-mass spectrometry (LC-MS) is considered as the new gold standard for biochemical diagnosis of PH and PGL due to its accuracy.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 33,
+    "stem_md": "A 19-year-old girl was admitted to the medical assessment unit with sudden-onset headache, palpitations, and chest tightness. On examination, she had blood pressure of 190/130 mmHg along with tall stature and mucosal neuroma around the mouth.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary normetadrenaline | 6.5 µmol | <4.00 |\n| 24-hour urinary metadrenaline | 18.8 µmol | <2.00 |\n| FT4 | 20.2 pmol/L | 11.5–22.7 |\n| TSH | 0.35 mU/L | 0.35–5.5 |\n| Corrected calcium | 2.34 mmol/L | 2.2–2.6 |\n| PTH | 4.8 pmol/L | 1.6–7.2 |\n\n**Which one of the following gene mutations may be associated with her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "MENIN",
+      "B": "NF1",
+      "C": "RET proto-oncogene",
+      "D": "SDHB",
+      "E": "VHL"
+    },
+    "correct": "C",
+    "explanation_md": "Multiple endocrine neoplasia type 2 B (MEN-2B) is associated with the development of medullary thyroid carcinoma (MTC), PH, mucosal neuroma, intestinal PGL, and marfanoid body habitus. Patients should undergo *RET* proto-oncogene mutation analysis.\n\nGermline mutations are present in 35–40% of PHs and PGLs. These gene mutations have been clustered into three subgroups as shown in Table 4.12.\n\n**Table 4.12** Molecular, genetic, and clinical characteristics of phaeochromocytoma and paraganglioma\n\n| Molecular mechanism | Pseudo-hypoxia | Wnt signalling | Kinase signalling |\n|---|---|---|---|\n| **Driver genes** | TCA cycle + (*SDHx*, *MDH2*) TCA cycle – (*VHL*, *PHD1*) | *CSDE1*, *MAML3* | *RET*,*NF1*,*TMEM127* |\n| **Biochemistry** | NA VMAT high No PNMT | NA (A) Low VMAT & PNMT | A PNMT high |\n| **Location** | Adrenal/extra-adrenal | Adrenal | Adrenal |\n| **Signs and symptoms** | Sustained hypertension, headache, sweating, constipation | Mixed | Paroxysmal hypertension, flushing, palpitations |\n| **Metastasis** | + | +/- | – |\n| **Future treatment options** | Methylome: azacytidine, decitabine Hypoxiome: HIF1α/2α inhibitor and VEGF inhibitor Receptor-targeted radio-labelled therapy |  | RET1: tyrosine kinase pathway inhibitor NF1: MEK inhibitor |\n\n**Abbreviations:** A: adrenaline; HIF: hypoxia inducible factor; MDH: malate dehydrogenase; PNMT: phenylethanolamine-*N*-methyltransferase; NA: noradrenaline; SDH: succinate dehydrogenase; TCA: tricarboxylic acid; VEGF: vascular endothelium growth factor; VMAT: vesicular monoamine transporter",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 34,
+    "stem_md": "A 22-year-old man presented to the accident and emergency department with sudden-onset palpitations, increased sweating, and anxiety. He had a background history of a retinal tumour which was successfully removed surgically when he was aged 9 years. He also had a family history of hypertension and haemorrhagic stroke.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary metadrenaline | 2.4 µmol | <2.00 |\n| 24-hour urinary normetadrenaline | 16.9 µmol | <4.00 |\n\n**Which one of the following genetic tests needs to be arranged based on his clinic profile?**",
+    "image": null,
+    "options": {
+      "A": "MENIN",
+      "B": "NF1",
+      "C": "RET proto-oncogene",
+      "D": "SDHB",
+      "E": "VHL"
+    },
+    "correct": "E",
+    "explanation_md": "VHL syndrome is characterized by an increased risk of development of retinal, cerebellar, and spinal haemangioblastoma, together with renal cell carcinoma. PHs are present in about 15–20% of these patients and are mostly noradrenaline-secreting extra-adrenal PGLs. Familial PHs can be caused by one of the germline mutations (see Table 4.13).\n\n**Table 4.13** Characteristics of various gene mutations associated with PHEO and paraganglioma\n\n| Gene mutation | Protein encoded | PHEO/PGL | Associated features |\n|---|---|---|---|\n| ***vHL2*** | pVHL proteins involved in degradation of HIF | Early age of onset (mean age <30 years); may be bilateral tumour | Haemangioblastoma Renal cysts RCC Pancreatic cysts and PNET |\n| ***EGLN*** | HIF-prolyl hydroxylase | Relatively early age of onset for PHEO and PGL Recurrent tumour | Congenital erythrocytosis |\n| ***EPAS1*** | HIF-2α | Relatively early age of onset for PHEO Malignant and metastatic | Congenital erythrocytosis Somatostatinoma |\n| ***SDHA*** | Subunit A | Sporadic PGL | – |\n| ***SDHB*** | Subunit B | PHEO PGL in sympathetic as well as parasympathetic chain Located from neck to pelvis Malignant and metastatic | Neuroblastoma RCC |\n| ***SDHC*** | Subunit C | PGL in sympathetic as well as parasympathetic chain No adrenal PHEO |  |\n| ***SDHD*** | Subunit D | Paternally inherited SDHD gene patients can develop PGL/PHEO Parasympathetic HN PGL Malignancy uncommon | GIST RCC |\n| ***RET*** | RET proto-oncogene activating mutation | PHEO may be bilateral Mostly benign | MTC Primary HPT in MEN-2A Mucosal neuroma and marfanoid features in MEN-2B |\n| ***NF1*** | NF-1 tumour suppressor gene | PHEO in <5% | Optic glioma, haemartoma, café au lait spots |\n\n**Abbreviations:** EGLN: egg-laying gene nine; EPAS1: endothelial PAS1; GIST: gastrointestinal stromal tumour; MTC: medullary thyroid carcinoma; NF1: neurofibromatosis type 1; PNET: pancreatic neuroendocrine tumour; RCC: renal cell carcinoma; RET: rearranged during transfection; SDH: succinate dehydrogenase; TMEM: trans-membrane protein 217",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 35,
+    "stem_md": "A 65-year-old man was admitted to hospital with a history of paroxysmal episodes of sudden onset of palpitations, increased sweating, and headache. He was not on any medication and had been previously well. There was no family history of high blood pressure, stroke, or ischaemic heart disease. His general physical and systemic examination was unremarkable, except for elevated blood pressure of 210/96 mmHg, with orthostatic hypotension.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary normetadrenaline | 10.9 µmol | <4.00 |\n| 24-hour urinary metadrenaline | 14.8 µmol | <2.00 |\n| CT of the abdomen | 3.8-cm left adrenal heterogenous lesion |  |\n\n**Which one of the following is associated with an increased risk of metastasis in a phaeochromocytoma?**",
+    "image": null,
+    "options": {
+      "A": "Adrenaline-secreting tumours",
+      "B": "Older age",
+      "C": "Parasympathetic paragangliomas",
+      "D": "RET mutation",
+      "E": "Tumour size <5 cm"
+    },
+    "correct": "B",
+    "explanation_md": "Factors associated with an increased risk of metastasis in a phaeochromocytoma/paraganglioma include:\n\n- Older age\n- Tumour size >5 cm\n- Noradrenaline secretion\n- *SDHB, FH, SLC25A11* germline mutation",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 36,
+    "stem_md": "A 30-year-old teacher was referred to the endocrine clinic with paroxysmal symptoms of headache, increased sweating, and anxiety. As she was adopted as a child, no further family history was available. Her general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary adrenaline | 15.2 µmol | 0–1 |\n| 24-hour urinary metadrenaline | 22.4 µmol | <2.00 |\n| 24-hour urinary noradrenaline | 0.5 µmol | 0–0.2 |\n| 24-hour urinary normetadrenaline | 4.4 µmol | <4.00 |\n\n**Based on her biochemical results, which one of the following genetic tests will be most useful in establishing the underlying aetiology?**",
+    "image": null,
+    "options": {
+      "A": "MENIN",
+      "B": "RET proto-oncogene",
+      "C": "SDHB",
+      "D": "SDHD",
+      "E": "VHL"
+    },
+    "correct": "B",
+    "explanation_md": "About 35–40% of PHs and PGLs are believed to have a familial/genetic origin. Genetic testing is practically not feasible for every gene in every patient with PH/PGL. The tumour location, presence of metastasis, and type of catecholamine produced by the tumour cells should be taken into consideration while requesting genetic analysis for a patient with PH or PGL. See Table 4.14 and Fig. 4.5.\n\n**Table 4.14** Characteristic features of some familial phaeochromocytomas and paragangliomas\n\n| Clinical characteristics | MEN-2 | SDHB | SDHD | VHL |\n|---|---|---|---|---|\n| Location | Adrenal | Extra-adrenal | Head and neck | Adrenal, as well as extra-adrenal |\n| Hormone | Mostly adrenaline | Noradrenaline, dopamine | Usually none or dopamine | Mostly noradrenaline |\n| Metastasis | 0.4% | 30% | 5% | 4% |\n\n**Fig. 4.5** Algorithm for genetic testing in phaeochromocytoma\n\n- **PHEO/PGL**\n  - **age <50 years** → RET, SDHB, SDHD, vHL\n  - **Bilateral** → RET, SDHD, vHL\n  - **Malignant** → SDHB, vHL\n  - **Multiple** → SDHB, SDHD, vHL",
+    "review": "Flowchart (Fig. 4.5) in the explanation has been converted to a nested Markdown list; verify against the source figure."
+  },
+  {
+    "chapter": 4,
+    "number": 37,
+    "stem_md": "A 26-year-old woman was referred to the endocrine clinic with an incidentally detected painless neck lump. She had a background medical history of eczema and was not on any medications. Her father had undergone removal of a neck lump, which turned out to be benign, when he was in his fourth decade. Based on the location of the lump and family history, a diagnosis of familial PGLs was considered.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary metadrenaline | 0.4 µmol | <2.00 |\n| 24-hour urinary normetadrenaline | 1.5 µmol | <4.00 |\n| Neck ultrasound | Possible carotid body tumour |  |\n\n**Which one of the following gene mutations is commonly associated with head and neck parasympathetic PGLs?**",
+    "image": null,
+    "options": {
+      "A": "NF1",
+      "B": "RET proto-oncogene",
+      "C": "SDHB",
+      "D": "SDHC",
+      "E": "VHL"
+    },
+    "correct": "D",
+    "explanation_md": "Succinate dehydrogenase subunit C (*SDHC*) and succinate dehydrogenase complex assembly factor 2 (*SDHAF2*) gene mutations are mostly associated with head and neck parasympathetic PGLs. *SDHC* and *SDHAF2* mutations are not associated with metastasis.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 38,
+    "stem_md": "A 22-year-old woman was referred to the endocrine clinic in view of high blood pressure at such a young age. Apart from episodes of headache, she was asymptomatic. She was on amlodipine and doxazosin tablets for blood pressure control. There was a strong family history of hypertension. On examination, her blood pressure was 150/90 mmHg. The general physical and systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary metadrenaline | 2.5 µmol | <2.00 |\n| 24-hour urinary normetadrenaline | 4.9 µmol | <4.00 |\n| Contrast-enhanced CT of the abdomen | Normal adrenal glands |  |\n\n**Which one of the following is the most appropriate next investigation?**",
+    "image": null,
+    "options": {
+      "A": "MRI of the abdomen",
+      "B": "MRI of the head, neck, abdomen and pelvis",
+      "C": "Somatostatin receptor scintigraphy",
+      "D": "Ultrasound of the pelvis",
+      "E": "Whole body CT scan"
+    },
+    "correct": "B",
+    "explanation_md": "Patients with clinically suspected PH and PGL should undergo plasma or urinary metanephrine measurement as an initial screening procedure. Localization studies should only be arranged if there is reasonable clinical and/or biochemical evidence of a tumour. Abdominal CT (contrast-enhanced) or MRI are usually the initial radiological modalities used to localize the tumour, although these are not specific for identifying a mass as a PH or PGL. If the initial abdominal imaging is negative, MRI of the skull base, neck, chest, and pelvis should be considered for detection of possible sympathetic PGLs.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 39,
+    "stem_md": "A 62-year-old woman complained of nasal stuffiness, together with giddiness on standing up, while she was on a gradually increasing dose of phenoxybenzamine started 6 days before to achieve α-blockage prior to an elective adrenalectomy. She had recently been diagnosed with a left-sided phaeochromocytoma measuring 3.5 cm on CT of the abdomen. On examination, she had a resting heart rate of 124 beats/minute, with a significant postural drop of 25 mmHg on standing up.\n\n**Which one of the following is the most appropriate next step in her further management?**",
+    "image": null,
+    "options": {
+      "A": "Add metoprolol",
+      "B": "Increase phenoxybenzamine dose",
+      "C": "Reduce phenoxybenzamine dose",
+      "D": "Stop phenoxybenzamine",
+      "E": "Switch to metoprolol"
+    },
+    "correct": "A",
+    "explanation_md": "Excess catecholamines secreted by PHs can precipitate hypertensive crisis by their action on α-adrenergic receptors that induce vasoconstriction. Therefore, adequate α-adrenergic receptor blockage is essential to prevent an intra-operative hypertensive crisis due to the sudden release of catecholamines into the circulation during handling of the tumour.\n\nThe presence of nasal stuffiness and orthostatic hypotension in this patient is consistent with an adequate α-blockage. A β-blocker such as propranolol (non-cardio-selective) or metoprolol (cardio-selective) can be added if patients develop tachycardia after α-blockage. β-blocker therapy should only be started once adequate α-adrenergic blockage has been achieved.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 40,
+    "stem_md": "A 55-year-old man presented with symptoms of paroxysmal episodes of palpitations, headache, and elevated blood pressure. He had no family history of sudden cardiac death or multiple endocrine neoplasia. On examination, he had an elevated blood pressure of 180/104 mmHg. Systemic examination was unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary metadrenaline | 22.4 µmol | <2.00 |\n| 24-hour urinary normetadrenaline | 4.5 µmol | <4.00 |\n| CT of the adrenal gland | 3-cm left-sided adrenal tumour |  |\n\n**Which one of the following is the most appropriate next step in his further management?**",
+    "image": null,
+    "options": {
+      "A": "Elective adrenalectomy",
+      "B": "Genetic screening",
+      "C": "MIBG scan",
+      "D": "PET scan",
+      "E": "Radiotherapy"
+    },
+    "correct": "A",
+    "explanation_md": "¹³¹I-labelled MIBG is usually not required for intra-adrenal tumours (PHs) measuring <5 cm (with significant increase in metadrenaline levels), as smaller tumours are rarely associated with metastasis and adrenaline-producing tumours are almost always of adrenal origin.\n\nGenetic screening for SDHD, SDHB, RET proto-oncogene, and VHL mutation is not indicated in every patient presenting with features of PH or PGL. The tumour location, presence of metastasis, and type of catecholamine produced by the tumour cells should be taken into consideration when requesting genetic analysis for a patient with PH.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 41,
+    "stem_md": "A 26-year-old man was admitted to the medical assessment unit with progressive lethargy and malaise for the previous 6 weeks. He had been previously well and played football for a local club. For a few weeks before, he had felt exhausted after playing for 10–15 minutes. He had a family history of Type 1 DM and autoimmune hypothyroidism. On examination, he had pigmentation of the palmer surface of the hand and buccal mucosa, with the rest of his general physical and systemic examination being unremarkable.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 130 mmol/L | 135–145 |\n| K | 5.9 mg/dL | 3.5–5.5 |\n| Urea | 10.5 mg/dL | 5–9 |\n| Creatinine | 95 µmol/L | 60–115 |\n| Calcium | 2.65 mmol/L | 2.2–2.6 |\n| Phosphate | 0.94 mmol/L | 0.8–1.5 |\n\n**Antibodies against which of the following enzymes are a marker of autoimmune adrenal insufficiency?**",
+    "image": null,
+    "options": {
+      "A": "3 β-HSD",
+      "B": "11 β-hydroxylase",
+      "C": "17α-hydroxylase",
+      "D": "17 hydroxyprogesterone",
+      "E": "21-hyroxylase"
+    },
+    "correct": "E",
+    "explanation_md": "Autoimmune adrenalitis remains the commonest cause of primary adrenal insufficiency in the developed world. It is characterized by small and atrophic adrenal glands with a thickened capsule, although the medulla is usually preserved. It may be associated with other autoimmune conditions, such as primary autoimmune thyroid disease, coeliac disease, vitiligo, and alopecia areata. These patients may have antibodies to 21-hydroxylase enzyme. See Table 4.15.\n\n**Table 4.15** Aetiologies associated with primary adrenal insufficiency\n\n| Aetiology | Example |\n|---|---|\n| Autoimmune | Isolated or as part of APS Type 1 or Type 2 |\n| Adrenal injury/infiltration | Anticoagulants, anti-phospholipid syndrome, haemochromatosis, HIV, metastasis, sepsis, TB |\n| Congenital adrenal hyperplasia (CAH) | 21-hydroxylase deficiency, 11β-hydroxylase deficiency, 3β-HSD deficiency |\n| Drug-induced | CTLA4 inhibitors, mitotane, ketoconazole, etomidate, metyrapone |\n| Metabolic disease | Adrenoleukodystrophy |\n\n**Abbreviations:** 3β-HSD: 3β-hydroxysteroid dehydrogenase; APS: autoimmune polyglandular syndrome; CTLA4: cytotoxic T-lymphocyte-associated protein; TB: tuberculosis",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 42,
+    "stem_md": "A 46-year-old man was referred to the endocrine team for further assessment of his symptoms of fatigue, malaise, and weight loss. He had a background history of cirrhosis, with portal hypertension due to alcoholic liver disease. On examination, he looked cachectic and had peripheral stigmata of liver failure.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Albumin | 18 g/L | 30—50 |\n| Alkaline phosphatase (ALP) | 275 U/L | 50–125 |\n| Alanine transaminase (ALT) | 142 mU/L | 05–58 |\n| Bilirubin | 2.1 nmol/L | 0.1–1 |\n| 0-hour cortisol | 155 nmol/L |  |\n| 30-minute cortisol (post-ACTH) | 396 nmol/L | >500 |\n\n**Which one of the following is the most appropriate next step in his further management?**",
+    "image": null,
+    "options": {
+      "A": "Measure 21 α-hydroxylase antibodies",
+      "B": "Measure salivary cortisol after ACTH",
+      "C": "Repeat short synacthen test in 1 week",
+      "D": "Start hydrocortisone",
+      "E": "Start hydrocortisone and fludrocortsione"
+    },
+    "correct": "B",
+    "explanation_md": "In the circulation, about 75% of cortisol is bound to cortisol-binding globulin (CBG) and 15% to albumin. The free cortisol is the biologically active form under regulation of ACTH. The CBG and albumin levels are reduced in conditions such as cirrhosis and nephrotic syndrome, leading to reduced total cortisol levels as measured by the short synacthen test. Salivary cortisol measurement after stimulation with ACTH may provide a relatively more accurate assessment of the hypothalamic–pituitary–adrenal axis in such clinical scenarios as it measures free cortisol.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 43,
+    "stem_md": "An 18-year-old man was referred to the clinic with symptoms of progressive weight loss and malaise over the previous 4 months. He had a background history of cerebellar ataxia and in-coordination, for which he was under neurology clinic follow-up. On examination, he had features of gait disturbance and emotional lability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Na | 131 mmol/L | 135–145 |\n| K | 5.8 mmol/L | 3.5–5.5 |\n| Urea | 10.5 mg/dL | 5–9 |\n| Creatinine | 95 µmol/L | 60–115 |\n| Calcium | 2.65 mmol/L | 2.2–2.6 |\n| 0-hour cortisol | 44 nmol/L |  |\n| 30-minute cortisol (post-ACTH) | 128 nmol/L | >500 |\n\n**Which one of the following investigations will be useful in establishing the underlying diagnosis in his clinical context?**",
+    "image": null,
+    "options": {
+      "A": "17α-hydroxylase antibodies",
+      "B": "21-hyroxylase antibodies",
+      "C": "Adrenal biopsy",
+      "D": "MRI of the brainstem",
+      "E": "Very long chain fatty acids"
+    },
+    "correct": "E",
+    "explanation_md": "Adrenoleukodystrophy is an X-linked disorder (due to mutation of the *ABCD1* gene) characterized by high levels of very long chain fatty acids (VLCFAs), which accumulate in the white matter of the brain, adrenal cortex, and liver. It may manifest as neurological symptoms (e.g. cognitive impairment, behavioural problems, gait, visual disturbance) and primary adrenal insufficiency at a young age. The presence of neurological symptoms in a young man with adrenal insufficiency warrants measurement of VLCFAs to establish the diagnosis.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 44,
+    "stem_md": "A 48-year-old woman presented to her GP with symptoms of progressive weight gain, fatigue, and menstrual irregularity. On examination, she had facial plethora, central obesity, increased facial and body hair, proximal myopathy, and easy bruisability. Based on her signs and symptoms, a clinical suspicion of Cushing’s syndrome was raised and a 24-hour urinary free cortisol measurement was arranged.\n\n**Which one of the following clinical features is relatively discriminatory for the diagnosis of Cushing’s syndrome?**",
+    "image": null,
+    "options": {
+      "A": "Facial plethora",
+      "B": "Hirsutism",
+      "C": "Stretch marks",
+      "D": "Weight gain",
+      "E": "Worsening glycaemic control"
+    },
+    "correct": "A",
+    "explanation_md": "Cushing’s syndrome can present with a wide spectrum of clinical manifestations, which may be seen in conditions leading to hypercortisolism, such as depression, alcoholism, obesity, and poorly controlled diabetes. The following clinical features are considered to be more discriminatory for Cushing’s syndrome (although not highly sensitive):\n\n- Easy bruisability\n- Facial plethor.\n- Proximal myopath.\n- Reddish-purple stria.\n- Retardation of growth velocity and weight gain in children",
+    "review": "Three bullet items in the source explanation are truncated as printed ('Facial plethor.', 'Proximal myopath.', 'Reddish-purple stria.'); preserved verbatim."
+  },
+  {
+    "chapter": 4,
+    "number": 45,
+    "stem_md": "A 50-year-old man presented to the clinic with progressive weight gain and easy bruisability. He had a background medical history of epilepsy and Type 2 DM, and he was taking phenytoin and metformin tablets. On examination, he had central obesity, facial fullness, and thin skin, although there was no evidence of proximal myopathy or facial plethora.\n\n**Which one of the following tests is most appropriate for initial screening of Cushing’s syndrome in his clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary free cortisol",
+      "B": "Insulin tolerance test",
+      "C": "Low-dose dexamethasone suppression test",
+      "D": "Overnight dexamethasone suppression test",
+      "E": "Plasma ACTH levels"
+    },
+    "correct": "A",
+    "explanation_md": "The dexamethasone suppression test should not be used in patients with epilepsy who are taking medications that increase dexamethasone clearance (see Table 4.16). Measurement of urinary or salivary cortisol in this scenario provides relatively more accurate results.\n\n**Table 4.16** Medications which may interfere with diagnostic tests for Cushing’s syndrome.\n\n| Inducers of hepatic enzymes (increased dexamethasone clearance) | Impaired dexamethasone clearance | Increase in corticosteroid-binding globulin (CBG) (false positive cortisol results) | Increase in urinary free cortisol (UFC) |\n|---|---|---|---|\n| Carbamazepine | Diltiazem | Oral contraceptive pills | Carbenoxolone |\n| Phenytoin | Fluoxetine | Mitotane | Fenofibrate |\n| Phenobarbiturates | Itraconazole |  | Liquorice |\n| Primidone | Ritonavir |  |  |\n| Rifampicin |  |  |  |",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 46,
+    "stem_md": "A 24-year-old woman presented to her GP with symptoms of weight gain, excessive facial and body hair growth, and menstrual irregularities. She was on metformin and oral contraceptive pills for a suspected diagnosis of polycystic ovarian syndrome. On examination, her BMI was 32 Kg/m². She had facial puffiness and lower abdominal purple-coloured stria. Based on her clinical presentation, the possibility of an underlying diagnosis of Cushing’s syndrome was considered.\n\n**Which one of the following investigations will be most appropriate for initial screening of Cushing’s syndrome in her clinical context?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary free cortisol",
+      "B": "CT of adrenals",
+      "C": "Insulin tolerance test",
+      "D": "Overnight dexamethasone suppression test",
+      "E": "Plasma ACTH levels"
+    },
+    "correct": "A",
+    "explanation_md": "The concentration of CBG is increased by oestrogen use, therefore false positive dexamethasone test results are seen in about 50% of women taking the oral contraceptive pills. The urinary or salivary free cortisol measurement is a relatively more accurate screening test for Cushing’s syndrome in patients on oestrogen-based medications.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 47,
+    "stem_md": "A 44-year-old woman presented to the clinic with progressive weight gain, lethargy, and easy bruisability. She had a background medical history of Type 2 DM and hypertension. On examination, she had central obesity, lower abdominal striae, and proximal myopathy. Based on a clinical suspicion of Cushing’s syndrome, a midnight salivary cortisol measurement was arranged as an initial screening test.\n\n**Which one of the following may be associated with a false positive salivary cortisol test result?**",
+    "image": null,
+    "options": {
+      "A": "Anti-epileptic medications",
+      "B": "Chewing tobacco",
+      "C": "Hepatic failure",
+      "D": "Oral contraceptive pills",
+      "E": "Renal failure"
+    },
+    "correct": "B",
+    "explanation_md": "The salivary glands express 11β-hydroxysteroid dehydrogenase type 2 (11β-SD2) enzyme, which plays a role in conversion of biologically-active cortisol to inactive cortisone. Patients using liquorice and/or chewing tobacco may have false positive salivary cortisol results due to inhibition of 11β-SD2.\n\nSalivary cortisol concentration is unaffected by the rate of saliva production, and the test results are relatively unaffected by CBG levels (as free cortisol levels are measured). It is important to be mindful that salivary cortisol levels increase with age and in patients with hypertension and diabetes, leading to false positive results.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 48,
+    "stem_md": "A 26-year-old woman presented with facial puffiness and easy bruisability, while she was in her first trimester of pregnancy. On examination, she had facial plethora, lower abdominal purple stria, and proximal myopathy. A clinical suspicion of Cushing’s syndrome was raised based on her signs and symptoms.\n\n**Which one of the following is the most appropriate screening test for the diagnosis of Cushing’s syndrome in pregnancy?**",
+    "image": null,
+    "options": {
+      "A": "24-hour urinary free cortisol",
+      "B": "CT of adrenals",
+      "C": "Insulin tolerance test",
+      "D": "Overnight dexamethasone suppression test",
+      "E": "Salivary cortisol"
+    },
+    "correct": "A",
+    "explanation_md": "The dexamethasone suppression test in pregnancy is associated with high rates of false positive results. Urinary free cortisol (UFC) excretion remains normal in the first trimester of pregnancy and increases up to three-fold in the second and third trimesters. As a result, a UFC value of more than three times the normal limit is considered suggestive of a diagnosis of Cushing’s syndrome in pregnancy. The diagnostic threshold of salivary cortisol values in pregnancy are yet to be validated. See Table 4.17.\n\n**Table 4.17** Special considerations while screening for Cushing’s syndrome\n\n| Special consideration | Recommended test | Test not preferred |\n|---|---|---|\n| Adrenal incidentaloma | ODST | 24-hour UFC (false negative in mild disease) |\n| Cyclic Cushing’s | 24-hour UFC | DST |\n| Epilepsy | 24-hour UFC | DST (anti-epileptics enhance clearance of dexamethasone) |\n| Renal failure | ODST | 24-hour UFC (may be false negative) |\n| Pregnancy | UFC | DST |\n\n**Abbreviations:** DST: dexamethasone suppression test; ODST: overnight dexamethasone suppression test; UFC: urinary free cortisol",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 49,
+    "stem_md": "A 22-year-old man was referred to the endocrine clinic with features of easy bruisability and a recent fragility fracture. He denied the use of any illicit drugs or excess alcohol consumption. He had no previous medical history of any chronic illness, weight loss, or steroid use. On examination, he had buccal and perioral lentigenes, facial plethora, proximal myopathy, and lower abdominal stria.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| 24-hour urinary free cortisol | Elevated ×3 times normal limit |  |\n| Midnight salivary cortisol | Raised |  |\n| Echocardiogram (ECHO) | Atrial myxoma |  |\n\n**Which of the following is a known endocrine manifestation of his underlying syndrome?**",
+    "image": null,
+    "options": {
+      "A": "Addison’s disease",
+      "B": "Hashimoto’s thyroiditis",
+      "C": "Primary hyperaldosteronism",
+      "D": "Prolactinoma",
+      "E": "Sertoli cell tumour"
+    },
+    "correct": "E",
+    "explanation_md": "This young man has features of Cushing’s syndrome—multiple skin lentigines and atrial myxomas suggestive of an underlying diagnosis of Carney complex. It is caused by *PRKAR1A* mutations leading to disruption of the cyclic AMP-dependent protein kinase (PKA) signalling pathway. The clinical characteristics of Carney complex include:\n\n- Primary pigmented nodular adrenocortical disease (PPNAD)\n- Lentigines and spotty pigmentation of the face/trunk\n- Myxomas of the heart, skin, and breast\n- GH-producing adenoma\n- Sertoli cell tumour\n- Thyroid nodules",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 50,
+    "stem_md": "A 24-year-old Hispanic woman was referred to the endocrine clinic with symptoms of menstrual irregularity and excessive facial hair growth. On examination, she had a BMI of 22 kg/m² and features of hirsutism.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 2.8 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 8.0 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 74 pmol/L | follicular 17–260, luteal 180–1100 |\n| Andrestendione | 22 nmol/L | 4–10.2 |\n| 17-OH progesterone | 13 nmol/L | follicular <5 |\n\n**Which one of the following investigations is the most appropriate to establish the underlying diagnosis in her case?**",
+    "image": null,
+    "options": {
+      "A": "CT of adrenals",
+      "B": "Karyotyping",
+      "C": "Short synacthen test (measuring 17-hydroxy progesterone)",
+      "D": "Testosterone levels",
+      "E": "Ultrasound of pelvis"
+    },
+    "correct": "C",
+    "explanation_md": "Non-classic congenital adrenal hyperplasia (NCCAH) is characterized by partial deficiency of 21-hydroxylase, leading to features similar to polycystic ovarian syndrome (menstrual irregularities, hirsutism). The diagnosis is based on measurement of 17-hydroxyprogesterone (17-OHP). If there is a borderline elevation of 17-OHP levels (5–15 nmol/L), a short synacthen test should be arranged, with measurement of 17-OHP levels to confirm or refute the diagnosis.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 51,
+    "stem_md": "A 20-year-old man was reviewed in the endocrine clinic on a routine follow-up visit. He had a background history of salt-wasting congenital adrenal hyperplasia (CAH) diagnosed at birth and had been on lifelong prednisolone (7.5 mg/day) and fludrocortisone (100 µg/day) replacement therapy. On examination, he had no phenotypic features of Cushing’s syndrome. There was no palpable testicular lump on genital examination.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Androstenedione | 26.5 nmol/L | 4.4–10.6 |\n| 17-OHP | 20.0 nmol/L | <3 |\n| Plasma renin activity | 4.5 pmol/mL/h | 1.1–2.7 |\n\n**Which one of the following is the most appropriate next step in his management?**",
+    "image": null,
+    "options": {
+      "A": "Check compliance",
+      "B": "Increase prednisolone and fludrocortisone dose",
+      "C": "Reduce prednisolone and fludrocortisone dose",
+      "D": "Switch to dexamethasone",
+      "E": "Switch to hydrocortisone"
+    },
+    "correct": "A",
+    "explanation_md": "The elevated 17-OHP and plasma renin activity (PRA) results in this young man with classic congenital adrenal hyperplasia (CAH), despite being on a physiological replacement dose of prednisolone and fludrocortisone, is indicative of issues with compliance with the medications. Men with classic CAH are prone to develop testicular adrenal rest tumours, which may not be detected with manual palpation. An ultrasound of the testis should be arranged in patients with classic CAH, especially if there is a history of poor compliance with the medication.",
+    "review": null
+  },
+  {
+    "chapter": 4,
+    "number": 52,
+    "stem_md": "An 82-year-old woman was admitted into hospital with a history of weight loss and reduced appetite. She had a background history of Alzheimer’s dementia, ischaemic heart disease, Type 2 DM, and osteoarthritis . Her mobility was limited and she needed assistance for day-to-day activities. On examination, she had a plethoric facial appearance. Her blood pressure was 170/94 mm of Hg. She had proximal myopathy and thin skin with multiple bruises. Further investigations (24-hour urinary free cortisol, midnight salivary cortisol, and low-dose dexamethasone test) confirmed hypercortisolism. ACTH levels were suppressed and CT of the abdomen confirmed the presence of a 6 × 7.5 cm adrenal mass with irregular edges. There were multiple lesions in the liver suggestive of possible metastasis. Based on the clinical presentation, a diagnosis of metastatic adrenocortical carcinoma was made, although she was deemed unfit for surgery in view of her co-morbidities and frail general health.\n\n**Which one of the following can be used as medical therapy for patients with inoperable adrenocortical carcinoma?**",
+    "image": null,
+    "options": {
+      "A": "Ketoconazole",
+      "B": "Metyrapone",
+      "C": "Mifepristone",
+      "D": "Mitotane",
+      "E": "Pasireotide"
+    },
+    "correct": "D",
+    "explanation_md": "Mitotane is an adrenolytic agent approved for use in patients with metastatic or occult adrenocortical carcinoma. See Table 4.18.\n\n**Table 4.18** Medications used for Cushing’s syndrome and adrenocortical carcinoma\n\n| Medication | Indication | Mechanism of action | Side effects/caution |\n|---|---|---|---|\n| Mitotane | ACC | Cholesterol side chain cleavage and 11β-hydroxylase inhibition | AI, CYP3A4 induction |\n| Metyrapone | CD | Competitive inhibition of 11β-hydroxylase | AI |\n| Ketoconazole | CD | 17α-hydroxylase, 11-hydroxylation inhibition (cytochrome P450-dependent enzymes) | AI, nausea, vomiting |\n| Etomidate | ACC | 11β-hydroxylase inhibition | Apnoea, hyperventilation |\n\n**Abbreviations:** ACC: adrenocortical carcinoma; AI: adrenal insufficiency; CD: Cushing’s disease",
+    "review": null
+  }
+]

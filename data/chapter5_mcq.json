@@ -1,0 +1,722 @@
+[
+  {
+    "chapter": 5,
+    "number": 1,
+    "stem_md": "The testis, adrenal glands, and peripheral tissues are the main contributors of circulating sex steroids in men, including testosterone, dihydrotestosterone, oestradiol, and dehydroepiandrosterone sulfate (DHEA-S).\n\n**Which one of the following sex steroids is primarily produced by the adrenal glands?**",
+    "image": null,
+    "options": {
+      "A": "Dehydroepiandrosterone sulfate",
+      "B": "Dihydrotestosterone",
+      "C": "Oestradiol",
+      "D": "Oestrone",
+      "E": "Testosterone"
+    },
+    "correct": "A",
+    "explanation_md": "Testicular secretion contributes to more than 95% of the circulating testosterone levels, while dihydrotestosterone is mostly formed by the peripheral conversion of testosterone by enzyme 5α reductase (see Table 5.1). Oestrone and oestradiol in men are primarily derived from peripheral conversion of androstenedione and testosterone, respectively. Dehydroepiandrosterone sulfate (DHEA-S) is primarily secreted by the adrenal glands.\n\n**Table 5.1** Relative contribution of various organs to sex steroid levels in men\n\n|  | Testicular secretion | Adrenal secretion | Peripheral conversion |\n|---|---|---|---|\n| Testosterone | 90–95% | <1% | <5% |\n| Dihydrotestosterone | 15–20% | <1% | 80–85% |\n| Oestradiol | 15–20% | <1% | 80–85% |\n| DHEA-S | <10% | 90–95% | – |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 2,
+    "stem_md": "Oestrone and oestradiol in men are primarily derived from peripheral conversion of androstenedione and testosterone, respectively.\n\n**Which one of the following enzymes is involved in the peripheral conversion of androgens to oestrogens?**",
+    "image": null,
+    "options": {
+      "A": "5α-reductase",
+      "B": "21α-hydroxylase",
+      "C": "17-hydroxylase",
+      "D": "Aromatase",
+      "E": "DHEA sulphate"
+    },
+    "correct": "D",
+    "explanation_md": "Aromatase enzyme is localized in the endoplasmic reticulum and involved in the peripheral conversion of androstenedione and testosterone to oestrone and oestradiol (E2), respectively. It is present in organs such as the brain, adipose tissues, gonads, and skin. An increase in aromatase activity, with the resultant increase in oestrone and oestradiol levels, is believed to be one of the contributory factors to hypogonadotrophic hypogonadism in obese men. Aromatase inhibitors and modulators (e.g. clomiphene citrate) have been used (off licence) in certain centres to increase testosterone levels in hypogonadal men, although these reduce E2 levels and have been shown to have a detrimental effect on bone mineral density (BMD). See Table 5.2.\n\n**Table 5.2** Biological role of oestradiol (E2) in men\n\n| Organ system | Role of E2 |\n|---|---|\n| Hypothalamic–pituitary axis | Negative feedback on GnRH pulse frequency Negative feedback on LH pulse amplitude |\n| GH-IGF1 axis | Stimulates pituitary GH secretion Inhibits hepatic IGF1 response to GH |\n| Bone | Leads to pubertal growth plate closure Maintenance of bone mineral density |\n| Glucose metabolism | Improves insulin sensitivity |\n| Vasomotor stability | Prevents hot flushes |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 3,
+    "stem_md": "Testosterone circulates mostly bound to sex hormone-binding globulin (SHBG) or albumin, with only <2% of the free testosterone being biologically active. The SHBG concentrations can be influenced by a variety of medications and clinical conditions, thereby having an impact on serum total testosterone measurement.\n\n**Which one of the following is associated with an increase in SHBG levels?**",
+    "image": null,
+    "options": {
+      "A": "Acromegaly",
+      "B": "Cushing’s syndrome",
+      "C": "Exogenous anabolic steroids",
+      "D": "Hyperthyroidism",
+      "E": "Obesity"
+    },
+    "correct": "D",
+    "explanation_md": "SHBG is a glycoprotein synthesized in the liver which transports androgens (testosterone and dihydrotestosterone) and oestradiol in the serum. The SHBG bound fraction of androgen and oestradiol is biologically inert. Multiple pathologies (see Table 5.3) can impact SHBG levels.\n\n**Table 5.3** Conditions which impact sex hormone-binding globulin (SHBG) levels\n\n| Conditions associated with SHBG increase | Conditions associated with SHBG decrease |\n|---|---|\n| Cirrhosis | Acromegaly or GH use |\n| Oestrogens | Cushing’s syndrome |\n| Hyperthyroidism | Exogenous glucocorticoid or anabolic steroid use |\n| Medications such as tamoxifen, phenytoin | Hypothyroidism |\n| Anorexia | Obesity |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 4,
+    "stem_md": "**Which one of the following is the correct statement regarding the physiological development of gonads?**",
+    "image": null,
+    "options": {
+      "A": "The default position of the foetus is to develop into the male sex.",
+      "B": "The foetal gonads start to differentiate by the fourth week of gestation.",
+      "C": "The Müllerian ducts develop into the lower part of vagina.",
+      "D": "The SRY gene on the Y chromosome is the trigger that differentiates primordial cells of the gonadal ridge into the testis.",
+      "E": "The Wolffian duct develops into the epididymis and seminal vesicles under the influence of anti-Müllerian hormones."
+    },
+    "correct": "D",
+    "explanation_md": "During the first 7 weeks of foetal development, the gonadal ridge is bi-potential, irrespective of the chromosomal sex. In the presence of the testis-determining gene on the Y chromosome (TDY) or the sex-differentiation gene on the p arm of the Y chromosome (SRY), primordial cells of the gonadal ridge differentiate into the testis.\n\nPrimordial cells differentiate into the precursors of supporting cells or steroid-secreting gonadal cells. The supporting cell precursors develop into either testis-specific Sertoli cells or ovary-specific follicle (granulosa) cells, depending on the chromosomal sex of the foetus. The precursor of steroid lineage differentiates into steroid-secreting Leydig cells in the testis or Theca cells in the ovary.\n\nWolffian (mesonephric) ducts are precursors of the male reproductive ducts system, while Müllerian (para-mesonephric) ducts are precursors of the female reproductive duct system. Under the influence of anti-Müllerian hormone (AMH) produced by Sertoli cells, the Müllerian ducts regress in males and result in the formation of the epididymis, vas deferens, and seminal vesicles. In the absence of AMH, the Müllerian duct forms the oviduct, uterus, and upper part of vagina. See Table 5.4.\n\n**Table 5.4** Stages of foetal sexual development\n\n| Stage of embryonic development | Characteristic |\n|---|---|\n| The undifferentiated stage | Development of gonadal and genital primordia (4th–6th week of embryonic development) |\n| Gonadal differentiation | Differentiation into testes or ovaries |\n| Sexual differentiation of internal and external genitalia | Wolffian (epididymis, vas deferens, seminal vesicle) and Müllerian (uterus, ovaries, part of vagina) derivatives based on presence or absence of androgens |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 5,
+    "stem_md": "Androgens have varied biological effects including differentiation of internal and external male genitilia (during foetal development), growth of external genitilia (during puberty), hair growth, and skeletal as well as muscle growth.\n\n**Which of the following androgens (or sex steroids) is associated with prostate gland growth?**",
+    "image": null,
+    "options": {
+      "A": "Androstenedione",
+      "B": "DHEA-S",
+      "C": "Dihydrotestosterone",
+      "D": "Oestradiol",
+      "E": "Testosterone"
+    },
+    "correct": "C",
+    "explanation_md": "Around 95% of circulating testosterone is produced in Leydig cells of the testes. Testosterone follows a circadian rhythm, with peak levels around early morning. It circulates in blood bound strongly to SHBG (60% of total testosterone) and weakly bound to albumin (30% of total testosterone). Intra-testicular testosterone concentrations are 60–100-fold higher than circulating concentrations. In contrast, dihydrotestosterone (DHT) is primarily derived from peripheral conversion of testosterone (enzyme 5α reductase mediates this conversion). Table 5.5 sums up the biological characteristics of various androgens in men.\n\n**Table 5.5** Biological characteristics of various androgens in men\n\n| Hormone | Testosterone (T) | Dihydrotestosterone | DHEA-S |\n|---|---|---|---|\n| **Source** | Leydig cells (95%) | 5α reductase-mediated peripheral conversion of T (80%) | Zona reticularis (adrenal cortex) |\n| **Potency** | Strong | Biologically more potent than T | Weak |\n| **Target tissue** | Muscle, bone, liver, internal and external genitalia, hair follicles | Mainly paracrine function: external genitalia, hair follicles, prostate | Mainly paracrine function |\n| **Biological role** | Spermatogenesis Musculoskeletal development Deepening of voice and libido Development of Wolffian duct structures | Prostate growth Male-pattern hair loss Hair growth (facial, body, pubic, and axillary) Development of external genitalia | Pubic and axillary hair growth (ambisexual hair) |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 6,
+    "stem_md": "The clinical manifestations of androgen deficiency depend upon the stage of life at which androgen levels are low or absent.\n\n**The presence of cryptorchidism is indicative of androgen deficiency in which of the following stages of foetal or neonatal life?**",
+    "image": null,
+    "options": {
+      "A": "First trimester",
+      "B": "Second trimester",
+      "C": "Third trimester",
+      "D": "Neonatal (up to 1 year old)",
+      "E": "1–3 years of age"
+    },
+    "correct": "C",
+    "explanation_md": "Table 5.6 sums up the clinical presentation of testosterone deficiency based on the age of onset of hypogonadism.\n\n**Table 5.6** Clinical manifestations of testosterone deficiency (based on age of onset)\n\n| Age (at onset of hypogonadism) | Clinical presentation |\n|---|---|\n| 2nd–3rd month of foetal life | Ambiguous genitalia |\n| 3rd trimester | Cryptorchidism, micropenis |\n| Pre-pubertal period | Long limbs, small penis, testicular volume <2 mm, high-pitched voice, lack of sexual hair growth |\n| Late adulthood (post puberty) | Reduced libido, erectile dysfunction, low energy levels, sweating |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 7,
+    "stem_md": "The pulsatile release of gonadotropin-releasing hormone (GnRH) from the hypothalamus controls secretion of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the anterior pituitary gland during human adult life. The FSH and LH in turn regulate gamete maturation (spermatogenesis and ovulation) and endocrine function (testosterone/oestrogen) under feedback control of hormones secreted from the gonads.\n\n**Which of the following hormones selectively inhibits FSH without effecting LH release?**",
+    "image": null,
+    "options": {
+      "A": "Androstenedione",
+      "B": "Dihydrotestosterone",
+      "C": "Inhibin B",
+      "D": "Oestradiol",
+      "E": "Testosterone"
+    },
+    "correct": "C",
+    "explanation_md": "Inhibin B is a 32-kDa glycoprotein secreted by Sertoli cells. It selectively inhibits FSH release from the anterior pituitary gland. Inhibin B levels correlate with the Sertoli cell number and are considered to be indirect markers of spermatogenesis.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 8,
+    "stem_md": "A 16-year-old girl was reviewed in the endocrine clinic with clinical features of primary amenorrhoea. She had normal growth with no delay in attaining developmental milestones. She had undergone an inguinal hernia repair as a child and had not suffered from any medical or eating disorders. On examination, she was systemically well, with normal breast development and sparse axillary and pubic hair.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 5.3 U/L | 1.4–18.1 |\n| LH | 4.0 U/L | 3.0–8.0 |\n| Prolactin | 425 mU/L | 45–375 |\n| Serum testosterone | 16 nmol/L | 0.6–1.9 |\n| IGF-1 | 30 nmol/L | 16–118 |\n\n**Which one of the following is the probable diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Adrenal or ovarian carcinoma",
+      "B": "Androgen insensitivity syndrome",
+      "C": "Exogenous anabolic steroid abuse",
+      "D": "Non-classic congenital adrenal hyperplasia",
+      "E": "Pituitary germinoma"
+    },
+    "correct": "B",
+    "explanation_md": "Androgen insensitivity syndrome (AIS) is a rare X-linked recessive condition, characterized by partial or complete resistance to androgens. The karyotype of patients with AIS is XY, with partial or complete failure of virilization resulting in female external genitalia and undescended testes often presenting as inguinal masses during childhood.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 9,
+    "stem_md": "**Which of the following is a correct statement regarding further management of this same 15-year old girl (see Question 8)?**",
+    "image": null,
+    "options": {
+      "A": "Genre analysis will help establish diagnosis",
+      "B": "Gonadectomy should be offered",
+      "C": "High dose testosterone therapy at puberty improves outcome",
+      "D": "Mullerian duct remnants may be recognised on ultrasound",
+      "E": "Oestrogen therapy is contraindicated"
+    },
+    "correct": "B",
+    "explanation_md": "The presence of secondary sexual characteristics of a female in the presence of elevated male-range testosterone levels is suggestive of a diagnosis of AIS. These individuals are usually raised as girls due to their phenotypic appearance and may have female external genitalia. The upper vagina, uterus, and fallopian tubes are characteristically absent. In some patients, the presence of inguinal masses at birth/neonatal period may lead to the subsequent identification of testes during an elective surgical procedure.\n\nA few patients may seek medical attention due to the primary amenorrhoea during the adolescent period of life. The testis may be palpable in the inguinal region and should be removed due to the associated high risk of malignancy. Hormone replacement therapy with oestrogens, along with psychological support, forms the mainstay of medical therapy.",
+    "review": "Follow-on question to Question 8. The stem refers to a '15-year old girl', whereas Question 8 describes a 16-year-old; preserved as printed."
+  },
+  {
+    "chapter": 5,
+    "number": 10,
+    "stem_md": "A 15-year-old girl was referred to the endocrine clinic by her primary care physician with features of primary amenorrhea. She had normal growth and no delay in attaining developmental milestones. Apart from a bicuspid aortic valve, for which she was under cardiology follow-up, she had no history of any significant medical disorder. On examination, she was 151 cm tall, with a lack of development of secondary sexual characteristics.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Oestradiol | 32 pmol/L | 77–1145 |\n| FSH | 46 U/L | 1.4–18.1 |\n| LH | 44.5 U/L | 3.0–8.0 |\n| Prolactin | 350 mU/L | 45–375 |\n| Testosterone | 1.2 nmol/L | 0.6–1.9 |\n| FT4 | 8.5 pmol/L | 11.5–22.7 |\n| TSH | 7.4 mU/L | 0.35–5.5 |\n\n**Which one of the following is the most likely diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Autoimmune hypothyroidism",
+      "B": "Kallmann syndrome",
+      "C": "Klinefelter’s syndrome",
+      "D": "Noonan syndrome",
+      "E": "Turner’s syndrome"
+    },
+    "correct": "E",
+    "explanation_md": "Turner’s syndrome is characterized by phenotypic features such as short stature, webbed neck (due to extra skin folds), lymphoedema of the hands/feet, and skeletal abnormalities. The patients may present with primary amenorrhoea or features of primary ovarian failure. The biochemistry is consistent with primary gonadal failure (low oestradiol with elevated LH and FSH levels). See Tables 5.7 and 5.8.\n\n**Table 5.7** Common abnormalities associated with Turner’s syndrome\n\n| Organ system | Features (frequency) | Recommendation |\n|---|---|---|\n| **Endocrine** | Growth failure (95–100%) Glucose intolerance (15–50%) Thyroiditis (15–30%) Delayed puberty | Early GH therapy (1.3–1.5 mg/m²/day, preferably before age 12–13 years) +/- oxandrolone (if diagnosis of Turner’s syndrome delayed) Annual HbA1c (age 10 years onwards) Annual TFT measurement Low-dose oestradiol therapy (preferably topical) with increase to adult dose over 2–3 years (start at age 11–12) |\n| **Musculoskeletal** | Delayed skeletal maturation (85%) Decreased bone density (50–80%) | Monitor 25-vitamin D levels (2–3-yearly) Monitor bone mineral density (5-yearly) |\n| **Cardiac** | Hypertension (50%) Bicuspid aortic valve (14–34%) Coarctation of aorta (7–14%) Aortic aneurysm/dilatation (3–42%) | Anti-hypertensive medication (preferably ACE inhibitor or β blockers) Baseline transthoracic echocardiography (TTE) & cardiac magnetic resonance imaging (MRI) |\n| **Renal** | Horseshoe kidneys (10%) Abnormal positioning of renal pelvis/ureter or vessels (15%) | Ultrasound of renal tract at baseline |\n| **Ears** | Middle ear infections (60%) Hearing defect (30%) | Audiometric evaluation (5-yearly) |\n| **Gastrointestinal** | Deranged hepatic enzymes (50–80%) Coeliac disease (8%) | Annual LFT monitoring Screening every 2 years (childhood) |\n| **Neurocognitive** | Emotional immaturity (40%) Non-verbal learning disorder (40%) | Neuropsychological support |\n\n**Table 5.8** Indications for chromosomal analysis to diagnose Turner’s syndrome\n\n| In presence of one of the following | In presence of two of the following |\n|---|---|\n| Foetal cystic hygroma | Renal anomaly |\n| Idiopathic short stature | Hearing defect <40 years and short stature |\n| Unexplained delayed puberty | Neuropsychological problems |\n| Obstructive left-sided congenital heart defect | Dysplastic nails |\n| Characteristic phenotype | Melanocytic naevi |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 11,
+    "stem_md": "**Which one of the following is the most appropriate next step in the management of this same 15-year-old girl?**",
+    "image": null,
+    "options": {
+      "A": "Arrange endoscopy at diagnosis",
+      "B": "Arrange ultrasound of the renal tract at diagnosis",
+      "C": "Formal audiology assessment at baseline and at 10-yearly intervals",
+      "D": "GH should be used after puberty",
+      "E": "Start bisphosphonate therapy to improve bone mineral density"
+    },
+    "correct": "B",
+    "explanation_md": "The clinical features of short stature, congenital heart disease, and primary amenorrhoea due to gonadal failure (elevated gonadotropins and low oestrogens) are suggestive of a diagnosis of Turner’s syndrome (Ullrich–Turner syndrome). Patients should undergo echocardiography and ultrasound at the time of diagnosis. Formal audiology assessments are recommended at age 1 year and at 5-yearly intervals due to associated sensorineural hearing loss. GH replacement may be used before puberty and may help to attain gain in linear height. Oestrogen replacement therapy is usually started around age 12–14 years.\n\nTable 5.9 shows the characteristic clinical features associated with this syndrome, and Table 5.10 shows the guidelines regarding the management of Turner’s syndrome, based on age.\n\n**Table 5.9** Clinical features which may be associated with Turner’s syndrome\n\n| Genotype | 46,X—50% 46,X/XX mosaicism—20% Abnormalities of the X chromosome, such as X fragments, iso-chromosomes, or rings—30% |\n|---|---|\n| Phenotype | Female Web neck, wide-spaced nipples Rarely, clitoral enlargement if there is translocation of fragments of the Y chromosome |\n| Cardiac defects | Bicuspid aortic valve, coarctation of aorta, hypertension |\n| Renal defects | Congenital renal malformations Recurrent infections Nephrocalcinosis |\n| Growth | Short stature |\n| Puberty | Delayed/non-progression |\n| Fertility | Infertility—ovum donation and IVF will be helpful in some cases |\n\n**Table 5.10** Guidelines regarding management of Turner’s syndrome based on age\n\n| At diagnosis | Echocardiography Ultrasound of abdomen and pelvis |\n|---|---|\n| 5-yearly | Audiology assessments |\n| Age >7 years | Start GH therapy and monitor response |\n| Age 12–14 years | Low-dose oestrogen therapy (preferably topical) Incremental increase to adult dose over 2–3 years Add progesterone when uterine bleeding Stop GH if: - rate of height gained is <2 cm/year - final height attained - growth velocity less than 50% gain from baseline than predicted |",
+    "review": "Follow-on question to Question 10. Tables 5.9 and 5.10 have no header row in the source; the first data row of each is used as the Markdown header row."
+  },
+  {
+    "chapter": 5,
+    "number": 12,
+    "stem_md": "A 15-year-old boy was referred to the endocrine clinic due to his short stature (155 cm) and delayed puberty. His sister had attained puberty at 12 years of age. His father and mother had a height of 172 cm and 165 cm, respectively. He had not suffered from any systemic illness or anosmia. On examination, he had sparse body and pubic hair, and his phallus size was small, with testes measuring 4 mL in size bilaterally.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 3.3 U/L | 1.4–18.1 |\n| LH | 4.0 U/L | 3.0–8.0 |\n| Testosterone | 5.8 nmol/L | 8–32 |\n| Prolactin | 425 mU/L | 45–375 |\n\n**Which one of the following is the probable diagnosis based on his clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Congenital GnRH deficiency",
+      "B": "Constitutional delay in puberty",
+      "C": "Kallmann syndrome",
+      "D": "Klinefelter’s syndrome",
+      "E": "Noonan syndrome"
+    },
+    "correct": "B",
+    "explanation_md": "The first sign of puberty in boys is usually an increase in the size and volume of the testes due to an FSH-stimulated increase on seminiferous tubular development. Pubic hair growth takes place because of adrenal and testicular androgen secretion. Constitutional delay (CD) is one of the commonest aetiologies, leading to short stature and delayed puberty in the adolescent age group. It should be considered if there is a lack of signs of puberty at age 13–15 and 14–16 years in girls and boys, respectively. There is usually a family history of CD. In most cases, it is not pathological and represents the extreme end of normal physiology. The growth and development of such individuals is appropriate for their skeletal age, rather than their chronological age.\n\nOur patient presented with a lack of pubertal development and delayed growth at age 15 years, raising the probability of CD. The differential diagnosis of hypogonadotrophic hypogonadism is in view of the low testosterone and inappropriately normal gonadotropin levels.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 13,
+    "stem_md": "**Which one of the following is the most appropriate next step in the management of this same 15-year-old boy?**",
+    "image": null,
+    "options": {
+      "A": "hCG injections",
+      "B": "Observation",
+      "C": "Pulsatile GnRH therapy",
+      "D": "Testosterone 100 mg IM every 2 weeks",
+      "E": "Testosterone 250 mg IM every 4 weeks"
+    },
+    "correct": "B",
+    "explanation_md": "The most probable diagnosis in this clinical scenario is CD. The immediate next step in management includes reassurance to the patient/patient’s family and observation. These individuals need to be monitored with frequent (3–6-monthly) growth measurements. Medical treatment is usually not required, although in patients displaying features of psychological stress, low-dose exogenous testosterone therapy (100 mg IM every 4 weeks for 4–6 months) may be used to stimulate the hypothalamic–pituitary–gonadal axis.",
+    "review": "Follow-on question to Question 12."
+  },
+  {
+    "chapter": 5,
+    "number": 14,
+    "stem_md": "An 18-year-old boy was referred to the endocrine clinic due to lack of libido and delayed puberty. His two elder brothers had attained puberty at 13 years and 14 years, respectively. On examination, he was 170 cm tall, with a lack of pubic, axillary, and body hair. His phallus size was 4 cm with a testis volume of 4.5 mL bilaterally. He had features of anosmia and synkinesis.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | <0.5 U/L | 1.4–18.1 |\n| LH | <0.5 U/L | 3.0–8.0 |\n| Prolactin | 158 mU/L | 45–375 |\n| Testosterone | 2.3 nmol/L | 8–32 |\n| FT4 | 17.1 pmol/L | 11.5–22.7 |\n| TSH | 3.8 mU/L | 0.35–5.5 |\n\n**Which one of the following proteins is defective in this condition?**",
+    "image": null,
+    "options": {
+      "A": "Ankyrin",
+      "B": "Anosmin",
+      "C": "Fibronectin",
+      "D": "Hyposmin",
+      "E": "Spectrin"
+    },
+    "correct": "B",
+    "explanation_md": "The biochemical profile of hypogonadotrophic hypogonadism (low testosterone and low FSH and LH levels), with the presence of clinical features of anosmia/hyposmia, is suggestive of a diagnosis of Kallmann syndrome in this young individual. It is an X-linked disorder, characterized by mutations in the *KAL1* gene, which encodes anosmin, a protein that mediates the migration of neural progenitors of the olfactory bulb and GnRH-producing neurons.\n\nThe presence of micropenis, cryptorchidism, anosmia or cleft palate should altert a clinician towards possible underling diagnosis of congential hypogonadotrophic hypogonadism in young adults presenting with delayed (or absent) puberty.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 15,
+    "stem_md": "**Which of the following gene mutation is associated with development of cleft palate and split hand-foot malformation along with hypogonadotrophic hypogonadism?**",
+    "image": null,
+    "options": {
+      "A": "FGFR1",
+      "B": "GPR54",
+      "C": "KAL1",
+      "D": "NELF",
+      "E": "PROK2"
+    },
+    "correct": "A",
+    "explanation_md": "Hypogonadotrophic hypogonadism and anosmia may be associated with mutations of the *KAL1*, *FGFR1*, *NELF*, and *PROK2* genes. Autosomal recessive mutations in the G protein-coupled receptor gene (*GPR54*) cause gonadotropin deficiency without anosmia (see **Table 5.11**).\n\n**Table 5.11** Genetic mutations associated with hypogonadotrophic hypogonadism\n\n| Gene defect | Clinical features |\n|---|---|\n| *FGFR1* | Autosomal dominant Anosmia, cleft lip/palate, synkinesis, syndactyly |\n| *NELF* and *PROK2* | Autosomal recessive Anosmia |\n| *GPR54* | Autosomal recessive |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 16,
+    "stem_md": "A 19-year-old boy was referred to the endocrine clinic due to delayed puberty and a lack of secondary sexual characteristic development. He had no history of systemic illness or delayed attainment of developmental milestones. He had a previous history of surgery for a cleft palate. There was no family history of a constitutional delay in growth. On examination, he was 168 cm tall, with an absence of facial and body hair. His phallus size was 2 cm, with a testis volume of 4.0 mL. A diagnosis of hypogonadotropic hypogonadism due to idiopathic or genetic mutation was considered and genetic analysis was arranged.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | <0.5 U/L | 1.4–18.1 |\n| LH | <0.5 U/L | 3.0–8.0 |\n| Prolactin | 302 mU/L | 45–375 |\n| Testosterone | 1.5 nmol/L | 8–32 |\n\n**Which one of the following is the most appropriate management approach if he desires a family in the near future?**",
+    "image": null,
+    "options": {
+      "A": "Clomiphene citrate",
+      "B": "hCG + FSH",
+      "C": "Intra-cytoplasmic sperm injection",
+      "D": "Intra-uterine insemination",
+      "E": "Testosterone replacement"
+    },
+    "correct": "B",
+    "explanation_md": "Combinted gonadotrophin (hCG + FSH) therapy is preferred for restoration of fertility in young men presenting with congenital hypogonadotrophic hypogonadism (CHH). hCG (3000-5000 IU in 2 or 3 divided doses per week) combined with FSH (75-150 IU two or 3 times a week) can be used with 3-monthly monitoring of testosterone, oestrogen, haematocrit and sperm count for dose titration. Milder presentation (near adult size testes), can be managed with hCG therapy alone. FSH priming for 2–4 months should be considered in patients presenting with severe CHH (testicular volume, 4 mL) to promote growth of sertoli cells and seminiferous tubules prior to adding hCG.",
+    "review": "Explanation reads 'testicular volume, 4 mL' as printed; a '<' may be missing in the source."
+  },
+  {
+    "chapter": 5,
+    "number": 17,
+    "stem_md": "A diagnosis of hypogonadotrophic hypogonadism due to FGFR1 mutation was confirmed for this same 19-year-old boy, and he was started on hCG therapy.\n\n**Which one of the following is a predictor of treatment success with hCG therapy?**",
+    "image": null,
+    "options": {
+      "A": "Absence of sexual maturation",
+      "B": "Higher baseline testicular volume",
+      "C": "Higher pre-therapy LH and FSH levels",
+      "D": "History of cryptorchidism",
+      "E": "Previous testosterone replacement therapy"
+    },
+    "correct": "B",
+    "explanation_md": "The following are considered predictors of therapeutic success with hCG therapy:\n\n- A higher baseline testicular volume\n- No history of previous testosterone replacement therapy\n\nPre-therapy FSH, LH, and testosterone levels are not considered to be predictors of therapeutic success with hCG therapy.",
+    "review": "Follow-on question to Question 16."
+  },
+  {
+    "chapter": 5,
+    "number": 18,
+    "stem_md": "A 42-year-old man presented to the endocrine clinic with a gradual decrease in libido and erectile dysfunction. He had a background history of Type 2 diabetes and dyslipidaemia, and was on metformin, GLP-1 analogues, and atorvastatin therapy. On examination, he had a BMI of 35 kg/m², with central obesity.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 1.5 U/L | 1.4–18.1 |\n| LH | 3.2 U/L | 3.0–8.0 |\n| Testosterone | 5.8 nmol/L | 8–32 |\n\n**Which of the following are not associated with hypogonadotrophic hypogonadism?**",
+    "image": null,
+    "options": {
+      "A": "Cushing’s disease",
+      "B": "Haemochromatosis",
+      "C": "Hyperprolactinaemia",
+      "D": "Kallmann syndrome",
+      "E": "Klinefelter’s syndrome"
+    },
+    "correct": "E",
+    "explanation_md": "The most common aetiologies leading to hypogonadotrophic hypogonadism in clinical practice include eating disorders such as anorexia nervosa, excessive exercise (e.g. athletes training for long-distance running), increased BMI/morbid obesity, use of anabolic steroids, and genetic disorders such as Kallmann syndrome. See Table 5.12.\n\n**Table 5.12** Aetiologies related with hypogonadotrophic hypogonadism\n\n| Genetic causes | Endocrine conditions | Miscellaneous causes | Eating disorder |\n|---|---|---|---|\n| Kallmann syndrome | Hyperprolactinaemia | Haemochromatosis | Increased BMI |\n| Idiopathic | Cushing’s disease | Anabolic steroids | Anorexia nervosa |\n| Prader–Willi syndrome | Pituitary lesion/irradiation/surgery | Alcohol/opioids |  |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 19,
+    "stem_md": "A 24-year-old professional rugby player was referred to the endocrine clinic with features of a lack of libido and erectile dysfunction. He had no history of systemic illness or weight loss. He denied the use of anabolic steroids or recreational drugs. On examination, he had a muscular build and a BMI of 28 kg/m². He had normal secondary sexual characteristics, with no anosmia.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 1.2 U/L | 1.4–18.1 |\n| LH | 2.5 U/L | 3.0–8.0 |\n| Testosterone | 4.0 nmol/L | 8–32 |\n\n**Which one of the following clinical features is indicative of the origin of hypogonadism in the pre-pubertal age group?**",
+    "image": null,
+    "options": {
+      "A": "Infertility",
+      "B": "Gynaecomastia",
+      "C": "Low libido",
+      "D": "Testes volume <4 cm³",
+      "E": "Thinning of facial and axillary hair"
+    },
+    "correct": "D",
+    "explanation_md": "Gynaecomastia, infertility, and low libido may be seen in patients with testosterone deficiency in the pre-pubertal, as well as post-pubertal period (see Table 5.13).\n\n**Table 5.13** Effect of testosterone deficiency in pre-and post-pubertal age groups\n\n|  | Pre-pubertal | Post-pubertal |\n|---|---|---|\n| Stature | Eunuchoidal | Normal |\n| Testes | Small (usually <4 cm³) | Normal/slightly low (>10 cm³) |\n| Penis | Small (<5 cm) | Normal size |\n| Hair growth | Scanty facial and axillary hair | Thinning of facial and axillary hair |\n| Voice | High-pitched | Normal |\n| Prostate | Small | Normal size |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 20,
+    "stem_md": "High-amplitude pulses of GnRH are believed to play a key role in the onset of puberty in both sexes.\n\n**Which of the following stages of puberty are not under the influence of GnRH?**",
+    "image": null,
+    "options": {
+      "A": "Growth spurt",
+      "B": "Menarche",
+      "C": "Pubarche",
+      "D": "Thelarche",
+      "E": "None of the above"
+    },
+    "correct": "C",
+    "explanation_md": "In girls, the various stages of puberty include thelarche (breast development), puberache (pubic hair development), and menarche (onset of menstrual cycles). Pubarche is not under the influence of GnRH",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 21,
+    "stem_md": "A 24-year-old woman presented to the endocrine clinic having had secondary amenorrhoea for the previous 18 months. She had experienced night sweats, hot flushes, and pain while having sexual intercourse over the previous 6 months. She had a background history of pernicious anaemia and Type 1 diabetes. On examination, she had a height of 171 cm, with a BMI of 22 kg/m². She had no features of proximal myopathy or stria.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Oestradiol | 32 pmol/L | 77–1145 |\n| FSH | 29 U/L | 1.4–18.1 |\n| LH | 25.1 U/L | 3.0–8.0 |\n| Prolactin | 302 mU/L | 45–375 |\n| Testosterone | 1.1 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the probable diagnosis based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Kallmann syndrome",
+      "B": "Noonan syndrome",
+      "C": "Polycystic ovarian disease",
+      "D": "Premature ovarian failure",
+      "E": "Turner’s syndrome"
+    },
+    "correct": "D",
+    "explanation_md": "Premature ovarian failure is characterized by signs and symptoms of oestrogen deficiency, such as hot flushes, painful intercourse, and dry vagina, with biochemical features of primary hypogonadism (low oestradiol and elevated FSH/LH). It can be autoimmune, genetic (e.g. Turner syndrome, Fragile X gene), iatrogenic (post-irradiation or post-chemotherapy), or idiopathic. The treatment is with combined oestorgen and progesterone replacement therapy. Patients are usually infertile and require assisted fertilization. Patients with suspected autoimmune ovarian failure should be screened for adrenal insufficiency and thyroid dysfunction.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 22,
+    "stem_md": "A 22-year-old woman was referred to the endocrine clinic with a 3-month history of amenorrhoea and elevated prolactin levels. She also complained of headache, fatigue, and non-specific abdominal pain. She had a background medical history of depression and had been on citalopram tablets. On examination, she had a BMI of 26 kg/m², with facial puffiness and central obesity. Her visual fields were normal on confrontation.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Oestradiol | 1488 pmol/L | 77–1145 |\n| FSH | 2.5 U/L | 1.4–18.1 |\n| LH | 3.2 U/L | 3.0–8.0 |\n| Prolactin | 1505 mU/L | 45–375 |\n| Testosterone | 3.1 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the most appropriate next investigation in her clinical scenario?**",
+    "image": null,
+    "options": {
+      "A": "Domeperidone test",
+      "B": "MRI of the pituitary",
+      "C": "Short synacthen test",
+      "D": "Urinary free cortisol measurement",
+      "E": "Urine for pregnancy test"
+    },
+    "correct": "E",
+    "explanation_md": "Pregnancy is associated with the following hormone changes:\n\n- Increase in oestradiol and oestriol levels\n- Reduced LH and FSH levels\n- Increase in testosterone levels while DHEA levels fall\n- Increase in hCG and human placental lactogen (hPL)\n- GH and ACTH remain unchanged, TSH levels reach nadir during the first trimester\n- Progesterone levels increase and 17-hydroxy-progesterone peaks around week 5\n- Cortisol levels increase\n- Total T4 and T3 levels increase during the first trimester, FT3 and FT4 remain unchanged",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 23,
+    "stem_md": "A 28-year-old female company executive was referred to the endocrine clinic by her GP, having had secondary amenorrhoea for the previous 18 months. She had a busy lifestyle, and did regular aerobic exercise and long-distance running. On examination, she had a BMI of 18 kg/m², with normal secondary sexual characteristics and no features of hirsutism.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Oestradiol | 24 pmol/L | 77–1145 |\n| FSH | 1.8 U/L | 1.4–18.1 |\n| LH | 4.5 U/L | 3.0–8.0 |\n| Prolactin | 220 mU/L | 45–375 |\n| Testosterone | 1.6 nmol/L | 0.6–1.9 |\n| Urine for pregnancy test | Negative |  |\n\n**Which one of the following is a feature associated with her underlying condition?**",
+    "image": null,
+    "options": {
+      "A": "Increased Ghrelin levels",
+      "B": "Increased IGF1 levels",
+      "C": "Increased Leptin levels",
+      "D": "Reduced Cortisol levels",
+      "E": "Reduced Vasopressin levels"
+    },
+    "correct": "A",
+    "explanation_md": "The combination of low BMI and secondary amenorrhea of more than 6 months’ duration is suggestive of a diagnosis of functional hypothalamic amenorrhoea (FHA). It is often seen in association with a stressful occupation, extreme physical exercise, and eating disorders. FHA is associated with a decrease in IGF1, Thyroid hormones (specially FT3) and Leptin levels. In contrast, ACTH, cortisol, vasopressin and Ghrelin levels increase. Progestin challenge test (Medroxyprogesterone acetate 5–10 mg/day for 5 days) shows absence of withdrawal bleeding (suggestive of lack of endometrial estrogen explosure). The combined oral contraceptive pills should be offered to negate the effect of low oestrogen in patients who do not respond to treatment of underlying aetiology.\n\nEndometrial carcinoma may be seen in patients with an unopposed oestrogen effect on the endometrium, rather than in patients with hypogonadotrophic hypogonadism.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 24,
+    "stem_md": "A 17-year-old girl was referred to the endocrine clinic with features of menstrual irregularity, and increased facial and body hair. She had attained menarche at the age of 13 years and had normal secondary sexual characteristic development. She was in a stable relationship and was using a barrier method of contraception. On examination, she had a BMI of 32 kg/m², with increased facial and body hair. There were no clinical features of proximal myopathy or easy bruisability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| Oestradiol | 115 pmol/L | 77–1145 |\n| FSH | 3.2 U/L | 1.4–18.1 |\n| LH | 9.1 U/L | 3.0–8.0 |\n| Prolactin | 355 mU/L | 45–375 |\n| Testosterone | 2.2 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the most appropriate management option for her menstrual irregularity?**",
+    "image": null,
+    "options": {
+      "A": "Cyproterone acetate",
+      "B": "Eflornithine",
+      "C": "Metformin",
+      "D": "Oral contraceptive pills",
+      "E": "Spiranolactone"
+    },
+    "correct": "D",
+    "explanation_md": "The combination of irregular periods and clinical and biochemical hyper-androgenism is suggestive of a diagnosis of PCOS. Oral contraceptive pills (OCP) with ethinyl oestradiol (30–35µg) and low-dose progesterone is the first-line treatment for menstrual irregularities. The aim is to regularize her periods and reduce androgen excess. The oestrogens lead to an increase in SHBG levels, resulting in a reduction of free testosterone levels. Reduction in androgen levels will result in reducing the thickness of facial/body hair. In women who fail to respond to the OCPs and have moderate to severe hirsutism, anti-androgen therapy, such as cyproterone acetate or spironolactone, can be used. Eflornithine is a topical agent used for mild hirsutism and has no impact on the menstrual irregularity. It is an ornithine decarboxylase enzyme inhibitor, which coverts ornithine to putrescine, which helps in cell division of hair follicles.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 25,
+    "stem_md": "A 25-year-old woman had been on Depo Provera® (depot medroxy progesterone, DMPA) for contraception over the previous 2 years. She was a non-smoker with no significant past medical history.\n\n**Which of the following statements regarding the use of DMPA are not true?**",
+    "image": null,
+    "options": {
+      "A": "Associated intermittent bleeds and weight gain",
+      "B": "Associated mild increase in thrombosis risk",
+      "C": "Associated reversible bone density",
+      "D": "Ensures good long-term efficacy and compliance",
+      "E": "Fertility may be delayed by up to 12 months on cessation of DMPA"
+    },
+    "correct": "D",
+    "explanation_md": "DMPA is a progestin-only preparation, which is used once every 3 months as a deep IM preparation.\n\nIndications:\n\n- At least 1 year of birth spacing desired\n- Highly effective long-acting contraception not linked to coitus\n- Coitally independent method desired\n- Need for oestrogen-free contraception\n- Breastfeeding\n- Sickle cell disease\n- Seizure disorder\n\nContraindications:\n\nAbsolute\n\n- Pregnancy\n- Unexplained genital bleeding\n- Severe coagulation disorders\n- Previous sex steroid-induced liver adenoma\n\nRelative\n\n- Liver disease\n- Severe cardiovascular disease\n- Rapid return to fertility desired\n- Difficulty with injections\n- Severe depression\n\nCompliance is usually poor: 25% withdraw after 1 year, 50% after 2 years, and up to 80% after 3 years.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 26,
+    "stem_md": "A 45-year-old woman presented to the medical clinic with symptoms of mood swings, menstrual irregularities, and hot flushes for the previous 6 months. Her body weight had been stable and there had been no alteration in bowel habits.\n\n**Which one of the following hormone profiles is consistent with a peri-menopausal state?**",
+    "image": null,
+    "options": {
+      "A": "High inhibin",
+      "B": "High LH",
+      "C": "Low FSH",
+      "D": "Low oestradiol",
+      "E": "Low progesterone"
+    },
+    "correct": "B",
+    "explanation_md": "This woman is in the climacteric stage, which is also known as the peri-menopausal state. The inhibin levels start to decline after 30 years of age and this process contributes to a progressive increase in levels of FSH. The exposure of follicular cells to high FSH concentrations leads to raised oestradiol levels during this period. Oestradiol levels start to fall about a year before the menopause. The peri-menopausal period is generally considered an ideal time to educate women regarding the impending menopause, and to evaluate the risks and benefits of long-term hormone replacement therapy (HRT).",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 27,
+    "stem_md": "A couple in their early thirties were reviewed in the infertility clinic. They had been married for 5 years and the wife had failed to conceive, despite unprotected intercourse for the previous 18 months. On examination, the husband had a BMI of 23 kg/m², with normal secondary sexual characteristics and a testes volume >10 cm³\n\n**What percentage of infertility is believed to be due to male-partner related factors?**",
+    "image": null,
+    "options": {
+      "A": "<5%",
+      "B": "10–15%",
+      "C": "20–25%",
+      "D": "40–45%",
+      "E": ">50%"
+    },
+    "correct": "D",
+    "explanation_md": "Male infertility may be due to:\n\n- Being idiopathic: 50%\n- Seminiferous tubule dysgenesis (Klinefelter’s syndrome): 20%\n- Genital tract obstruction\n- Hypogonadotrophic hypogonadism (pituitary adenoma, Kallmann syndrome)\n- Varicocele: 15–30%\n- Miscellaneous (anti-sperm antibodies, drugs, trauma, mumps orchitis)\n\nCauses of primary gonadal failure include:\n\n- Klinefelter’s syndrome\n- Mumps orchitis\n- Trauma\n- Iatrogenic (post-irradiation)\n- Haemochromatosis",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 28,
+    "stem_md": "A 25-year-old man was referred to the endocrine clinic with symptoms of erectile dysfunction. He had been in a stable relationship for the previous 18 months and had noticed a low sexual drive. On examination, he was 187cm tall, with a BMI of 21 kg/m². He had sparse facial and body hair, with gynaecomastia. His testes were small in volume and firm in consistency on palpation.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 30.5 U/L | 1.4–18.1 |\n| LH | 35.1 U/L | 3.0–8.0 |\n| Prolactin | 210 mU/L | 45–375 |\n| Testosterone | 1.7 nmol/L | 8–32 |\n\n**Which one of the following is usually the most appropriate management approach in a case such as this?**",
+    "image": null,
+    "options": {
+      "A": "β-hCG therapy",
+      "B": "GnRH analogues",
+      "C": "Octeroetide",
+      "D": "Sildenafil (prn use)",
+      "E": "Testosterone replacement"
+    },
+    "correct": "E",
+    "explanation_md": "Testosterone replacement therapy forms the cornerstone of the management of patients with Klinefelter’s syndrome. It normally should be started during puberty and the dose increased gradually to maintain age-specific testosterone and LH levels.\n\nFertility related issues should be discussed prior to initiation of testosterone therapy. Patients should undergo semen analysis and cryopreservation (if fertility is desired). In men with azoospermia desiring paternity, testicular biopsy for testicular sperm extraction (TESE) should be considered and testosterone therapy should be deferred (due to possible suppression of gonadotrohins by exogenous testosterone).",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 29,
+    "stem_md": "**Which of the following condition may be seen more commonly in this same patient?**",
+    "image": null,
+    "options": {
+      "A": "Ankylosing spondylitis",
+      "B": "Deep venous thrombosis",
+      "C": "Hodgkin’s Lymphoma",
+      "D": "Testicular tumour (Germ cell)",
+      "E": "Type 1 DM"
+    },
+    "correct": "B",
+    "explanation_md": "Tall stature with gynaecomastia and small firm testicles, in combination with the biochemistry suggestive of primary testicular failure, are features of Klinefelter’s syndrome. It is a common condition seen in 1–2/1000 males although 50–75% of such men might remain undiagnosed due to phenotypic variability. The abnormality is an extra X chromosome, and polysomy of the X chromosome can occur. The greater the number of X chromosomes, the higher the somatic and psychological dysfunction. The seminiferous tubules undergo extensive fibrosis and hyalinization in an accelerated phase in puberty, leading to low testosterone and an androgen-deficient state. In the absence of the feedback to gonadotropins, FSH and LH are significantly elevated. There is an increased risk of breast carcinoma, aortic valvular disease, mitral valve prolapse (in 50%), bronchitis, emphysema, osteoporosis, venous thrombosis, and berry aneurysm with this condition.",
+    "review": "Follow-on question to Question 28."
+  },
+  {
+    "chapter": 5,
+    "number": 30,
+    "stem_md": "A 25-year-old man was referred to the endocrine clinic for further evaluation of his symptoms of low libido and fatigue. He had no history of any previous medical disorder, except for a bout of severe mumps at 17 years of age. On examination, he was 174 cm tall, with a BMI of 22 kg/m². He had bilateral gynaecomastia and scanty body hair, with a testicular volume of 4 mL3. He was keen to assess his fertility status.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 30.9 U/L | 1.4–18.1 |\n| LH | 35.7 U/L | 3.0–8.0 |\n| Prolactin | 154 mU/L | 45–375 |\n| Testosterone | 1.5 nmol/L | 8.4–28.7 |\n\n**Which one of the following is the most suitable approach for the management of his infertility?**",
+    "image": null,
+    "options": {
+      "A": "β-hCG",
+      "B": "FSH",
+      "C": "In vitro fertilization",
+      "D": "Octreotide",
+      "E": "Testosterone replacement"
+    },
+    "correct": "C",
+    "explanation_md": "This patient has clinical and biochemical features consistent with primary gonadal failure probably secondary to mumps orchitis. He will require testosterone replacement therapy for symptomatic improvement and to prevent osteoporosis. The management of infertility in primary hypogonadism usually requires in vitro fertilization (IVF) or intra-cytoplasmic sperm injection (ICSI).",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 31,
+    "stem_md": "A 26-year-old woman was referred to the endocrine clinic for further evaluation of her symptoms of menstrual irregularity, acne, and excessive facial hair growth. On examination, she had a BMI of 30 kg/m², with no features of Cushing’s syndrome. Her biochemical investigations and pelvic ultrasound results were consistent with a diagnosis of polycystic ovarian syndrome (PCOS).\n\n**Which one of the following investigations can be used to assess her ovulatory function?**",
+    "image": null,
+    "options": {
+      "A": "Follicular estradiol",
+      "B": "Follicular 17-hydroxy progesterone",
+      "C": "Mid-luteal 17-hydroxy progesterone",
+      "D": "Mid-luteal progesterone",
+      "E": "Mid-luteal oestradiol"
+    },
+    "correct": "D",
+    "explanation_md": "The luteal phase of the menstrual cycle is characterized by LH and FSH from the pituitary gland causing the transformation of the remaining part of the dominant follicle to corpus luteum, which secretes progesterone. See Table 5.14.\n\n**Table 5.14** Physiological changes during menstrual cycle\n\n|  | Follicular phase (days 1–12) | Ovulation (days 13–15) | Luteal phase (days 15–28) |\n|---|---|---|---|\n| Anterior pituitary | FSH>LH | LH surge | Gradual fall in LH and an increase in FSH levels |\n| Ovary | High oestradiol as follicles mature | Ovulation | Corpus luteum formation Progesterone increase |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 32,
+    "stem_md": "A 35-year-old woman was referred to the endocrine clinic with a 6-week history of rapidly growing facial and body hair. She had also developed secondary amenorrhoea over the previous 3 months. On examination, she had a BMI of 25 kg/m², with features of excessive hair growth involving the face, upper back, lower abdomen, and legs (Ferriman–Gallway score of 16).\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 3.5 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 8.8 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 120 pmol/L | follicular 17–260, luteal 180–1100 |\n| Prolactin | 145 mU/L | 60–560 |\n| Testosterone | 12.5 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the most appropriate investigation based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "CT of the abdomen and pelvis",
+      "B": "Genetic counselling",
+      "C": "Karyotype analysis",
+      "D": "MRI of the pituitary",
+      "E": "Octreotide scan"
+    },
+    "correct": "A",
+    "explanation_md": "An androgen-secreting tumour should be suspected in the presence of any of the following clinical features:\n\n- Rapidly progressive hirsutism\n- Very high androgen levels\n- Adrenal mass >4 cm in size\n\nA CT scan of the abdomen and pelvis should be organized to rule out the presence of any ovarian/adrenal mass.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 33,
+    "stem_md": "A 26-year-old woman was referred to the endocrine clinic for evaluation and management of her long-standing excessive facial hair growth. She had no history of galactorrhoea, menstrual disturbance headaches, or weight gain. She was on long-term anti-epileptics for idiopathic epilepsy. On examination, she had a BMI of 28 kg/m², with no features of proximal myopathy or easy bruisability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 4.5 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 4.8 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 163 pmol/L | follicular 17–260, luteal 180–1100 |\n| Prolactin | 280 mU/L | 60–560 |\n| Testosterone | 1.4 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the most likely aetiology for her hirsutism, based on her clinical profile?**",
+    "image": null,
+    "options": {
+      "A": "Iatrogenic",
+      "B": "Idiopathic",
+      "C": "Non-classic congenital adrenal hyperplasia",
+      "D": "Polycystic ovarian disease",
+      "E": "Pregnancy"
+    },
+    "correct": "A",
+    "explanation_md": "Drugs that can potentially lead to hirsutism include:\n\n- Phenytoin\n- Androgens\n- Cyclosporine\n- Danazol\n- Minoxidil",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 34,
+    "stem_md": "A 25-year-old woman was referred to the endocrine clinic with a history of menstrual irregularities and excessive hair growth on her face. On examination, she had a BMI of 32 kg/m², with no clinical features of proximal myopathy or easy bruisability.\n\n**Which one of the following blood results is consistent with a diagnosis of polycystic ovarian disease?**",
+    "image": null,
+    "options": {
+      "A": "Low 17-hydroxy progesterone levels",
+      "B": "Low prolactin levels",
+      "C": "Raised FSH levels",
+      "D": "Raised SHBG levels",
+      "E": "Raised testosterone levels"
+    },
+    "correct": "E",
+    "explanation_md": "Biochemical changes that may be seen in patients with PCOS include:\n\n- Reversal of FSH to LH ratio\n- Low SHBG levels\n- Raised free testosterone levels\n- Raised androstenedione and DHEA-S levels",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 35,
+    "stem_md": "A 35-year-old woman was reviewed in the endocrine clinic for her symptoms of excessive facial and body hair growth. She had had menarche at age 13 years and had suffered from dysmenorrhoea for the previous two decades, for which she had been on oral contraceptive pills. She was in a steady relationship and was not keen to start a family. On examination, she had a BMI of 32 kg/m². There were no features of proximal myopathy or easy bruisability. Ultrasound of the pelvis showed the presence of multiple ovarian cysts.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 9.5 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 15.1 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 105 pmol/L | follicular 17–260, luteal 180–1100 |\n| Prolactin | 220 mU/L | 60–560 |\n| Testosterone | 2.2 nmol/L | 0.6–1.9 |\n\n**Which one of the following is the most appropriate therapeutic approach to manage her hirsutism?**",
+    "image": null,
+    "options": {
+      "A": "Clomiphene",
+      "B": "Ethinyl oestradiol",
+      "C": "Metformin",
+      "D": "Observation",
+      "E": "Spironolactone"
+    },
+    "correct": "E",
+    "explanation_md": "Oral contraceptive pills remain the initial treatment of choice for majority of women with patient-important hirsutism who are not seeking fertility. All oral contraceptive pills appear to be equally effective for hirsutism (no particular advantage of using oral contraceptive containing anti-androgen such as cyproterone acetate).\n\nAnti-androgens, such as spironolactone and finasteride, can be used for the management of hirsutism that is not responding to mechanical measures (waxing, shaving etc.) and oral contraceptive therapy in patients with PCOS. These agents are generally avoided in patients desiring fertility due to their potential teratogenic side effects.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 36,
+    "stem_md": "A 52-year-old man with Klinefelter’s syndrome was reviewed in the endocrine clinic at a routine follow-up visit. He complained of symptoms of feeling generally unwell, back pain, and weight loss. He had been on testosterone replacement therapy since his early teenage years.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 22.5 U/L | 1.4–18.1 |\n| LH | 30.1 U/L | 3.0–8.0 |\n| Prolactin | 350 mU/L | 45–375 |\n| Testosterone | 7.4 nmol/L | 8.4–28.7 |\n| Corrected calcium | 2.9 mmol/L | 2.4–2.62 |\n\n**Which one of the following is the most appropriate next step in his management?**",
+    "image": null,
+    "options": {
+      "A": "Bone scan",
+      "B": "Breast examination",
+      "C": "CT of the abdomen and pelvis",
+      "D": "Digital examination of the prostate",
+      "E": "Myeloma screen"
+    },
+    "correct": "B",
+    "explanation_md": "Patients with Klinefelter’s syndrome are at an increased risk of breast cancer, non-Hodgkin’s lymphoma, and lung cancer. Periodic breast examination and mammography for breast cancer surveillance is recommended for men with Klinefelter’s syndrome.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 37,
+    "stem_md": "A 25-year-old professional bodybuilder was referred to the endocrine clinic with erectile dysfunction. He admitted to having used anabolic steroids and testosterone to help build his muscle mass, although he had stopped using these 6 weeks previously. He had reached puberty at 13 years of age and had had a normal libido until about 1 year before. On examination, he had a BMI of 27 kg/m², with a muscular build. He had normal secondary sexual characteristics and no features of anosmia.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | <0.5 U/L | 1.4–18.1 |\n| LH | <0.5 U/L | 3.0–8.0 |\n| Prolactin | 550 mU/L | 45–375 |\n| Testosterone | 3.5 nmol/L | 8.4–28.7 |\n\n**Which one of the following is the most appropriate management approach in his case?**",
+    "image": null,
+    "options": {
+      "A": "β-hCG therapy",
+      "B": "MRI of the pituitary",
+      "C": "Repeat hormone profile in 12 weeks",
+      "D": "Phosphodiesterase 5 inhibitors",
+      "E": "Testosterone therapy"
+    },
+    "correct": "C",
+    "explanation_md": "Long-term androgens and anabolic steroids for bodybuilding and to enhance athletic performance can potentially suppress the endogenous pituitary–gonadal axis. These individuals may present with erectile dysfunction and loss of libido, with biochemical features of hypogonadotrophic hypogonadism. The key step is to stop the use of these performance-enhancing drugs and repeat the biochemical profile in few weeks or months, although the recovery of the pituitary–gonadal axis may take months. Other potential side effects of these agents include raised LDL-cholesterol levels, deranged liver function test, hepatic neoplasm, and breast tenderness/swelling.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 38,
+    "stem_md": "A 21-year-old woman, of Mexican origin, was referred to the endocrine clinic with a 3-year history of excessive body hair growth and menstrual irregularities. On examination, she had excessive hair covering below the lower lip, chin, lower abdomen, and arms.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 5.5 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 7.8 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 62 pmol/L | follicular 17–260, luteal 180–1100 |\n| Testosterone | 0.3 nmol/L | <0.5 |\n| 17-OH progesterone | 12.5 nmol/L | 1–5 |\n\n**Which one of the following is the most appropriate investigation to confirm the diagnosis?**",
+    "image": null,
+    "options": {
+      "A": "CT of the adrenals",
+      "B": "Karyotype analysis",
+      "C": "MRI of the pituitary",
+      "D": "Short synacthen test (measurement of 17-OH progesterone)",
+      "E": "Ultrasound of the ovaries"
+    },
+    "correct": "D",
+    "explanation_md": "NCCAH should be considered as a differential diagnosis in women labelled as having PCOS who present with features of hirsutism, acne, and menstrual irregularities. A random measurement of 17-hydroxy progesterone (17-OHP) levels may be within the normal range in patients with NCCAH. A short synacthen test, with measurement of 17-OHP, is considered the gold standard for the diagnosis of NCCAH.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 39,
+    "stem_md": "**Which one of the following is the most appropriate therapeutic management approach for this same 21-year-old woman?**",
+    "image": null,
+    "options": {
+      "A": "Clomiphene",
+      "B": "Fludrocortisone",
+      "C": "Metformin",
+      "D": "Prednisolone",
+      "E": "Spironolactone"
+    },
+    "correct": "D",
+    "explanation_md": "Non-classic CAH is an important differential diagnosis to be considered in women presenting with features suggestive of PCOS such as menstrual irregularities and hyperandrogenism (acne, hirsutism). It is caused by a deficiency of the 21-hydroxylase enzyme leading to inadequate cortisol and aldosterone production. This results in precursors such as 17-OHP being diverted to androgen-producing pathways, leading to hyperandrogenism. The 17-OHP levels of 5–15 nmol/L are associated with non-classic CAH. On stimulation with ACTH, a rise in 17-OHP levels to over 30–45 nmol/L is suggestive of the diagnosis of non-classic CAH. The management of this condition involves prednisolone (2.5–5 mg/day) for menstrual irregularities and anti-androgens, such as cyproterone acetate, for hirsutism and acne.",
+    "review": "Follow-on question to Question 38."
+  },
+  {
+    "chapter": 5,
+    "number": 40,
+    "stem_md": "A 26-year-old lady with congenital adrenal hyperplasia (CAH) was reviewed in the endocrine clinic on a routine follow-up visit. She was 8 weeks pregnant, and complained of nausea and morning sickness. She was taking Prednisolone (5 mg once a day) and Fludrocortisone (100 ug once a day). She had a 5-year old daughter with classic salt wasting CAH.\n\n**Which one of the following is the most appropriate immediate management approach?**",
+    "image": null,
+    "options": {
+      "A": "Continue Prednisolone and Fludrocortisone",
+      "B": "Continue Prednisolone, stop Fludrocortisone",
+      "C": "Stop Prednisolone, continue Fludrocortisone",
+      "D": "Switch to Hydrocortisone",
+      "E": "Switch to Dexamethasone"
+    },
+    "correct": "A",
+    "explanation_md": "Prenatal treatment has been suggested for women who have previously delivered a child with salt wasting CAH and conceive again (with the same partner). In such scenario, the foetus will have 1 in 4 risk of having CAH. In addition, there is 1 in 2 probability of the foetus being a female. This makes it a 1 in 8 probability of the foetus to be female and have CAH.\n\nAscertaining the genotype of foetus with chorionic villous sampling would be ideal although it can not be performed before 10–12 weeks of pregnancy. As the virilisation of female foetus with CAH starts after 6 weeks of conception, an early treatment with dexamethsaone (as it is not inactivated by placental 11 beta HSD2 and crosses placenta) can prevent virilisation of female foetus with CAH (1 in 8 proability). On the other hand, it will be inappropirate to treat a foetus without CAH (7 out of 8 probability of such scenario). Due to ethical issues and safety concerns, prenatal therapy for CAH remains experimental at this stage.\n\nWomen with classic salt wasting CAH need to continue with pre-pregnancy doe of hydrocortisone/prednisolone and fludrocortisone therapy. The steroid dose may need an increase during 2nd and 3rd trimester of pregnancy. Stress doses of steroid therapy are required during labour and immediate post-partum period.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 41,
+    "stem_md": "A 25-year-old Caucasian man was reviewed in the endocrine clinic for further evaluation of his infertility. He had a background history of bronchiectesis and dextrocardia. On examination, he had a BMI of 22 kg/m², with clubbing of the nails and bilateral coarse crepitations at the lung bases. He had scanty body and facial hair, and gynaecomastia.\n\nSemen analysis results:\n| Test | Result |\n|---|---|\n| Semen volume | 4 mL |\n| Sperm count | 30 million/mL |\n| Motility | 5% |\n| Morphology | 10% normal |\n\n**Which one of the following treatment plans is most likely to be successful in dealing with infertility in his clinical context?**",
+    "image": null,
+    "options": {
+      "A": "Clomiphene",
+      "B": "Epididymovasostomy",
+      "C": "GnRH cyclical therapy",
+      "D": "Intracytoplasmic sperm injection",
+      "E": "Testosterone replacement"
+    },
+    "correct": "D",
+    "explanation_md": "ICSI is a procedure in which a single sperm is injected into an egg to fertilize it in vitro. The fertilized egg is subsequently transferred to the uterus for implantation.\n\nThe indications for ICSI are:\n\n- Low count, but normal sperm morphology\n- Poor motility\n- Previous vasectomy\n- Retrograde ejaculation contributing to low sperm count",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 42,
+    "stem_md": "A 52-year-old man presented to his GP with a history of a progressive decline in libido and lack of energy. He had endured a traumatic injury to the testis and pelvic region in a traffic accident about a year previously. On examination, he had a BMI of 22 kg/m², with normal secondary sexual characteristics. He was considered for a trial of testosterone replacement therapy.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 28.5 U/L | 1.4–18.1 |\n| LH | 23.4 U/L | 3.0–8.0 |\n| Serum testosterone | 4.2 nmol/L | 8–32 |\n\n**Which one of the following is an absolute contraindication for the initiation of testosterone therapy?**",
+    "image": null,
+    "options": {
+      "A": "Benign prostate hyperplasia",
+      "B": "Breast carcinoma",
+      "C": "Congestive cardiac failure",
+      "D": "Pituitary apoplexy",
+      "E": "Recurrent prostatis"
+    },
+    "correct": "B",
+    "explanation_md": "Prostate and breast carcinoma are absolute contraindications to testosterone replacement. Benign prostate hyperplasia, polycythaemia, and sleep apnoea are relative contraindications to testosterone therapy.\n\nTestosterone replacement should be started after detailed physical examination, including prostate and breast examination in men aged >45 years. Prostate specific antigen (PSA) and haematocrit should be checked at baseline. The baseline PSA may be low in hypogonadal men on initiation of therapy, although it can potentially increase while patients are on adequate testosterone replacement therapy.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 43,
+    "stem_md": "A 45-year-old man was referred to the endocrine clinic with a progressive decline in his libido, and difficulty in achieving and maintaining an erection for the previous 6 months. He had a background history of diabetes and dyslipidaemia, for which he was on metformin and statin therapy. On examination, he had a BMI of 42 kg/m² with central obesity, although there was no anosmia or proximal myopathy/easy bruisability.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 2.5 U/L | 1.4–18.1 |\n| LH | 3.5 U/L | 3.0–8.0 |\n| Prolactin | 355 mU/L | 45–375 |\n| Serum testosterone | 4.6 nmol/L | 8–32 |\n\n**Which one of the following is the most appropriate step that can potentially help improve his symptoms of erectile dysfunction?**",
+    "image": null,
+    "options": {
+      "A": "β-hCG",
+      "B": "Cabergoline",
+      "C": "GLP-1 analogues",
+      "D": "Testosterone replacement",
+      "E": "Weight loss"
+    },
+    "correct": "E",
+    "explanation_md": "Aromatase enzyme is involved in the conversion of testosterone to oestradiol and located in adipocytes, and brain and vascular endothelium. Increased aromatase activity in obesity leads to raised oestradiol levels, which may result in clinical and biochemical features of hypogonadotrophic hypogonadism due to negative feedback to the hypothalmo–pituitary–gonadal (HPG) axis. Increased visceral adipose tissue is also associated with increased release of cytokines and leads to a pro-inflammatory state, contributing to higher vascular risk. Weight loss has a key role in the management of such patients.",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 44,
+    "stem_md": "A 32-year-old man was reviewed in the infertility clinic (with his partner) for the inability of the female partner to conceive, despite having had unprotected sexual intercourse for the previous 18 months. Neither partner had a history of any systemic illness and was not on any medications. The general physical and systemic examination of both the partners was unremarkable.\n\nSemen analysis results of male partner:\n| Test | Result |\n|---|---|\n| Semen volume | 2.5 mL |\n| Sperm count | 14.2 million/mL |\n| Motility | 62% |\n| Fructose | 195 mg/dL |\n\n**Which one of the following is the correct description of his semen analysis results?**",
+    "image": null,
+    "options": {
+      "A": "Asthenospermia",
+      "B": "Ejaculatory duct obstruction",
+      "C": "Normal results",
+      "D": "Oligospermia",
+      "E": "Teratospermia"
+    },
+    "correct": "D",
+    "explanation_md": "A sperm count of <15 million/mL is considered as oligospermia; it is associated with a reduced rate of fertility (see Table 5.15).\n\n**Table 5.15** Summary of normal/abnormal semen analysis results\n\n| Semen analysis | Normal | Abnormal results |\n|---|---|---|\n| Quantity | 2–7 mL |  |\n| Sperm count | >20 million/mL | Oligospermia <15 million/mL Azoospermia: no spermatozoa in the ejaculate |\n| Motility | ≥50% |  |\n| Morphology | >30% of normal forms | Teratospermia: <30% spermatozoa with normal morphology |",
+    "review": null
+  },
+  {
+    "chapter": 5,
+    "number": 45,
+    "stem_md": "A 24-year-old woman presented with menstrual irregularities and facial hair growth. On examination, she had features of hirsutism, without any Cushinoid phenotypic features.\n\nInvestigations:\n| Test | Result | Reference range |\n|---|---|---|\n| FSH | 5.5 U/L | follicular 0.5–5, mid-cycle 8–33, luteal 2–8 |\n| LH | 19.1 U/L | follicular 3–12, mid-cycle 20–80, luteal 3–16 |\n| Oestradiol | 92 pmol/L | follicular 17–260, luteal 180–1100 |\n| Testosterone | 1.4 nmol/L | <0.5 |\n\n**Which one of the following statements is supportive of a diagnosis of PCOS, based on ultrasonography imaging?**",
+    "image": null,
+    "options": {
+      "A": "More than five follicles measuring >15 mm in size",
+      "B": "Endometrial hyperplasia <5 mm",
+      "C": "Follicular string-of-pearl appearance",
+      "D": "Hypo-echoic central stroma",
+      "E": "Ovarian size <15 cm³"
+    },
+    "correct": "C",
+    "explanation_md": "According to the Rotterdam criteria, the diagnosis of PCOS is based on the presence of two out of three of the following features:\n\n- Menstrual irregularities\n- Clinical and/or biochemical features of hyperandrogenism\n- Ultrasound findings of polycystic ovaries such as:\n  - Bilaterally enlarged ovaries with multiple small follicles (seen in about 50%)\n  - Increased ovarian size (>10 cc)\n  - 12 or more follicles measuring 2–9 mm\n  - Peripheral follicles may have a string-of-pearl appearance\n  - Hypo-echoic ovary without individual cysts (may be seen in about 25%)\n\nThe presence of ovarian cysts on ultrasound of the pelvis is not a prerequisite for the diagnosis. The exact pathogenesis of this syndrome is not yet clear, although ovarian steroidogenesis dysfunction, an imbalance in pituitary/hypothalamic hormone secretion (LH/FSH imbalance), and/or insulin resistance are believed to play a part in the development of this heterogeneous syndrome.",
+    "review": null
+  }
+]
